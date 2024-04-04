@@ -4,7 +4,7 @@ Year,City,% All Families
 2015,Anaheim ,11.8
 2015,Antioch ,11.8
 2015,Apple Valley town,19.3
-2015,Arden-Arcade CDP,13.8
+2015,Arden-Arcade,13.8
 2015,Bakersfield ,14.3
 2015,Baldwin Park ,14.4
 2015,Bellflower ,10.9
@@ -13,7 +13,7 @@ Year,City,% All Families
 2015,Burbank ,9
 2015,Camarillo ,5.4
 2015,Carlsbad ,2.7
-2015,Carmichael CDP,14.3
+2015,Carmichael,14.3
 2015,Carson ,6.4
 2015,Chico ,14.1
 2015,Chino ,10.5
@@ -28,13 +28,13 @@ Year,City,% All Families
 2015,Daly City ,5.9
 2015,Davis ,6.7
 2015,Downey ,7.8
-2015,East Los Angeles CDP,17.2
+2015,East Los Angeles,17.2
 2015,El Cajon ,19.1
 2015,Elk Grove ,6.2
 2015,El Monte ,19.3
 2015,Escondido ,12.7
 2015,Fairfield ,11.3
-2015,Florence-Graham CDP,25.5
+2015,Florence-Graham  ,25.5
 2015,Folsom ,3.1
 2015,Fontana ,14.2
 2015,Fremont ,3.1
@@ -141,7 +141,7 @@ Year,City,% All Families
 2016,Anaheim ,11.1
 2016,Antioch ,11
 2016,Apple Valley town,11.6
-2016,Arden-Arcade CDP,21.6
+2016,Arden-Arcade  ,21.6
 2016,Bakersfield ,15.9
 2016,Baldwin Park ,11.7
 2016,Bellflower ,12.1
@@ -150,9 +150,9 @@ Year,City,% All Families
 2016,Burbank ,6.6
 2016,Camarillo ,6.8
 2016,Carlsbad ,2.8
-2016,Carmichael CDP,10.5
+2016,Carmichael  ,10.5
 2016,Carson ,6.2
-2016,Castro Valley CDP,7
+2016,Castro Valley  ,7
 2016,Chico ,15.4
 2016,Chino ,12.4
 2016,Chino Hills ,5.5
@@ -166,13 +166,13 @@ Year,City,% All Families
 2016,Daly City ,4.9
 2016,Davis ,5.8
 2016,Downey ,6.8
-2016,East Los Angeles CDP,14.7
+2016,East Los Angeles  ,14.7
 2016,El Cajon ,19.2
 2016,Elk Grove ,6.2
 2016,El Monte ,17.9
 2016,Escondido ,12.5
 2016,Fairfield ,8.9
-2016,Florence-Graham CDP,26.1
+2016,Florence-Graham  ,26.1
 2016,Folsom ,4.9
 2016,Fontana ,10.6
 2016,Fremont ,1.6
@@ -279,7 +279,7 @@ Year,City,% All Families
 2017,Anaheim ,13.4
 2017,Antioch ,16.2
 2017,Apple Valley town,17.7
-2017,Arden-Arcade CDP,16.8
+2017,Arden-Arcade  ,16.8
 2017,Bakersfield ,13
 2017,Baldwin Park ,10.1
 2017,Bellflower ,8.2
@@ -288,9 +288,9 @@ Year,City,% All Families
 2017,Burbank ,5.5
 2017,Camarillo ,6
 2017,Carlsbad ,3.8
-2017,Carmichael CDP,10.6
+2017,Carmichael  ,10.6
 2017,Carson ,6.2
-2017,Castro Valley CDP,3.2
+2017,Castro Valley  ,3.2
 2017,Chico ,12.9
 2017,Chino ,9.7
 2017,Chino Hills ,6.9
@@ -304,13 +304,13 @@ Year,City,% All Families
 2017,Daly City ,3.8
 2017,Davis ,3.8
 2017,Downey ,8.5
-2017,East Los Angeles CDP,19.8
+2017,East Los Angeles  ,19.8
 2017,El Cajon ,17.6
 2017,Elk Grove ,5.6
 2017,El Monte ,17.5
 2017,Escondido ,8.7
 2017,Fairfield ,8.4
-2017,Florence-Graham CDP,24.4
+2017,Florence-Graham  ,24.4
 2017,Folsom ,2.7
 2017,Fontana ,11.8
 2017,Fremont ,3.3
@@ -421,7 +421,7 @@ Year,City,% All Families
 2018,Anaheim ,10.2
 2018,Antioch ,12.1
 2018,Apple Valley town,13.4
-2018,Arden-Arcade CDP,16.9
+2018,Arden-Arcade  ,16.9
 2018,Bakersfield ,15.5
 2018,Baldwin Park ,11.4
 2018,Bellflower ,8.4
@@ -430,9 +430,9 @@ Year,City,% All Families
 2018,Burbank ,5.4
 2018,Camarillo ,3
 2018,Carlsbad ,6.7
-2018,Carmichael CDP,11.4
+2018,Carmichael  ,11.4
 2018,Carson ,9.7
-2018,Castro Valley CDP,2.8
+2018,Castro Valley  ,2.8
 2018,Chico ,14.2
 2018,Chino ,4.7
 2018,Chino Hills ,4.1
@@ -446,13 +446,13 @@ Year,City,% All Families
 2018,Daly City ,7.2
 2018,Davis ,6.4
 2018,Downey ,6.1
-2018,East Los Angeles CDP,15.9
+2018,East Los Angeles  ,15.9
 2018,El Cajon ,15.5
 2018,Elk Grove ,7.1
 2018,El Monte ,12.3
 2018,Escondido ,10.7
 2018,Fairfield ,4.6
-2018,Florence-Graham CDP,22.3
+2018,Florence-Graham  ,22.3
 2018,Folsom ,4.7
 2018,Fontana ,9.2
 2018,Fremont ,3
@@ -538,7 +538,7 @@ Year,City,% All Families
 2018,Simi Valley ,4
 2018,South Gate ,14.1
 2018,South San Francisco ,3.3
-2018,South Whittier CDP,6.3
+2018,South Whittier  ,6.3
 2018,Stockton ,16.6
 2018,Sunnyvale ,2.4
 2018,Temecula ,6.4
@@ -565,7 +565,7 @@ Year,City,% All Families
 2019,Anaheim ,9
 2019,Antioch ,13
 2019,Apple Valley town,7.9
-2019,Arden-Arcade CDP,14
+2019,Arden-Arcade  ,14
 2019,Bakersfield ,11.2
 2019,Baldwin Park ,9.5
 2019,Bellflower ,7.4
@@ -574,7 +574,7 @@ Year,City,% All Families
 2019,Burbank ,4.3
 2019,Camarillo ,3.1
 2019,Carlsbad ,2.9
-2019,Carmichael CDP,5.1
+2019,Carmichael  ,5.1
 2019,Carson ,4.6
 2019,Chico ,10.5
 2019,Chino ,4.6
@@ -589,13 +589,13 @@ Year,City,% All Families
 2019,Daly City ,2.4
 2019,Davis ,6.3
 2019,Downey ,7.1
-2019,East Los Angeles CDP,14.3
+2019,East Los Angeles  ,14.3
 2019,El Cajon ,11.8
 2019,Elk Grove ,5.4
 2019,El Monte ,12.7
 2019,Escondido ,13.4
 2019,Fairfield ,7.3
-2019,Florence-Graham CDP,18.1
+2019,Florence-Graham  ,18.1
 2019,Folsom ,3.2
 2019,Fontana ,9.4
 2019,Fremont ,1.8
