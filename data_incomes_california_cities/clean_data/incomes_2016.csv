@@ -1,0 +1,135 @@
+Year,City,Unemployment Rate,Income
+2016,Alameda,3.5,30338
+2016,Alhambra,4.5,27960
+2016,Anaheim,5.7,99255
+2016,Antioch,6.7,34163
+2016,Apple Valley,13.7,24012
+2016,Arden-Arcade,9.2,42909
+2016,Bakersfield,8.8,116507
+2016,Baldwin Park,4.8,16714
+2016,Bellflower,7.0,23038
+2016,Berkeley,4.5,46078
+2016,Buena Park,3.6,23555
+2016,Burbank,7.3,40724
+2016,Camarillo,4.0,23168
+2016,Carlsbad,4.4,41640
+2016,Carmichael,7.5,25154
+2016,Carson,8.0,25790
+2016,Castro Valley,4.9,24034
+2016,Chico,9.4,34985
+2016,Chino,7.7,20149
+2016,Chino Hills,4.8,24026
+2016,Chula Vista,10.1,79639
+2016,Citrus Heights,3.0,34269
+2016,Clovis,6.1,35979
+2016,Compton,9.5,22458
+2016,Concord,5.8,45848
+2016,Corona,6.0,50765
+2016,Costa Mesa,3.2,38127
+2016,Daly City,5.8,32969
+2016,Davis,5.1,23542
+2016,Downey,5.4,32646
+2016,East Los Angeles,8.4,33058
+2016,El Cajon,10.3,32447
+2016,Elk Grove,4.1,51695
+2016,El Monte,6.1,27249
+2016,Escondido,5.9,45367
+2016,Fairfield,6.9,38027
+2016,Florence-Graham,6.6,15084
+2016,Folsom,2.1,27417
+2016,Fontana,6.9,57868
+2016,Fremont,3.2,71599
+2016,Fresno,9.7,166288
+2016,Fullerton,7.4,45635
+2016,Garden Grove,4.8,47718
+2016,Glendale,9.4,75013
+2016,Hawthorne,7.2,28870
+2016,Hayward,3.9,45792
+2016,Hemet,17.9,29465
+2016,Hesperia,9.0,26802
+2016,Huntington Beach,4.0,78998
+2016,Indio,9.5,30887
+2016,Inglewood,8.5,38724
+2016,Irvine,5.9,94321
+2016,Jurupa Valley,8.7,24850
+2016,Laguna Niguel,4.6,24116
+2016,Lake Forest,4.1,29496
+2016,Lakewood,5.6,24806
+2016,Lancaster,6.5,49934
+2016,Livermore,3.8,30749
+2016,Long Beach,6.8,160769
+2016,Los Angeles,6.7,1378844
+2016,Lynwood,7.8,14840
+2016,Manteca,8.6,24828
+2016,Menifee,7.3,29148
+2016,Merced,15.3,24221
+2016,Milpitas,3.0,22870
+2016,Mission Viejo,4.4,33544
+2016,Modesto,9.4,70591
+2016,Moreno Valley,9.2,49785
+2016,Mountain View,4.1,32696
+2016,Murrieta,8.9,31090
+2016,Napa,5.3,30017
+2016,Norwalk,6.2,26883
+2016,Oakland,6.3,158084
+2016,Oceanside,5.0,62661
+2016,Ontario,8.7,49020
+2016,Orange,4.5,43533
+2016,Oxnard,5.5,49895
+2016,Palmdale,8.6,44225
+2016,Palo Alto,4.2,28228
+2016,Pasadena,4.7,55291
+2016,Perris,9.8,17261
+2016,Pittsburg,8.6,20509
+2016,Pleasanton,4.0,29774
+2016,Pomona,8.5,35503
+2016,Rancho Cordova,6.3,24611
+2016,Rancho Cucamonga,7.1,57514
+2016,Redding,6.5,36472
+2016,Redlands,6.1,24217
+2016,Redwood City,2.3,30293
+2016,Rialto,12.5,26445
+2016,Richmond,7.2,34949
+2016,Riverside,8.1,91360
+2016,Roseville,5.5,48500
+2016,Sacramento,7.2,183212
+2016,Salinas,3.6,39274
+2016,San Bernardino,9.0,57920
+2016,San Buenaventura (Ventura),5.1,40630
+2016,San Diego,6.2,495726
+2016,San Francisco,4.5,358703
+2016,San Jose,5.3,320447
+2016,San Leandro,3.1,34977
+2016,San Marcos,7.0,28706
+2016,San Mateo,2.0,38710
+2016,San Ramon,2.9,25847
+2016,Santa Ana,5.7,74294
+2016,Santa Barbara,4.0,36514
+2016,Santa Clara,4.4,44392
+2016,Santa Clarita,5.8,61687
+2016,Santa Maria,4.0,27248
+2016,Santa Monica,6.1,47265
+2016,Santa Rosa,5.0,64202
+2016,Simi Valley,3.9,41020
+2016,South Gate,8.5,23762
+2016,Stockton,11.4,95851
+2016,Sunnyvale,4.6,56245
+2016,Temecula,7.6,32551
+2016,Thousand Oaks,5.0,46830
+2016,Torrance,4.8,53614
+2016,Tracy,5.2,26744
+2016,Turlock,8.4,25137
+2016,Tustin,4.4,27573
+2016,Union City,4.8,21702
+2016,Upland,3.8,27326
+2016,Vacaville,3.2,32697
+2016,Vallejo,10.3,40419
+2016,Victorville,13.4,32803
+2016,Visalia,5.3,41357
+2016,Vista,3.2,30416
+2016,Walnut Creek,6.0,30542
+2016,West Covina,5.5,30803
+2016,Westminster,5.9,27587
+2016,Whittier,4.9,27597
+2016,Yorba Linda,5.1,21941
+2016,Yuba City,8.8,22096

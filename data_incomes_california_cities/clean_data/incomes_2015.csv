@@ -1,0 +1,137 @@
+Year,City,Unemployment Rate,Income
+2015,Alameda,4.3,30710
+2015,Alhambra,4.1,29362
+2015,Anaheim,6.7,99991
+2015,Antioch,7.8,33214
+2015,Apple Valley,11.5,23644
+2015,Arden-Arcade,12.2,43562
+2015,Bakersfield,10.4,114383
+2015,Baldwin Park,4.5,18541
+2015,Bellflower,5.5,21729
+2015,Berkeley,7.0,46277
+2015,Buena Park,8.1,23264
+2015,Burbank,6.4,41633
+2015,Camarillo,5.2,24247
+2015,Carlsbad,4.3,42216
+2015,Carmichael,8.6,25951
+2015,Carson,5.8,24956
+2015,Chico,10.3,34919
+2015,Chino,8.8,17610
+2015,Chino Hills,6.7,25659
+2015,Chula Vista,6.9,79461
+2015,Citrus Heights,8.6,34610
+2015,Clovis,6.1,37621
+2015,Compton,11.5,23978
+2015,Concord,6.8,46885
+2015,Corona,7.3,55011
+2015,Costa Mesa,5.6,42871
+2015,Daly City,7.2,32434
+2015,Davis,4.9,24426
+2015,Downey,4.6,32932
+2015,East Los Angeles,16.2,31853
+2015,El Cajon,11.3,32120
+2015,Elk Grove,6.9,49724
+2015,El Monte,5.5,31474
+2015,Escondido,8.1,45676
+2015,Fairfield,10.7,35392
+2015,Florence-Graham,10.9,14511
+2015,Folsom,5.0,27044
+2015,Fontana,9.5,49811
+2015,Fremont,3.8,73846
+2015,Fresno,10.9,163473
+2015,Fullerton,7.4,46220
+2015,Garden Grove,6.1,47381
+2015,Glendale,8.3,74215
+2015,Hawthorne,7.7,29545
+2015,Hayward,5.6,46909
+2015,Hemet,17.3,27881
+2015,Hesperia,16.1,26458
+2015,Huntington Beach,5.3,75158
+2015,Indio,6.7,28165
+2015,Inglewood,12.4,35250
+2015,Irvine,4.9,91186
+2015,Jurupa Valley,11.6,25741
+2015,Laguna Niguel,3.3,25350
+2015,Lake Forest,4.6,29726
+2015,Lakewood,5.6,26001
+2015,Lancaster,7.1,47372
+2015,Livermore,2.2,30146
+2015,Long Beach,6.0,167660
+2015,Los Angeles,7.2,1360164
+2015,Lynwood,9.6,15616
+2015,Manteca,14.8,23005
+2015,Menifee,7.6,28384
+2015,Merced,15.0,25848
+2015,Milpitas,5.2,22756
+2015,Mission Viejo,5.6,33575
+2015,Modesto,11.9,70114
+2015,Moreno Valley,10.2,52091
+2015,Mountain View,3.2,32514
+2015,Murrieta,11.4,33068
+2015,Napa,3.9,27905
+2015,Newport Beach,4.2,36146
+2015,Norwalk,6.5,27139
+2015,Oakland,7.0,161104
+2015,Oceanside,7.7,64200
+2015,Ontario,7.5,48463
+2015,Orange,7.0,42686
+2015,Oxnard,7.6,50396
+2015,Palmdale,11.9,44629
+2015,Palo Alto,2.6,26030
+2015,Pasadena,5.9,52636
+2015,Perris,10.4,15614
+2015,Pittsburg,10.2,21934
+2015,Pleasanton,3.8,27610
+2015,Pomona,9.4,40843
+2015,Rancho Cordova,10.7,24656
+2015,Rancho Cucamonga,6.7,54106
+2015,Redding,5.2,36937
+2015,Redlands,7.6,24203
+2015,Redondo Beach,5.5,29119
+2015,Redwood City,4.0,31716
+2015,Rialto,12.3,26750
+2015,Richmond,7.9,37778
+2015,Riverside,8.0,92408
+2015,Roseville,5.6,47520
+2015,Sacramento,8.2,177131
+2015,Salinas,6.5,41925
+2015,San Bernardino,10.7,57585
+2015,San Buenaventura (Ventura),6.7,40166
+2015,San Clemente,4.2,24662
+2015,San Diego,6.9,497663
+2015,San Francisco,5.1,356916
+2015,San Jose,6.1,323133
+2015,San Leandro,5.5,32325
+2015,San Marcos,3.5,29407
+2015,San Mateo,3.7,38658
+2015,San Ramon,3.8,24569
+2015,Santa Ana,5.8,72177
+2015,Santa Barbara,4.1,36016
+2015,Santa Clara,4.1,43971
+2015,Santa Clarita,6.4,59863
+2015,Santa Maria,6.4,27144
+2015,Santa Monica,6.3,45678
+2015,Santa Rosa,6.0,63648
+2015,Simi Valley,5.4,40269
+2015,South Gate,10.7,24276
+2015,South San Francisco,5.3,19995
+2015,Stockton,11.8,94561
+2015,Sunnyvale,5.2,55157
+2015,Temecula,6.9,33487
+2015,Thousand Oaks,6.8,45593
+2015,Torrance,5.3,54436
+2015,Tracy,7.5,25423
+2015,Turlock,7.3,25993
+2015,Tustin,5.0,24433
+2015,Union City,4.4,21306
+2015,Upland,3.9,27427
+2015,Vacaville,7.3,31103
+2015,Vallejo,10.2,42429
+2015,Victorville,16.7,33774
+2015,Visalia,6.2,41345
+2015,Vista,6.1,28142
+2015,West Covina,7.1,30233
+2015,Westminster,4.8,28002
+2015,Whittier,5.3,27548
+2015,Yorba Linda,3.6,22559
+2015,Yuba City,13.8,22787

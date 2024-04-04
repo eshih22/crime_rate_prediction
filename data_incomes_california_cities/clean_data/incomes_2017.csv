@@ -1,0 +1,137 @@
+Year,City,Unemployment Rate,Income
+2017,Alameda,3.3,30662
+2017,Alhambra,4.0,30255
+2017,Anaheim,4.9,98734
+2017,Antioch,9.2,34423
+2017,Apple Valley,10.5,24050
+2017,Arden-Arcade,4.9,40788
+2017,Bakersfield,8.7,118508
+2017,Baldwin Park,5.5,17725
+2017,Bellflower,5.6,24796
+2017,Berkeley,5.5,43770
+2017,Buena Park,4.3,23627
+2017,Burbank,6.3,40981
+2017,Camarillo,5.3,25361
+2017,Carlsbad,4.0,45588
+2017,Carmichael,5.4,25537
+2017,Carson,6.8,26070
+2017,Castro Valley,3.8,21977
+2017,Chico,6.7,37547
+2017,Chino,4.0,20484
+2017,Chino Hills,5.8,23170
+2017,Chula Vista,10.5,80417
+2017,Citrus Heights,6.0,33598
+2017,Clovis,4.7,35855
+2017,Compton,8.4,23360
+2017,Concord,4.4,45868
+2017,Corona,4.3,47942
+2017,Costa Mesa,3.5,40927
+2017,Daly City,4.4,29162
+2017,Davis,9.0,23271
+2017,Downey,6.4,33578
+2017,East Los Angeles,6.8,31910
+2017,El Cajon,7.4,33587
+2017,Elk Grove,5.5,53661
+2017,El Monte,5.3,27987
+2017,Escondido,3.4,46250
+2017,Fairfield,6.0,37324
+2017,Florence-Graham,5.8,14918
+2017,Folsom,3.6,28094
+2017,Fontana,7.3,52767
+2017,Fremont,4.2,72148
+2017,Fresno,9.2,169409
+2017,Fullerton,6.9,45632
+2017,Garden Grove,2.8,48036
+2017,Glendale,5.4,74613
+2017,Hawthorne,6.5,29450
+2017,Hayward,3.4,46860
+2017,Hemet,11.6,29725
+2017,Hesperia,13.1,25398
+2017,Huntington Beach,4.0,77155
+2017,Indio,9.4,35675
+2017,Inglewood,6.4,35788
+2017,Irvine,4.0,97161
+2017,Jurupa Valley,7.0,23784
+2017,Laguna Niguel,4.3,26133
+2017,Lake Forest,5.1,29519
+2017,Lakewood,4.9,25186
+2017,Lancaster,5.0,48327
+2017,Livermore,2.3,33085
+2017,Lodi,8.8,22454
+2017,Long Beach,6.5,167447
+2017,Los Angeles,6.3,1384851
+2017,Lynwood,9.3,15263
+2017,Manteca,5.5,24573
+2017,Menifee,6.6,28891
+2017,Merced,10.9,26278
+2017,Milpitas,2.4,22128
+2017,Mission Viejo,5.1,33936
+2017,Modesto,8.2,72621
+2017,Moreno Valley,9.0,48908
+2017,Mountain View,2.9,33177
+2017,Murrieta,8.6,32407
+2017,Newport Beach,2.4,37968
+2017,Norwalk,5.8,27661
+2017,Oakland,6.9,158851
+2017,Oceanside,5.8,61138
+2017,Ontario,7.1,50572
+2017,Orange,3.0,42663
+2017,Oxnard,6.5,52717
+2017,Palmdale,7.5,42005
+2017,Palo Alto,2.9,25439
+2017,Pasadena,3.3,54177
+2017,Perris,10.2,15947
+2017,Pittsburg,8.1,20784
+2017,Pleasanton,2.4,30435
+2017,Pomona,6.1,38980
+2017,Rancho Cordova,8.9,25850
+2017,Rancho Cucamonga,5.0,52731
+2017,Redding,3.4,38036
+2017,Redlands,5.3,26264
+2017,Redondo Beach,3.0,28081
+2017,Redwood City,2.2,32344
+2017,Rialto,9.7,26699
+2017,Richmond,6.5,37029
+2017,Riverside,7.4,86905
+2017,Roseville,4.6,50198
+2017,Sacramento,8.2,189193
+2017,Salinas,4.6,41218
+2017,San Bernardino,11.4,60714
+2017,San Buenaventura (Ventura),6.4,41338
+2017,San Diego,5.7,504208
+2017,San Francisco,3.8,360323
+2017,San Jose,4.5,321913
+2017,San Leandro,6.5,33458
+2017,San Marcos,2.9,29611
+2017,San Mateo,3.5,39660
+2017,San Ramon,2.9,24317
+2017,Santa Ana,4.7,76650
+2017,Santa Barbara,3.9,40145
+2017,Santa Clara,2.9,43159
+2017,Santa Clarita,5.0,67564
+2017,Santa Cruz,9.4,23585
+2017,Santa Maria,4.2,27968
+2017,Santa Monica,6.2,45258
+2017,Santa Rosa,4.2,64155
+2017,Simi Valley,5.3,40822
+2017,South Gate,10.3,24019
+2017,Stockton,6.6,91392
+2017,Sunnyvale,4.1,55024
+2017,Temecula,6.2,34277
+2017,Thousand Oaks,3.1,46017
+2017,Torrance,5.0,54327
+2017,Tracy,4.0,25830
+2017,Turlock,7.9,25562
+2017,Tustin,2.9,27780
+2017,Union City,2.6,22684
+2017,Upland,8.6,25582
+2017,Vacaville,4.8,34017
+2017,Vallejo,9.5,41719
+2017,Victorville,14.0,35088
+2017,Visalia,4.8,43785
+2017,Vista,3.9,31618
+2017,West Covina,6.4,29807
+2017,Westminster,5.9,28876
+2017,Whittier,3.1,26722
+2017,Yorba Linda,3.8,22410
+2017,Yuba City,7.2,22172
