@@ -1,0 +1,136 @@
+Year,City,Unemployment Rate,Income
+2013,Alameda,7.6,29846
+2013,Alhambra,8.1,30595
+2013,Anaheim,9.9,99302
+2013,Antioch,11.2,34223
+2013,Apple Valley,14.2,23885
+2013,Arden-Arcade,16.6,40190
+2013,Bakersfield,9.9,111136
+2013,Baldwin Park,12.4,17758
+2013,Bellflower,11.2,22988
+2013,Berkeley,8.8,46030
+2013,Buena Park,5.9,23151
+2013,Burbank,8.9,42757
+2013,Camarillo,5.5,23370
+2013,Carlsbad,8.6,43572
+2013,Carmichael,12.8,26047
+2013,Carson,12.8,25239
+2013,Chico,6.4,35302
+2013,Chino,10.2,19107
+2013,Chino Hills,7.8,23398
+2013,Chula Vista,9.4,76687
+2013,Citrus Heights,11.6,32916
+2013,Clovis,8.3,32778
+2013,Compton,17.4,22811
+2013,Concord,9.2,45531
+2013,Corona,8.4,48285
+2013,Costa Mesa,6.7,40177
+2013,Daly City,5.6,32096
+2013,Davis,5.6,24871
+2013,Downey,6.8,31998
+2013,East Los Angeles,15.4,32464
+2013,El Cajon,12.1,32581
+2013,Elk Grove,13.1,48838
+2013,El Monte,11.1,31419
+2013,Escondido,9.5,44668
+2013,Fairfield,13.4,34112
+2013,Folsom,7.6,25789
+2013,Fontana,12.2,46968
+2013,Fremont,6.5,74204
+2013,Fresno,13.5,161474
+2013,Fullerton,8.5,44304
+2013,Garden Grove,9.1,46034
+2013,Glendale,8.8,70660
+2013,Hawthorne,12.4,29038
+2013,Hayward,10.5,46879
+2013,Hemet,21.0,30364
+2013,Hesperia,14.4,25290
+2013,Huntington Beach,6.0,74461
+2013,Indio,12.9,26368
+2013,Inglewood,17.6,36681
+2013,Irvine,7.0,84808
+2013,Jurupa Valley,14.7,24998
+2013,Lake Forest,4.5,26534
+2013,Lakewood,5.9,25341
+2013,Lancaster,9.2,50583
+2013,Livermore,4.8,29509
+2013,Long Beach,11.5,165125
+2013,Los Angeles,10.7,1320167
+2013,Lynwood,9.1,15031
+2013,Manteca,12.6,21845
+2013,Menifee,12.8,27774
+2013,Merced,22.2,24848
+2013,Milpitas,10.8,20668
+2013,Mission Viejo,6.7,34809
+2013,Modesto,14.7,69496
+2013,Moreno Valley,13.9,50253
+2013,Murrieta,11.6,33271
+2013,Napa,7.8,27476
+2013,Newport Beach,8.0,37332
+2013,Norwalk,7.7,27085
+2013,Oakland,12.5,154214
+2013,Oceanside,9.0,63130
+2013,Ontario,11.1,47233
+2013,Orange,5.9,41979
+2013,Oxnard,8.5,50820
+2013,Palmdale,13.0,44467
+2013,Palo Alto,7.8,26315
+2013,Pasadena,9.2,54352
+2013,Perris,18.4,16881
+2013,Pittsburg,12.5,21368
+2013,Pleasanton,4.9,26500
+2013,Pomona,11.3,39470
+2013,Rancho Cordova,13.6,24032
+2013,Rancho Cucamonga,11.6,54674
+2013,Redding,9.0,35087
+2013,Redlands,6.8,23956
+2013,Redondo Beach,6.9,28521
+2013,Redwood City,4.6,28091
+2013,Rialto,10.5,25482
+2013,Richmond,10.9,36004
+2013,Riverside,12.8,89596
+2013,Roseville,7.2,45988
+2013,Sacramento,12.5,175350
+2013,Salinas,9.5,40369
+2013,San Bernardino,16.6,56274
+2013,San Buenaventura (Ventura),7.3,41793
+2013,San Clemente,7.2,24902
+2013,San Diego,8.9,480730
+2013,San Francisco,7.3,354651
+2013,San Jose,9.4,314210
+2013,San Leandro,8.3,32580
+2013,San Marcos,4.6,29636
+2013,San Mateo,6.6,38499
+2013,San Ramon,5.4,25017
+2013,Santa Ana,9.4,76284
+2013,Santa Barbara,8.3,34423
+2013,Santa Clara,6.5,43279
+2013,Santa Clarita,10.9,59940
+2013,Santa Maria,5.1,27198
+2013,Santa Monica,7.8,48280
+2013,Santa Rosa,8.8,64997
+2013,Simi Valley,6.4,42958
+2013,South Gate,11.9,23076
+2013,South San Francisco,9.4,19958
+2013,South Whittier,6.6,15763
+2013,Stockton,15.4,90883
+2013,Sunnyvale,6.5,56034
+2013,Temecula,9.0,31802
+2013,Thousand Oaks,8.4,46716
+2013,Torrance,7.5,56789
+2013,Tracy,10.3,25150
+2013,Turlock,14.0,23333
+2013,Tustin,6.7,25415
+2013,Union City,8.1,20006
+2013,Upland,6.9,27452
+2013,Vacaville,8.4,30325
+2013,Vallejo,14.8,41895
+2013,Victorville,12.7,31317
+2013,Visalia,11.9,42999
+2013,Vista,5.3,33065
+2013,Walnut Creek,7.6,30189
+2013,West Covina,13.2,30801
+2013,Westminster,8.7,27154
+2013,Whittier,7.2,27299
+2013,Yorba Linda,8.7,21955
+2013,Yuba City,14.6,20950
