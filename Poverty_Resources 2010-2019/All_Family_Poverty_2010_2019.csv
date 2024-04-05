@@ -1,0 +1,1370 @@
+Year,City,% All Families
+2010,Alameda,9.6
+2010,Alhambra,10.7
+2010,Anaheim,12.4
+2010,Antioch,8
+2010,Apple Valley,10.4
+2010,Arden-Arcade,15.2
+2010,Bakersfield,14.9
+2010,Baldwin Park,15.6
+2010,Bellflower,15.8
+2010,Berkeley,8.3
+2010,Buena Park,9
+2010,Burbank,5.7
+2010,Camarillo,3.7
+2010,Carlsbad,9.3
+2010,Carson,8.9
+2010,Chico,10.6
+2010,Chino,5.7
+2010,Chino Hills,2.4
+2010,Chula Vista,6.8
+2010,Citrus Heights,9.3
+2010,Clovis,7.6
+2010,Compton,19.8
+2010,Concord,7.5
+2010,Corona,8.1
+2010,Costa Mesa,12.8
+2010,Daly City,6.6
+2010,Davis,6.7
+2010,Downey,7.5
+2010,East Los Angeles,20.5
+2010,El Cajon,24.7
+2010,Elk Grove,7.8
+2010,El Monte,19.9
+2010,Escondido,15.6
+2010,Fairfield,9.5
+2010,Folsom,2.8
+2010,Fontana,14.4
+2010,Fremont,4.7
+2010,Fresno,24.4
+2010,Fullerton,11.1
+2010,Garden Grove,10.9
+2010,Glendale,10.9
+2010,Hawthorne,15.2
+2010,Hayward,11.9
+2010,Hemet,16.8
+2010,Hesperia,15.2
+2010,Huntington Beach,5
+2010,Indio,23.3
+2010,Inglewood,20.4
+2010,Irvine,6.6
+2010,Lake Forest,6.3
+2010,Lakewood,8.3
+2010,Lancaster,17.3
+2010,Livermore,2.8
+2010,Long Beach,15.1
+2010,Los Angeles,17.6
+2010,Lynwood,21.1
+2010,Manteca,7
+2010,Menifee,8.5
+2010,Merced,19.7
+2010,Milpitas,3.4
+2010,Mission Viejo,2.8
+2010,Modesto,17.1
+2010,Moreno Valley,17.4
+2010,Mountain View,2.1
+2010,Murrieta,8.1
+2010,Napa,12.8
+2010,Newport Beach,6.2
+2010,Norwalk,12.9
+2010,Oakland,18
+2010,Oceanside,10.4
+2010,Ontario,13.8
+2010,Orange,8
+2010,Oxnard,13.4
+2010,Palmdale,15.1
+2010,Pasadena,6.6
+2010,Perris,24.7
+2010,Pittsburg,13.5
+2010,Pleasanton,3.6
+2010,Pomona,19.5
+2010,Rancho Cucamonga,3.6
+2010,Redding,16.4
+2010,Redlands,7.2
+2010,Redondo Beach,3.4
+2010,Redwood City,4
+2010,Rialto,17.1
+2010,Richmond,15.8
+2010,Riverside,12.3
+2010,Roseville,5.4
+2010,Sacramento,16.4
+2010,Salinas,19.7
+2010,San Bernardino,28
+2010,San Buenaventura (Ventura),7
+2010,San Diego,12.7
+2010,San Francisco,7.6
+2010,San Jose,8.7
+2010,San Leandro,9.6
+2010,San Marcos,11
+2010,San Mateo,3.2
+2010,San Ramon,1.7
+2010,Santa Ana,18.5
+2010,Santa Barbara,11.7
+2010,Santa Clara,5.7
+2010,Santa Clarita,4.5
+2010,Santa Maria,16.5
+2010,Santa Monica,4.5
+2010,Santa Rosa,9.2
+2010,Simi Valley,4.6
+2010,South Gate,23.1
+2010,Stockton,19.7
+2010,Sunnyvale,4.5
+2010,Temecula,11.1
+2010,Thousand Oaks,5.2
+2010,Torrance,6
+2010,Tracy,12.5
+2010,Turlock,11.3
+2010,Tustin,10.6
+2010,Union City,5.4
+2010,Upland,9.8
+2010,Vacaville,4.1
+2010,Vallejo,14.7
+2010,Victorville,16.9
+2010,Visalia,14.7
+2010,Vista,8.8
+2010,West Covina,6
+2010,Westminster,17.3
+2010,Whittier,11.9
+2010,Yorba Linda,1.4
+2011,Alameda,6.6
+2011,Alhambra,11.2
+2011,Anaheim,12.8
+2011,Antioch,10.1
+2011,Apple Valley,15
+2011,Arden-Arcade,14.4
+2011,Bakersfield,18.2
+2011,Baldwin Park,16.6
+2011,Bellflower,15.3
+2011,Berkeley,9.8
+2011,Buena Park,8.8
+2011,Burbank,4.5
+2011,Camarillo,5.9
+2011,Carlsbad,11.7
+2011,Carson,5.3
+2011,Chico,14.9
+2011,Chino,9.2
+2011,Chino Hills,4.8
+2011,Chula Vista,9.9
+2011,Citrus Heights,11.7
+2011,Clovis,7.9
+2011,Compton,26.1
+2011,Concord,12.8
+2011,Corona,9.3
+2011,Costa Mesa,11.7
+2011,Daly City,6.1
+2011,Davis,11.4
+2011,Downey,9.3
+2011,East Los Angeles,28.2
+2011,El Cajon,19.2
+2011,Elk Grove,6
+2011,El Monte,23.8
+2011,Escondido,16.3
+2011,Fairfield,11.5
+2011,Florence-Graham,33.8
+2011,Folsom,1.6
+2011,Fontana,12.4
+2011,Fremont,4.2
+2011,Fresno,23.8
+2011,Fullerton,13.7
+2011,Garden Grove,14.3
+2011,Glendale,11.3
+2011,Hawthorne,19.1
+2011,Hayward,11.3
+2011,Hemet,21.2
+2011,Hesperia,18.8
+2011,Huntington Beach,6.8
+2011,Indio,18.6
+2011,Inglewood,20
+2011,Irvine,5.4
+2011,Lake Forest,4.3
+2011,Lakewood,4.8
+2011,Lancaster,16.5
+2011,Livermore,5.2
+2011,Long Beach,17.1
+2011,Los Angeles,18.4
+2011,Lynwood,22.7
+2011,Manteca,8.7
+2011,Menifee,4.2
+2011,Merced,22.5
+2011,Milpitas,4.3
+2011,Mission Viejo,3.9
+2011,Modesto,19.9
+2011,Moreno Valley,17.6
+2011,Mountain View,10.6
+2011,Murrieta,4.2
+2011,Napa,8.6
+2011,Newport Beach,7.6
+2011,Norwalk,13.2
+2011,Oakland,17.2
+2011,Oceanside,9.6
+2011,Ontario,18.4
+2011,Orange,10.7
+2011,Oxnard,12
+2011,Palmdale,20.3
+2011,Palo Alto,2.4
+2011,Pasadena,5.4
+2011,Perris,34.1
+2011,Pittsburg,17.7
+2011,Pleasanton,5.3
+2011,Pomona,17.5
+2011,Rancho Cordova,9
+2011,Rancho Cucamonga,5.5
+2011,Redding,16.6
+2011,Redlands,8.2
+2011,Redondo Beach,1.8
+2011,Redwood City,6.2
+2011,Rialto,19.4
+2011,Richmond,16.4
+2011,Riverside,15.3
+2011,Roseville,4.6
+2011,Sacramento,18.5
+2011,Salinas,18.4
+2011,San Bernardino,27.7
+2011,San Buenaventura (Ventura),8.6
+2011,San Diego,11.2
+2011,San Francisco,8.5
+2011,San Jose,8.3
+2011,San Leandro,8.8
+2011,San Marcos,12.6
+2011,San Mateo,3.1
+2011,San Ramon,3.7
+2011,Santa Ana,18.2
+2011,Santa Barbara,10.3
+2011,Santa Clara,5.2
+2011,Santa Clarita,5.1
+2011,Santa Maria,15.1
+2011,Santa Monica,6
+2011,Santa Rosa,9.6
+2011,Simi Valley,3
+2011,South Gate,18
+2011,Stockton,21.6
+2011,Sunnyvale,4.9
+2011,Temecula,9.7
+2011,Thousand Oaks,5.1
+2011,Torrance,5.3
+2011,Tracy,5.4
+2011,Turlock,12
+2011,Tustin,6.8
+2011,Union City,6.3
+2011,Upland,9.7
+2011,Vacaville,8.9
+2011,Vallejo,14.5
+2011,Victorville,24.5
+2011,Visalia,14.7
+2011,Vista,15.8
+2011,Walnut Creek,3.4
+2011,West Covina,8
+2011,Westminster,11
+2011,Whittier,10.3
+2011,Yorba Linda,2.8
+2011,Yuba City,13.7
+2012,Alameda,5.2
+2012,Alhambra,9.8
+2012,Anaheim,15.5
+2012,Antioch,14.3
+2012,Apple Valley,23.9
+2012,Arden-Arcade,16.9
+2012,Bakersfield,16.9
+2012,Baldwin Park,18.5
+2012,Bellflower,17.4
+2012,Berkeley,9.5
+2012,Buena Park,7.9
+2012,Burbank,8.4
+2012,Camarillo,2.8
+2012,Carlsbad,12.3
+2012,Carson,8.3
+2012,Chico,14.7
+2012,Chino,10.5
+2012,Chino Hills,10.1
+2012,Chula Vista,10.4
+2012,Citrus Heights,10.9
+2012,Clovis,15.7
+2012,Compton,25.6
+2012,Concord,7.7
+2012,Corona,8.8
+2012,Costa Mesa,9.7
+2012,Daly City,4.7
+2012,Davis,3.9
+2012,Downey,10.7
+2012,East Los Angeles,27.9
+2012,El Cajon,21.1
+2012,Elk Grove,8.6
+2012,El Monte,23.3
+2012,Escondido,17.2
+2012,Fairfield,10
+2012,Florence-Graham,33.3
+2012,Folsom,1.2
+2012,Fontana,13
+2012,Fremont,4
+2012,Fresno,26.6
+2012,Fullerton,10.3
+2012,Garden Grove,14.5
+2012,Glendale,9.2
+2012,Hawthorne,21.1
+2012,Hayward,14.6
+2012,Hemet,22.7
+2012,Hesperia,25.4
+2012,Huntington Beach,7.3
+2012,Indio,16
+2012,Inglewood,18.1
+2012,Irvine,6.1
+2012,Jurupa Valley,19.3
+2012,Lake Forest,4.6
+2012,Lakewood,6.1
+2012,Lancaster,21.3
+2012,Livermore,3.7
+2012,Long Beach,19
+2012,Los Angeles,18.9
+2012,Lynwood,23.8
+2012,Manteca,12.2
+2012,Menifee,8.5
+2012,Merced,25.7
+2012,Milpitas,8.2
+2012,Mission Viejo,4.5
+2012,Modesto,15.9
+2012,Moreno Valley,18.1
+2012,Mountain View,6.5
+2012,Murrieta,7.7
+2012,Napa,6.4
+2012,Newport Beach,4.9
+2012,Norwalk,10.3
+2012,Oakland,19.5
+2012,Oceanside,8.8
+2012,Ontario,13.9
+2012,Orange,9.1
+2012,Oxnard,14.9
+2012,Palmdale,20.2
+2012,Palo Alto,3.3
+2012,Pasadena,9.4
+2012,Perris,25.1
+2012,Pittsburg,18.9
+2012,Pleasanton,2.5
+2012,Pomona,18.5
+2012,Rancho Cordova,17.9
+2012,Rancho Cucamonga,8
+2012,Redding,11.9
+2012,Redlands,9.4
+2012,Redondo Beach,4.8
+2012,Redwood City,4.8
+2012,Rialto,19.3
+2012,Richmond,15.7
+2012,Riverside,14.6
+2012,Roseville,6.6
+2012,Sacramento,19.1
+2012,Salinas,17.8
+2012,San Bernardino,26.5
+2012,San Buenaventura (Ventura),7.1
+2012,San Diego,10.7
+2012,San Francisco,9
+2012,San Jose,9.6
+2012,San Leandro,3.9
+2012,San Marcos,22
+2012,San Mateo,4.7
+2012,San Ramon,2.6
+2012,Santa Ana,18.9
+2012,Santa Barbara,6.3
+2012,Santa Clara,7.2
+2012,Santa Clarita,8.8
+2012,Santa Maria,20.4
+2012,Santa Monica,6.1
+2012,Santa Rosa,9.5
+2012,Simi Valley,6.4
+2012,South Gate,21.2
+2012,South San Francisco,6.5
+2012,Stockton,20.7
+2012,Sunnyvale,5.1
+2012,Temecula,5.4
+2012,Thousand Oaks,5.1
+2012,Torrance,4.1
+2012,Tracy,5
+2012,Turlock,12
+2012,Tustin,10.9
+2012,Union City,5.8
+2012,Upland,14.5
+2012,Vacaville,10.9
+2012,Vallejo,15.2
+2012,Victorville,21.1
+2012,Visalia,20.9
+2012,Vista,14.3
+2012,Walnut Creek,N
+2012,West Covina,9.3
+2012,Westminster,14.5
+2012,Whittier,9.4
+2012,Yorba Linda,1.9
+2012,Yuba City,17.6
+2013,Alameda,10.4
+2013,Alhambra,14.7
+2013,Anaheim,15.6
+2013,Antioch,12.4
+2013,Apple Valley,17.1
+2013,Arden-Arcade,15.8
+2013,Bakersfield,17.3
+2013,Baldwin Park,12.2
+2013,Bellflower,13.2
+2013,Berkeley,4.3
+2013,Buena Park,12.1
+2013,Burbank,7.4
+2013,Camarillo,2.2
+2013,Carlsbad,9.5
+2013,Carmichael,10.1
+2013,Carson,8.6
+2013,Chico,13.7
+2013,Chino,7.2
+2013,Chino Hills,2.4
+2013,Chula Vista,13.3
+2013,Citrus Heights,12.2
+2013,Clovis,11.5
+2013,Compton,24.7
+2013,Concord,11
+2013,Corona,11.1
+2013,Costa Mesa,8.5
+2013,Daly City,5.9
+2013,Davis,4.5
+2013,Downey,9.5
+2013,East Los Angeles,25.9
+2013,El Cajon,26.1
+2013,Elk Grove,8.7
+2013,El Monte,25.4
+2013,Escondido,16.7
+2013,Fairfield,11
+2013,Folsom,N
+2013,Fontana,13
+2013,Fremont,4.7
+2013,Fresno,26.5
+2013,Fullerton,12.2
+2013,Garden Grove,14.2
+2013,Glendale,13.6
+2013,Hawthorne,16
+2013,Hayward,10.7
+2013,Hemet,22.9
+2013,Hesperia,21.6
+2013,Huntington Beach,6.6
+2013,Indio,15.5
+2013,Inglewood,17.7
+2013,Irvine,7.1
+2013,Jurupa Valley,11.3
+2013,Lake Forest,5.1
+2013,Lakewood,4.9
+2013,Lancaster,18
+2013,Livermore,5.2
+2013,Long Beach,16.7
+2013,Los Angeles,18.5
+2013,Lynwood,27
+2013,Manteca,10.1
+2013,Menifee,7.2
+2013,Merced,28.2
+2013,Milpitas,8.4
+2013,Mission Viejo,2.5
+2013,Modesto,17.2
+2013,Moreno Valley,16.7
+2013,Mountain View,6.2
+2013,Murrieta,7.1
+2013,Napa,5.7
+2013,Newport Beach,5
+2013,Norwalk,9.4
+2013,Oakland,14.1
+2013,Oceanside,12.6
+2013,Ontario,17.1
+2013,Orange,9.6
+2013,Oxnard,14.9
+2013,Palmdale,17.1
+2013,Palo Alto,7
+2013,Pasadena,9.6
+2013,Perris,13.9
+2013,Pittsburg,10.1
+2013,Pleasanton,3.8
+2013,Pomona,16.2
+2013,Rancho Cordova,11.9
+2013,Rancho Cucamonga,6.4
+2013,Redding,11.2
+2013,Redlands,9.5
+2013,Redondo Beach,2.4
+2013,Redwood City,6
+2013,Rialto,16
+2013,Richmond,13.8
+2013,Riverside,15.3
+2013,Roseville,5.2
+2013,Sacramento,19.7
+2013,Salinas,16.5
+2013,San Bernardino,29.8
+2013,San Buenaventura (Ventura),5.3
+2013,San Clemente,6.8
+2013,San Diego,11
+2013,San Francisco,7.8
+2013,San Jose,9.1
+2013,San Leandro,10.4
+2013,San Marcos,8
+2013,San Mateo,4.4
+2013,San Ramon,3.2
+2013,Santa Ana,20.8
+2013,Santa Barbara,7.1
+2013,Santa Clara,5.1
+2013,Santa Clarita,8.1
+2013,Santa Maria,17.3
+2013,Santa Monica,5.4
+2013,Santa Rosa,9.6
+2013,Simi Valley,3.7
+2013,South Gate,17.2
+2013,South San Francisco,5.6
+2013,South Whittier,14.3
+2013,Stockton,23
+2013,Sunnyvale,4.9
+2013,Temecula,5.6
+2013,Thousand Oaks,4.7
+2013,Torrance,6.2
+2013,Tracy,6.3
+2013,Turlock,15.4
+2013,Tustin,7.8
+2013,Union City,5.5
+2013,Upland,11.1
+2013,Vacaville,8
+2013,Vallejo,12.2
+2013,Victorville,20.9
+2013,Visalia,18.6
+2013,Vista,13
+2013,Walnut Creek,4.7
+2013,West Covina,6.4
+2013,Westminster,17.9
+2013,Whittier,12.4
+2013,Yorba Linda,2.2
+2013,Yuba City,17.8
+2014,Alameda,6.3
+2014,Alhambra,13.6
+2014,Anaheim,12.3
+2014,Antioch,12.5
+2014,Apple Valley,10.5
+2014,Arden-Arcade,16.8
+2014,Bakersfield,16.5
+2014,Baldwin Park,14.3
+2014,Bellflower,10.8
+2014,Berkeley,7.7
+2014,Buena Park,12.3
+2014,Burbank,6.3
+2014,Camarillo,3
+2014,Carlsbad,3.4
+2014,Carmichael,11.6
+2014,Carson,11.2
+2014,Chico,10.4
+2014,Chino,7.1
+2014,Chino Hills,7.7
+2014,Chula Vista,10.5
+2014,Citrus Heights,11.5
+2014,Clovis,12
+2014,Compton,20.3
+2014,Concord,10.4
+2014,Corona,8.6
+2014,Costa Mesa,11.2
+2014,Daly City,8.5
+2014,Davis,5.5
+2014,Downey,11
+2014,East Los Angeles,24.8
+2014,El Cajon,20.4
+2014,Elk Grove,8.8
+2014,El Monte,17.8
+2014,Escondido,15.8
+2014,Fairfield,9.4
+2014,Folsom,2.2
+2014,Fontana,16.7
+2014,Fremont,4.1
+2014,Fresno,24.1
+2014,Fullerton,10.5
+2014,Garden Grove,12.6
+2014,Glendale,14.1
+2014,Hawthorne,12.9
+2014,Hayward,9.1
+2014,Hemet,24.8
+2014,Hesperia,15.9
+2014,Huntington Beach,6
+2014,Indio,16.4
+2014,Inglewood,19.5
+2014,Irvine,8.4
+2014,Jurupa Valley,14.3
+2014,Laguna Niguel,4.9
+2014,Lake Forest,3.5
+2014,Lakewood,2.6
+2014,Lancaster,24.7
+2014,Livermore,2.2
+2014,Long Beach,16.5
+2014,Los Angeles,18.2
+2014,Lynwood,26.6
+2014,Manteca,9.6
+2014,Menifee,10.3
+2014,Merced,25.3
+2014,Milpitas,4.6
+2014,Mission Viejo,1.9
+2014,Modesto,14.6
+2014,Moreno Valley,16.2
+2014,Mountain View,3.7
+2014,Murrieta,6.5
+2014,Napa,5.3
+2014,Newport Beach,3.4
+2014,Norwalk,10
+2014,Oakland,15.6
+2014,Oceanside,12.5
+2014,Ontario,13.1
+2014,Orange,9.9
+2014,Oxnard,11.8
+2014,Palmdale,17.1
+2014,Palo Alto,3.6
+2014,Pasadena,11.1
+2014,Perris,22.4
+2014,Pittsburg,11.1
+2014,Pleasanton,1.8
+2014,Pomona,19.9
+2014,Rancho Cordova,11.4
+2014,Rancho Cucamonga,8.4
+2014,Redding,7.1
+2014,Redlands,11.1
+2014,Redondo Beach,4
+2014,Redwood City,6.3
+2014,Rialto,18.2
+2014,Richmond,13.5
+2014,Riverside,13.5
+2014,Roseville,6.5
+2014,Sacramento,16.4
+2014,Salinas,16.1
+2014,San Bernardino,28.6
+2014,San Buenaventura (Ventura),9.1
+2014,San Clemente,2.1
+2014,San Diego,11.2
+2014,San Francisco,6.5
+2014,San Jose,6.5
+2014,San Leandro,7
+2014,San Marcos,13.1
+2014,San Mateo,4.5
+2014,San Ramon,2.4
+2014,Santa Ana,20.1
+2014,Santa Barbara,11
+2014,Santa Clara,3.3
+2014,Santa Clarita,6.1
+2014,Santa Maria,19.1
+2014,Santa Monica,4.3
+2014,Santa Rosa,8.2
+2014,Simi Valley,5.8
+2014,South Gate,20.5
+2014,South San Francisco,1.8
+2014,Stockton,23.6
+2014,Sunnyvale,3.5
+2014,Temecula,5.1
+2014,Thousand Oaks,4.6
+2014,Torrance,3.7
+2014,Tracy,8.6
+2014,Turlock,13.5
+2014,Tustin,8
+2014,Union City,8.9
+2014,Upland,9
+2014,Vacaville,5.8
+2014,Vallejo,15.5
+2014,Victorville,25.8
+2014,Visalia,14.8
+2014,Vista,12.3
+2014,Walnut Creek,5.5
+2014,West Covina,8.9
+2014,Westminster,16
+2014,Whittier,8.3
+2014,Yorba Linda,2.2
+2014,Yuba City,8.6
+2015,Alameda,5.2
+2015,Alhambra,11.8
+2015,Anaheim,11.8
+2015,Antioch,11.8
+2015,Apple Valley,19.3
+2015,Arden-Arcade,13.8
+2015,Bakersfield,14.3
+2015,Baldwin Park,14.4
+2015,Bellflower,10.9
+2015,Berkeley,4.4
+2015,Buena Park,13
+2015,Burbank,9
+2015,Camarillo,5.4
+2015,Carlsbad,2.7
+2015,Carmichael,14.3
+2015,Carson,6.4
+2015,Chico,14.1
+2015,Chino,10.5
+2015,Chino Hills,2.8
+2015,Chula Vista,9.1
+2015,Citrus Heights,8.4
+2015,Clovis,9.9
+2015,Compton,19
+2015,Concord,7.6
+2015,Corona,8.5
+2015,Costa Mesa,9.6
+2015,Daly City,5.9
+2015,Davis,6.7
+2015,Downey,7.8
+2015,East Los Angeles,17.2
+2015,El Cajon,19.1
+2015,Elk Grove,6.2
+2015,El Monte,19.3
+2015,Escondido,12.7
+2015,Fairfield,11.3
+2015,Florence-Graham,25.5
+2015,Folsom,3.1
+2015,Fontana,14.2
+2015,Fremont,3.1
+2015,Fresno,23.4
+2015,Fullerton,7
+2015,Garden Grove,16.2
+2015,Glendale,9.1
+2015,Hawthorne,18.3
+2015,Hayward,7.5
+2015,Hemet,19.8
+2015,Hesperia,21.2
+2015,Huntington Beach,5.7
+2015,Indio,10.6
+2015,Inglewood,19.1
+2015,Irvine,8.5
+2015,Jurupa Valley,13.8
+2015,Laguna Niguel,5.4
+2015,Lake Forest,6.7
+2015,Lakewood,4.5
+2015,Lancaster,20.2
+2015,Livermore,3.3
+2015,Long Beach,13.5
+2015,Los Angeles,15.8
+2015,Lynwood,19.5
+2015,Manteca,12
+2015,Menifee,11.1
+2015,Merced,29.9
+2015,Milpitas,4.5
+2015,Mission Viejo,2.8
+2015,Modesto,16.5
+2015,Moreno Valley,13.4
+2015,Mountain View,1.7
+2015,Murrieta,9.1
+2015,Napa,7.4
+2015,Newport Beach,5.1
+2015,Norwalk,9.2
+2015,Oakland,15.6
+2015,Oceanside,10.3
+2015,Ontario,14.9
+2015,Orange,7.7
+2015,Oxnard,14.7
+2015,Palmdale,15.2
+2015,Palo Alto,5.2
+2015,Pasadena,10.9
+2015,Perris,20.5
+2015,Pittsburg,15.9
+2015,Pleasanton,2.4
+2015,Pomona,14.7
+2015,Rancho Cordova,12
+2015,Rancho Cucamonga,7.3
+2015,Redding,12.6
+2015,Redlands,11.3
+2015,Redondo Beach,2.1
+2015,Redwood City,6
+2015,Rialto,14.7
+2015,Richmond,15
+2015,Riverside,10.5
+2015,Roseville,6.9
+2015,Sacramento,16.4
+2015,Salinas,18.6
+2015,San Bernardino,29.6
+2015,San Buenaventura (Ventura),5.9
+2015,San Clemente,2
+2015,San Diego,10.5
+2015,San Francisco,7.2
+2015,San Jose,6.4
+2015,San Leandro,7.3
+2015,San Marcos,9.3
+2015,San Mateo,2.9
+2015,San Ramon,3.7
+2015,Santa Ana,18.3
+2015,Santa Barbara,7.1
+2015,Santa Clara,3.2
+2015,Santa Clarita,3.6
+2015,Santa Maria,19
+2015,Santa Monica,3
+2015,Santa Rosa,9.1
+2015,Simi Valley,3.2
+2015,South Gate,14.3
+2015,South San Francisco,5.1
+2015,Stockton,18.6
+2015,Sunnyvale,5.8
+2015,Temecula,6.6
+2015,Thousand Oaks,2.2
+2015,Torrance,6
+2015,Tracy,8
+2015,Turlock,8.9
+2015,Tustin,11
+2015,Union City,3.5
+2015,Upland,11.1
+2015,Vacaville,10.2
+2015,Vallejo,11.3
+2015,Victorville,20.9
+2015,Visalia,19.7
+2015,Vista,13
+2015,Walnut Creek,2
+2015,West Covina,5.8
+2015,Westminster,15.2
+2015,Whittier,8.8
+2015,Yorba Linda,4.2
+2015,Yuba City,16.9
+2016,Alameda,5.6
+2016,Alhambra,9.5
+2016,Anaheim,11.1
+2016,Antioch,11
+2016,Apple Valley,11.6
+2016,Arden-Arcade,21.6
+2016,Bakersfield,15.9
+2016,Baldwin Park,11.7
+2016,Bellflower,12.1
+2016,Berkeley,2.4
+2016,Buena Park,5.5
+2016,Burbank,6.6
+2016,Camarillo,6.8
+2016,Carlsbad,2.8
+2016,Carmichael,10.5
+2016,Carson,6.2
+2016,Castro Valley,7
+2016,Chico,15.4
+2016,Chino,12.4
+2016,Chino Hills,5.5
+2016,Chula Vista,9.4
+2016,Citrus Heights,8.5
+2016,Clovis,10.3
+2016,Compton,21.7
+2016,Concord,7.7
+2016,Corona,9.2
+2016,Costa Mesa,6.9
+2016,Daly City,4.9
+2016,Davis,5.8
+2016,Downey,6.8
+2016,East Los Angeles,14.7
+2016,El Cajon,19.2
+2016,Elk Grove,6.2
+2016,El Monte,17.9
+2016,Escondido,12.5
+2016,Fairfield,8.9
+2016,Florence-Graham,26.1
+2016,Folsom,4.9
+2016,Fontana,10.6
+2016,Fremont,1.6
+2016,Fresno,24.5
+2016,Fullerton,9
+2016,Garden Grove,9.8
+2016,Glendale,11.1
+2016,Hawthorne,14.4
+2016,Hayward,8.4
+2016,Hemet,18.8
+2016,Hesperia,15.7
+2016,Huntington Beach,5
+2016,Indio,13.2
+2016,Inglewood,13.8
+2016,Irvine,5.7
+2016,Jurupa Valley,15.2
+2016,Laguna Niguel,4.7
+2016,Lake Forest,7
+2016,Lakewood,7.6
+2016,Lancaster,20.8
+2016,Livermore,3.8
+2016,Long Beach,14
+2016,Los Angeles,15.3
+2016,Lynwood,19.5
+2016,Manteca,6.5
+2016,Menifee,5.9
+2016,Merced,27.5
+2016,Milpitas,3.9
+2016,Mission Viejo,3.2
+2016,Modesto,9.2
+2016,Moreno Valley,13.8
+2016,Mountain View,6.1
+2016,Murrieta,8.1
+2016,Napa,4.6
+2016,Newport Beach,3.1
+2016,Norwalk,13
+2016,Oakland,15.6
+2016,Oceanside,7.3
+2016,Ontario,12.9
+2016,Orange,4.8
+2016,Oxnard,11
+2016,Palmdale,16.2
+2016,Palo Alto,8.4
+2016,Pasadena,8.4
+2016,Perris,20.1
+2016,Pittsburg,7
+2016,Pleasanton,4.1
+2016,Pomona,17.1
+2016,Rancho Cordova,9.8
+2016,Rancho Cucamonga,6
+2016,Redding,11.9
+2016,Redlands,7.5
+2016,Redondo Beach,1.9
+2016,Redwood City,4.1
+2016,Rialto,15.1
+2016,Richmond,12.5
+2016,Riverside,10.3
+2016,Roseville,5.8
+2016,Sacramento,15.4
+2016,Salinas,12.7
+2016,San Bernardino,25.5
+2016,San Buenaventura (Ventura),4.2
+2016,San Clemente,3.6
+2016,San Diego,8.5
+2016,San Francisco,5.6
+2016,San Jose,6.9
+2016,San Leandro,7.4
+2016,San Marcos,7.2
+2016,San Mateo,3.7
+2016,San Ramon,2.4
+2016,Santa Ana,14.3
+2016,Santa Barbara,8.9
+2016,Santa Clara,3.6
+2016,Santa Clarita,3.8
+2016,Santa Maria,14.6
+2016,Santa Monica,6.1
+2016,Santa Rosa,5.6
+2016,Simi Valley,2.6
+2016,South Gate,17.9
+2016,South San Francisco,5.4
+2016,Stockton,14.2
+2016,Sunnyvale,5.1
+2016,Temecula,6.1
+2016,Thousand Oaks,4.4
+2016,Torrance,3.1
+2016,Tracy,4.4
+2016,Turlock,10.9
+2016,Tustin,8.4
+2016,Union City,3.6
+2016,Upland,11.3
+2016,Vacaville,3.5
+2016,Vallejo,11.4
+2016,Victorville,17
+2016,Visalia,17
+2016,Vista,8.4
+2016,Walnut Creek,3.7
+2016,West Covina,6.7
+2016,Westminster,15.4
+2016,Whittier,6.8
+2016,Yorba Linda,4.1
+2016,Yuba City,13
+2017,Alameda,7
+2017,Alhambra,11.2
+2017,Anaheim,13.4
+2017,Antioch,16.2
+2017,Apple Valley,17.7
+2017,Arden-Arcade,16.8
+2017,Bakersfield,13
+2017,Baldwin Park,10.1
+2017,Bellflower,8.2
+2017,Berkeley,6.9
+2017,Buena Park,13.2
+2017,Burbank,5.5
+2017,Camarillo,6
+2017,Carlsbad,3.8
+2017,Carmichael,10.6
+2017,Carson,6.2
+2017,Castro Valley,3.2
+2017,Chico,12.9
+2017,Chino,9.7
+2017,Chino Hills,6.9
+2017,Chula Vista,9.2
+2017,Citrus Heights,5.8
+2017,Clovis,7.7
+2017,Compton,16.4
+2017,Concord,3.7
+2017,Corona,6.7
+2017,Costa Mesa,10.9
+2017,Daly City,3.8
+2017,Davis,3.8
+2017,Downey,8.5
+2017,East Los Angeles,19.8
+2017,El Cajon,17.6
+2017,Elk Grove,5.6
+2017,El Monte,17.5
+2017,Escondido,8.7
+2017,Fairfield,8.4
+2017,Florence-Graham,24.4
+2017,Folsom,2.7
+2017,Fontana,11.8
+2017,Fremont,3.3
+2017,Fresno,19.3
+2017,Fullerton,8.4
+2017,Garden Grove,12.3
+2017,Glendale,12.6
+2017,Hawthorne,11.5
+2017,Hayward,4
+2017,Hemet,15.7
+2017,Hesperia,14
+2017,Huntington Beach,5.4
+2017,Indio,11.1
+2017,Inglewood,12.8
+2017,Irvine,7.8
+2017,Jurupa Valley,9.2
+2017,Laguna Niguel,5.8
+2017,Lake Elsinore,15.5
+2017,Lake Forest,2.6
+2017,Lakewood,4.1
+2017,Lancaster,13.2
+2017,Livermore,1.3
+2017,Lodi,11.5
+2017,Long Beach,12.5
+2017,Los Angeles,13.2
+2017,Lynwood,17.8
+2017,Madera,22.7
+2017,Manteca,10.6
+2017,Menifee,4.6
+2017,Merced,26.8
+2017,Milpitas,5.8
+2017,Mission Viejo,5
+2017,Modesto,10.9
+2017,Moreno Valley,11.3
+2017,Mountain View,2.1
+2017,Murrieta,4.1
+2017,Napa,2.8
+2017,Newport Beach,3.7
+2017,Norwalk,6
+2017,Oakland,11.6
+2017,Oceanside,6.6
+2017,Ontario,10.9
+2017,Orange,9
+2017,Oxnard,11.2
+2017,Palmdale,15.1
+2017,Palo Alto,2.7
+2017,Pasadena,6.4
+2017,Perris,13.2
+2017,Pittsburg,8.4
+2017,Pleasanton,3.4
+2017,Pomona,15.1
+2017,Rancho Cordova,7.6
+2017,Rancho Cucamonga,5.3
+2017,Redding,12.3
+2017,Redlands,9.1
+2017,Redondo Beach,3.6
+2017,Redwood City,6
+2017,Rialto,16.8
+2017,Richmond,11.6
+2017,Riverside,9.3
+2017,Roseville,7.2
+2017,Sacramento,11.6
+2017,Salinas,10.7
+2017,San Bernardino,17.7
+2017,San Buenaventura (Ventura),8
+2017,San Clemente,4.2
+2017,San Diego,8.5
+2017,San Francisco,5.1
+2017,San Jose,5.8
+2017,San Leandro,7.6
+2017,San Marcos,3.7
+2017,San Mateo,5.4
+2017,San Ramon,5.1
+2017,Santa Ana,13.2
+2017,Santa Barbara,6.4
+2017,Santa Clara,3.7
+2017,Santa Clarita,6.2
+2017,Santa Cruz,14
+2017,Santa Maria,10.7
+2017,Santa Monica,5.3
+2017,Santa Rosa,5.9
+2017,Simi Valley,6.5
+2017,South Gate,19.1
+2017,South San Francisco,5
+2017,Stockton,14.8
+2017,Sunnyvale,3.9
+2017,Temecula,6.1
+2017,Thousand Oaks,3.6
+2017,Torrance,6.6
+2017,Tracy,7.4
+2017,Turlock,14.5
+2017,Tustin,8.6
+2017,Union City,1.4
+2017,Upland,5.9
+2017,Vacaville,5.4
+2017,Vallejo,8.6
+2017,Victorville,16.8
+2017,Visalia,13.6
+2017,Vista,6.3
+2017,Walnut Creek,3.4
+2017,West Covina,4.6
+2017,Westminster,12.7
+2017,Whittier,9.6
+2017,Yorba Linda,0.9
+2017,Yuba City,12.6
+2018,Alameda,6.3
+2018,Alhambra,9
+2018,Anaheim,10.2
+2018,Antioch,12.1
+2018,Apple Valley,13.4
+2018,Arden-Arcade,16.9
+2018,Bakersfield,15.5
+2018,Baldwin Park,11.4
+2018,Bellflower,8.4
+2018,Berkeley,5.8
+2018,Buena Park,7
+2018,Burbank,5.4
+2018,Camarillo,3
+2018,Carlsbad,6.7
+2018,Carmichael,11.4
+2018,Carson,9.7
+2018,Castro Valley,2.8
+2018,Chico,14.2
+2018,Chino,4.7
+2018,Chino Hills,4.1
+2018,Chula Vista,6.1
+2018,Citrus Heights,8.7
+2018,Clovis,6.8
+2018,Compton,22.9
+2018,Concord,6
+2018,Corona,7.5
+2018,Costa Mesa,7.7
+2018,Daly City,7.2
+2018,Davis,6.4
+2018,Downey,6.1
+2018,East Los Angeles,15.9
+2018,El Cajon,15.5
+2018,Elk Grove,7.1
+2018,El Monte,12.3
+2018,Escondido,10.7
+2018,Fairfield,4.6
+2018,Florence-Graham,22.3
+2018,Folsom,4.7
+2018,Fontana,9.2
+2018,Fremont,3
+2018,Fresno,19.8
+2018,Fullerton,6.9
+2018,Garden Grove,11.6
+2018,Glendale,10.4
+2018,Hawthorne,7.8
+2018,Hayward,4.9
+2018,Hemet,15.4
+2018,Hesperia,17.2
+2018,Huntington Beach,5.8
+2018,Indio,5.9
+2018,Inglewood,12.3
+2018,Irvine,7
+2018,Jurupa Valley,8.1
+2018,Laguna Niguel,4.2
+2018,Lake Elsinore,8.3
+2018,Lake Forest,3.7
+2018,Lakewood,3.7
+2018,Lancaster,20
+2018,Livermore,2.4
+2018,Lodi,14.1
+2018,Long Beach,10.8
+2018,Los Angeles,12.2
+2018,Lynwood,15.5
+2018,Madera,25.8
+2018,Manteca,7.5
+2018,Menifee,7.1
+2018,Merced,20.6
+2018,Milpitas,5.7
+2018,Mission Viejo,2.7
+2018,Modesto,12
+2018,Moreno Valley,13.4
+2018,Mountain View,3.9
+2018,Murrieta,4.3
+2018,Napa,6.6
+2018,Newport Beach,7.3
+2018,Norwalk,6.3
+2018,Oakland,10
+2018,Oceanside,6.5
+2018,Ontario,10.8
+2018,Orange,7.3
+2018,Oxnard,10
+2018,Palmdale,12.2
+2018,Palo Alto,3.4
+2018,Pasadena,10.2
+2018,Perris,10.9
+2018,Pittsburg,7.7
+2018,Pleasanton,2.7
+2018,Pomona,17.4
+2018,Rancho Cordova,10.9
+2018,Rancho Cucamonga,6.2
+2018,Redding,10.3
+2018,Redlands,6
+2018,Redondo Beach,3
+2018,Redwood City,7.1
+2018,Rialto,12.7
+2018,Richmond,11.3
+2018,Riverside,10.4
+2018,Rocklin,1.8
+2018,Roseville,7.1
+2018,Sacramento,10
+2018,Salinas,14.7
+2018,San Bernardino,20.1
+2018,San Buenaventura (Ventura),5.3
+2018,San Clemente,2.9
+2018,San Diego,8.4
+2018,San Francisco,5.1
+2018,San Jose,5
+2018,San Leandro,4.3
+2018,San Marcos,6.4
+2018,San Mateo,3.9
+2018,San Ramon,1.5
+2018,Santa Ana,11.3
+2018,Santa Barbara,7.7
+2018,Santa Clara,5.2
+2018,Santa Clarita,5.3
+2018,Santa Cruz,8.1
+2018,Santa Maria,9.1
+2018,Santa Monica,5.4
+2018,Santa Rosa,7
+2018,Simi Valley,4
+2018,South Gate,14.1
+2018,South San Francisco,3.3
+2018,South Whittier,6.3
+2018,Stockton,16.6
+2018,Sunnyvale,2.4
+2018,Temecula,6.4
+2018,Thousand Oaks,3.4
+2018,Torrance,4
+2018,Tracy,4.8
+2018,Turlock,12.8
+2018,Tustin,6.7
+2018,Union City,2.5
+2018,Upland,9.6
+2018,Vacaville,5.8
+2018,Vallejo,5.7
+2018,Victorville,17.4
+2018,Visalia,10.8
+2018,Vista,6.3
+2018,Walnut Creek,4.8
+2018,West Covina,6.7
+2018,Westminster,13.9
+2018,Whittier,5.6
+2018,Yorba Linda,5.1
+2018,Yuba City,11.3
+2019,Alameda,6.6
+2019,Alhambra,4.2
+2019,Anaheim,9
+2019,Antioch,13
+2019,Apple Valley,7.9
+2019,Arden-Arcade,14
+2019,Bakersfield,11.2
+2019,Baldwin Park,9.5
+2019,Bellflower,7.4
+2019,Berkeley,1.2
+2019,Buena Park,4.5
+2019,Burbank,4.3
+2019,Camarillo,3.1
+2019,Carlsbad,2.9
+2019,Carmichael,5.1
+2019,Carson,4.6
+2019,Chico,10.5
+2019,Chino,4.6
+2019,Chino Hills,2.6
+2019,Chula Vista,7.4
+2019,Citrus Heights,6
+2019,Clovis,5.8
+2019,Compton,10.1
+2019,Concord,7.3
+2019,Corona,7.5
+2019,Costa Mesa,6
+2019,Daly City,2.4
+2019,Davis,6.3
+2019,Downey,7.1
+2019,East Los Angeles,14.3
+2019,El Cajon,11.8
+2019,Elk Grove,5.4
+2019,El Monte,12.7
+2019,Escondido,13.4
+2019,Fairfield,7.3
+2019,Florence-Graham,18.1
+2019,Folsom,3.2
+2019,Fontana,9.4
+2019,Fremont,1.8
+2019,Fresno,19.1
+2019,Fullerton,5.7
+2019,Garden Grove,8.8
+2019,Glendale,9.2
+2019,Hawthorne,14.3
+2019,Hayward,5.2
+2019,Hemet,15.4
+2019,Hesperia,11.7
+2019,Huntington Beach,4.9
+2019,Indio,7.2
+2019,Inglewood,12.1
+2019,Irvine,8.5
+2019,Jurupa Valley,10
+2019,Laguna Niguel,1.9
+2019,Lake Elsinore,5.8
+2019,Lake Forest,3.7
+2019,Lakewood,5.4
+2019,Lancaster,13.2
+2019,Livermore,3
+2019,Lodi,6.9
+2019,Long Beach,10.6
+2019,Los Angeles,12.1
+2019,Lynwood,13.4
+2019,Madera,18.7
+2019,Manteca,8.4
+2019,Menifee,6
+2019,Merced,19.4
+2019,Milpitas,0.7
+2019,Mission Viejo,2.3
+2019,Modesto,7.7
+2019,Moreno Valley,10.2
+2019,Mountain View,2.1
+2019,Murrieta,4.7
+2019,Napa,4.3
+2019,Newport Beach,4.8
+2019,Norwalk,4.6
+2019,Oakland,11
+2019,Oceanside,3.9
+2019,Ontario,10.5
+2019,Orange,4.9
+2019,Oxnard,9.9
+2019,Palmdale,12
+2019,Palo Alto,2.6
+2019,Pasadena,6.1
+2019,Perris,6.4
+2019,Pittsburg,9.4
+2019,Pleasanton,3
+2019,Pomona,11.2
+2019,Rancho Cordova,11.3
+2019,Rancho Cucamonga,6
+2019,Redding,7.2
+2019,Redlands,4.2
+2019,Redondo Beach,N
+2019,Redwood City,3.3
+2019,Rialto,12.1
+2019,Richmond,9.6
+2019,Riverside,8.2
+2019,Rocklin,3.2
+2019,Roseville,4
+2019,Sacramento,8.4
+2019,Salinas,15.5
+2019,San Bernardino,17.2
+2019,San Buenaventura (Ventura),2.6
+2019,San Clemente,2
+2019,San Diego,6.9
+2019,San Francisco,4.9
+2019,San Jose,3.9
+2019,San Leandro,6.3
+2019,San Marcos,7.1
+2019,San Mateo,3.1
+2019,San Ramon,1.5
+2019,Santa Ana,10.5
+2019,Santa Barbara,5.8
+2019,Santa Clara,1.1
+2019,Santa Clarita,5.8
+2019,Santa Cruz,5.3
+2019,Santa Maria,10.3
+2019,Santa Monica,5.8
+2019,Santa Rosa,3.1
+2019,Simi Valley,3.3
+2019,South Gate,13.4
+2019,South San Francisco,3.1
+2019,Stockton,12.4
+2019,Sunnyvale,3.3
+2019,Temecula,5.1
+2019,Thousand Oaks,2.7
+2019,Torrance,3.6
+2019,Tracy,6.4
+2019,Tulare,19.3
+2019,Turlock,8.2
+2019,Tustin,8.8
+2019,Union City,3
+2019,Upland,4.8
+2019,Vacaville,3.8
+2019,Vallejo,9.6
+2019,Victorville,15.2
+2019,Visalia,9.6
+2019,Vista,7.9
+2019,Walnut Creek,3.4
+2019,West Covina,4.1
+2019,Westminster,13.5
+2019,Whittier,4.7
+2019,Yorba Linda,3.5
+2019,Yuba City,11.3
