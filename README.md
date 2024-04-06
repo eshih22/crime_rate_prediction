@@ -1,12 +1,17 @@
 # Crime Rate Prediction In California - Group 8 
 Team Member:
+
 Alexandre Lazzari
+
 Edward John Tagaca
+
 Eric Shih
+
 Hok Yin Cheung
+
 Marisol Cornejo
 
-Data Source:
+# Data Source:
 
 Crime Data:
 
