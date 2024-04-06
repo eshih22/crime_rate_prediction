@@ -1,2 +1,4 @@
-# crime_rate_prediction
-Final Project
+# Group 8 - Project 4
+# Crime Rate Prediction In California
+
+
