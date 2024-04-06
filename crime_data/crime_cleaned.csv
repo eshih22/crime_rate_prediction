@@ -93,7 +93,6 @@ Year,City,Violent Crimes Sum
 2015,Kerman,33
 2015,Kingsburg,28
 2015,Mendota,90
-2015,Orange Cove,15
 2015,Parlier,95
 2015,Reedley,174
 2015,Sanger,120
@@ -104,6 +103,7 @@ Year,City,Violent Crimes Sum
 2015,CSU Fresno,13
 2015,CA Highway Patrol - Fresno,0
 2015,Coalinga State Hospital,149
+2015,Orange Cove,15
 2015,Clovis Unified School,0
 2015,Glenn Co. Sheriff's Department,44
 2015,Orland,22
@@ -115,6 +115,7 @@ Year,City,Violent Crimes Sum
 2015,Eureka,166
 2015,Ferndale,1
 2015,Fortuna,36
+2015,Trinidad,0
 2015,Rio Dell,10
 2015,CSU Humboldt (Arcata),7
 2015,Union Pacific RR - Humboldt,0
@@ -123,12 +124,13 @@ Year,City,Violent Crimes Sum
 2015,Imperial Co. Sheriff's Department,219
 2015,Brawley,146
 2015,Calexico,169
+2015,Calipatria,0
 2015,El Centro,164
-2015,Holtville,15
 2015,Imperial,5
 2015,Westmorland,5
 2015,Union Pacific RR - Imperial,0
 2015,CA Highway Patrol - Imperial,0
+2015,Holtville,15
 2015,Inyo Co. Sheriff's Department,58
 2015,Bishop,38
 2015,Union Pacific RR - Inyo,0
@@ -277,17 +279,19 @@ Year,City,Violent Crimes Sum
 2015,Marin Co. Sheriff's Department,95
 2015,Belvedere,0
 2015,Fairfax,13
+2015,Twin Cities,0
 2015,Mill Valley,4
 2015,Novato,103
 2015,Ross,0
+2015,San Anselmo,0
 2015,San Rafael,236
 2015,Sausalito,14
 2015,Tiburon,9
 2015,Union Pacific RR - Marin,0
 2015,Marin Community College,3
 2015,Marin DPR,1
-2015,Central Marin,40
 2015,CA Highway Patrol - Marin,0
+2015,Central Marin,40
 2015,Mariposa Co. Sheriff's Department,89
 2015,CA Highway Patrol - Mariposa,0
 2015,Mendocino Co. Sheriff's Department,324
@@ -431,9 +435,9 @@ Year,City,Violent Crimes Sum
 2015,Riverside Community College,1
 2015,Wildomar,39
 2015,Menifee,125
-2015,Eastvale,40
 2015,UC Riverside,10
 2015,CA Highway Patrol - Riverside,19
+2015,Eastvale,40
 2015,Jurupa Valley,260
 2015,Mount San Jacinto Community College,0
 2015,Sacramento Co. Sheriff's Department,3117
@@ -559,11 +563,14 @@ Year,City,Violent Crimes Sum
 2015,Burlingame,45
 2015,Colma,12
 2015,Daly City,234
+2015,Half Moon Bay,0
 2015,Hillsborough,1
 2015,Menlo Park,32
+2015,Millbrae,0
 2015,Pacifica,68
 2015,Redwood City,190
 2015,San Bruno,105
+2015,San Carlos,0
 2015,San Mateo,266
 2015,South San Francisco,157
 2015,Broadmoor,16
@@ -648,6 +655,7 @@ Year,City,Violent Crimes Sum
 2015,Vacaville,249
 2015,Vallejo,1031
 2015,Union Pacific RR - Solano,0
+2015,Solano Community College,0
 2015,CA Highway Patrol - Solano,0
 2015,Sonoma Co. Sheriff's Department,638
 2015,Cloverdale,15
@@ -831,7 +839,6 @@ Year,City,Violent Crimes Sum
 2016,Kerman,35
 2016,Kingsburg,27
 2016,Mendota,97
-2016,Orange Cove,39
 2016,Parlier,103
 2016,Reedley,190
 2016,Sanger,126
@@ -842,6 +849,7 @@ Year,City,Violent Crimes Sum
 2016,CSU Fresno,15
 2016,CA Highway Patrol - Fresno,0
 2016,Coalinga State Hospital,173
+2016,Orange Cove,39
 2016,Clovis Unified School,0
 2016,Glenn Co. Sheriff's Department,34
 2016,Orland,27
@@ -853,6 +861,7 @@ Year,City,Violent Crimes Sum
 2016,Eureka,255
 2016,Ferndale,7
 2016,Fortuna,60
+2016,Trinidad,0
 2016,Rio Dell,7
 2016,CSU Humboldt (Arcata),6
 2016,Union Pacific RR - Humboldt,0
@@ -861,12 +870,13 @@ Year,City,Violent Crimes Sum
 2016,Imperial Co. Sheriff's Department,161
 2016,Brawley,125
 2016,Calexico,164
+2016,Calipatria,0
 2016,El Centro,205
-2016,Holtville,12
 2016,Imperial,7
 2016,Westmorland,2
 2016,Union Pacific RR - Imperial,0
 2016,CA Highway Patrol - Imperial,0
+2016,Holtville,12
 2016,Inyo Co. Sheriff's Department,85
 2016,Bishop,29
 2016,Union Pacific RR - Inyo,0
@@ -1015,17 +1025,19 @@ Year,City,Violent Crimes Sum
 2016,Marin Co. Sheriff's Department,72
 2016,Belvedere,1
 2016,Fairfax,16
+2016,Twin Cities,0
 2016,Mill Valley,9
 2016,Novato,80
 2016,Ross,1
+2016,San Anselmo,0
 2016,San Rafael,249
 2016,Sausalito,4
 2016,Tiburon,4
 2016,Union Pacific RR - Marin,0
 2016,Marin Community College,1
 2016,Marin DPR,0
-2016,Central Marin,38
 2016,CA Highway Patrol - Marin,0
+2016,Central Marin,38
 2016,Mariposa Co. Sheriff's Department,80
 2016,CA Highway Patrol - Mariposa,0
 2016,Mendocino Co. Sheriff's Department,346
@@ -1169,9 +1181,9 @@ Year,City,Violent Crimes Sum
 2016,Riverside Community College,0
 2016,Wildomar,49
 2016,Menifee,135
-2016,Eastvale,71
 2016,UC Riverside,8
 2016,CA Highway Patrol - Riverside,15
+2016,Eastvale,71
 2016,Jurupa Valley,340
 2016,Mount San Jacinto Community College,2
 2016,Sacramento Co. Sheriff's Department,2797
@@ -1297,11 +1309,14 @@ Year,City,Violent Crimes Sum
 2016,Burlingame,62
 2016,Colma,27
 2016,Daly City,244
+2016,Half Moon Bay,0
 2016,Hillsborough,9
 2016,Menlo Park,30
+2016,Millbrae,0
 2016,Pacifica,65
 2016,Redwood City,164
 2016,San Bruno,109
+2016,San Carlos,0
 2016,San Mateo,242
 2016,South San Francisco,149
 2016,Broadmoor,16
@@ -1386,6 +1401,7 @@ Year,City,Violent Crimes Sum
 2016,Vacaville,207
 2016,Vallejo,1053
 2016,Union Pacific RR - Solano,0
+2016,Solano Community College,0
 2016,CA Highway Patrol - Solano,0
 2016,Sonoma Co. Sheriff's Department,583
 2016,Cloverdale,18
@@ -1569,7 +1585,6 @@ Year,City,Violent Crimes Sum
 2017,Kerman,49
 2017,Kingsburg,35
 2017,Mendota,74
-2017,Orange Cove,58
 2017,Parlier,106
 2017,Reedley,100
 2017,Sanger,110
@@ -1580,6 +1595,7 @@ Year,City,Violent Crimes Sum
 2017,CSU Fresno,14
 2017,CA Highway Patrol - Fresno,2
 2017,Coalinga State Hospital,231
+2017,Orange Cove,58
 2017,Clovis Unified School,0
 2017,Glenn Co. Sheriff's Department,81
 2017,Orland,24
@@ -1591,6 +1607,7 @@ Year,City,Violent Crimes Sum
 2017,Eureka,244
 2017,Ferndale,2
 2017,Fortuna,49
+2017,Trinidad,0
 2017,Rio Dell,6
 2017,CSU Humboldt (Arcata),4
 2017,Union Pacific RR - Humboldt,0
@@ -1599,12 +1616,13 @@ Year,City,Violent Crimes Sum
 2017,Imperial Co. Sheriff's Department,137
 2017,Brawley,176
 2017,Calexico,89
+2017,Calipatria,0
 2017,El Centro,185
-2017,Holtville,25
 2017,Imperial,11
 2017,Westmorland,5
 2017,Union Pacific RR - Imperial,0
 2017,CA Highway Patrol - Imperial,0
+2017,Holtville,25
 2017,Inyo Co. Sheriff's Department,84
 2017,Bishop,44
 2017,Union Pacific RR - Inyo,0
@@ -1753,17 +1771,19 @@ Year,City,Violent Crimes Sum
 2017,Marin Co. Sheriff's Department,91
 2017,Belvedere,0
 2017,Fairfax,4
+2017,Twin Cities,0
 2017,Mill Valley,9
 2017,Novato,92
 2017,Ross,2
+2017,San Anselmo,0
 2017,San Rafael,194
 2017,Sausalito,14
 2017,Tiburon,3
 2017,Union Pacific RR - Marin,0
 2017,Marin Community College,2
 2017,Marin DPR,2
-2017,Central Marin,46
 2017,CA Highway Patrol - Marin,4
+2017,Central Marin,46
 2017,Mariposa Co. Sheriff's Department,107
 2017,CA Highway Patrol - Mariposa,1
 2017,Mendocino Co. Sheriff's Department,254
@@ -1907,9 +1927,9 @@ Year,City,Violent Crimes Sum
 2017,Riverside Community College,2
 2017,Wildomar,56
 2017,Menifee,123
-2017,Eastvale,55
 2017,UC Riverside,13
 2017,CA Highway Patrol - Riverside,17
+2017,Eastvale,55
 2017,Jurupa Valley,272
 2017,Mount San Jacinto Community College,1
 2017,Sacramento Co. Sheriff's Department,2612
@@ -2035,11 +2055,14 @@ Year,City,Violent Crimes Sum
 2017,Burlingame,74
 2017,Colma,21
 2017,Daly City,265
+2017,Half Moon Bay,0
 2017,Hillsborough,8
 2017,Menlo Park,53
+2017,Millbrae,0
 2017,Pacifica,86
 2017,Redwood City,209
 2017,San Bruno,121
+2017,San Carlos,0
 2017,San Mateo,268
 2017,South San Francisco,234
 2017,Broadmoor,21
@@ -2124,6 +2147,7 @@ Year,City,Violent Crimes Sum
 2017,Vacaville,198
 2017,Vallejo,1048
 2017,Union Pacific RR - Solano,0
+2017,Solano Community College,0
 2017,CA Highway Patrol - Solano,6
 2017,Sonoma Co. Sheriff's Department,636
 2017,Cloverdale,27
@@ -2307,7 +2331,6 @@ Year,City,Violent Crimes Sum
 2018,Kerman,59
 2018,Kingsburg,40
 2018,Mendota,86
-2018,Orange Cove,25
 2018,Parlier,111
 2018,Reedley,105
 2018,Sanger,88
@@ -2318,6 +2341,7 @@ Year,City,Violent Crimes Sum
 2018,CSU Fresno,11
 2018,CA Highway Patrol - Fresno,1
 2018,Coalinga State Hospital,177
+2018,Orange Cove,25
 2018,Clovis Unified School,0
 2018,Glenn Co. Sheriff's Department,55
 2018,Orland,25
@@ -2329,6 +2353,7 @@ Year,City,Violent Crimes Sum
 2018,Eureka,197
 2018,Ferndale,6
 2018,Fortuna,46
+2018,Trinidad,0
 2018,Rio Dell,8
 2018,CSU Humboldt (Arcata),7
 2018,Union Pacific RR - Humboldt,0
@@ -2337,12 +2362,13 @@ Year,City,Violent Crimes Sum
 2018,Imperial Co. Sheriff's Department,241
 2018,Brawley,154
 2018,Calexico,87
+2018,Calipatria,0
 2018,El Centro,126
-2018,Holtville,15
 2018,Imperial,9
 2018,Westmorland,12
 2018,Union Pacific RR - Imperial,0
 2018,CA Highway Patrol - Imperial,1
+2018,Holtville,15
 2018,Inyo Co. Sheriff's Department,80
 2018,Bishop,41
 2018,Union Pacific RR - Inyo,0
@@ -2491,17 +2517,19 @@ Year,City,Violent Crimes Sum
 2018,Marin Co. Sheriff's Department,96
 2018,Belvedere,0
 2018,Fairfax,6
+2018,Twin Cities,0
 2018,Mill Valley,9
 2018,Novato,97
 2018,Ross,1
+2018,San Anselmo,0
 2018,San Rafael,257
 2018,Sausalito,9
 2018,Tiburon,7
 2018,Union Pacific RR - Marin,0
 2018,Marin Community College,4
 2018,Marin DPR,0
-2018,Central Marin,40
 2018,CA Highway Patrol - Marin,2
+2018,Central Marin,40
 2018,Mariposa Co. Sheriff's Department,67
 2018,CA Highway Patrol - Mariposa,0
 2018,Mendocino Co. Sheriff's Department,213
@@ -2645,9 +2673,9 @@ Year,City,Violent Crimes Sum
 2018,Riverside Community College,0
 2018,Wildomar,48
 2018,Menifee,155
-2018,Eastvale,63
 2018,UC Riverside,14
 2018,CA Highway Patrol - Riverside,11
+2018,Eastvale,63
 2018,Jurupa Valley,332
 2018,Mount San Jacinto Community College,1
 2018,Sacramento Co. Sheriff's Department,2351
@@ -2773,11 +2801,14 @@ Year,City,Violent Crimes Sum
 2018,Burlingame,58
 2018,Colma,37
 2018,Daly City,242
+2018,Half Moon Bay,0
 2018,Hillsborough,9
 2018,Menlo Park,43
+2018,Millbrae,0
 2018,Pacifica,71
 2018,Redwood City,177
 2018,San Bruno,123
+2018,San Carlos,0
 2018,San Mateo,285
 2018,South San Francisco,181
 2018,Broadmoor,14
@@ -2862,6 +2893,7 @@ Year,City,Violent Crimes Sum
 2018,Vacaville,230
 2018,Vallejo,942
 2018,Union Pacific RR - Solano,0
+2018,Solano Community College,0
 2018,CA Highway Patrol - Solano,3
 2018,Sonoma Co. Sheriff's Department,516
 2018,Cloverdale,19
@@ -3045,7 +3077,6 @@ Year,City,Violent Crimes Sum
 2019,Kerman,23
 2019,Kingsburg,18
 2019,Mendota,83
-2019,Orange Cove,18
 2019,Parlier,62
 2019,Reedley,117
 2019,Sanger,156
@@ -3056,6 +3087,7 @@ Year,City,Violent Crimes Sum
 2019,CSU Fresno,11
 2019,CA Highway Patrol - Fresno,0
 2019,Coalinga State Hospital,202
+2019,Orange Cove,18
 2019,Clovis Unified School,13
 2019,Glenn Co. Sheriff's Department,55
 2019,Orland,33
@@ -3067,6 +3099,7 @@ Year,City,Violent Crimes Sum
 2019,Eureka,195
 2019,Ferndale,4
 2019,Fortuna,28
+2019,Trinidad,0
 2019,Rio Dell,11
 2019,CSU Humboldt (Arcata),5
 2019,Union Pacific RR - Humboldt,0
@@ -3075,12 +3108,13 @@ Year,City,Violent Crimes Sum
 2019,Imperial Co. Sheriff's Department,211
 2019,Brawley,121
 2019,Calexico,94
+2019,Calipatria,0
 2019,El Centro,143
-2019,Holtville,14
 2019,Imperial,5
 2019,Westmorland,0
 2019,Union Pacific RR - Imperial,0
 2019,CA Highway Patrol - Imperial,1
+2019,Holtville,14
 2019,Inyo Co. Sheriff's Department,60
 2019,Bishop,34
 2019,Union Pacific RR - Inyo,0
@@ -3229,17 +3263,19 @@ Year,City,Violent Crimes Sum
 2019,Marin Co. Sheriff's Department,63
 2019,Belvedere,1
 2019,Fairfax,9
+2019,Twin Cities,0
 2019,Mill Valley,20
 2019,Novato,148
 2019,Ross,2
+2019,San Anselmo,0
 2019,San Rafael,230
 2019,Sausalito,7
 2019,Tiburon,0
 2019,Union Pacific RR - Marin,0
 2019,Marin Community College,3
 2019,Marin DPR,1
-2019,Central Marin,32
 2019,CA Highway Patrol - Marin,0
+2019,Central Marin,32
 2019,Mariposa Co. Sheriff's Department,79
 2019,CA Highway Patrol - Mariposa,0
 2019,Mendocino Co. Sheriff's Department,178
@@ -3383,9 +3419,9 @@ Year,City,Violent Crimes Sum
 2019,Riverside Community College,2
 2019,Wildomar,61
 2019,Menifee,145
-2019,Eastvale,83
 2019,UC Riverside,11
 2019,CA Highway Patrol - Riverside,13
+2019,Eastvale,83
 2019,Jurupa Valley,317
 2019,Mount San Jacinto Community College,2
 2019,Sacramento Co. Sheriff's Department,2408
@@ -3511,11 +3547,14 @@ Year,City,Violent Crimes Sum
 2019,Burlingame,74
 2019,Colma,28
 2019,Daly City,232
+2019,Half Moon Bay,0
 2019,Hillsborough,5
 2019,Menlo Park,50
+2019,Millbrae,0
 2019,Pacifica,79
 2019,Redwood City,189
 2019,San Bruno,138
+2019,San Carlos,0
 2019,San Mateo,266
 2019,South San Francisco,166
 2019,Broadmoor,11
@@ -3600,6 +3639,7 @@ Year,City,Violent Crimes Sum
 2019,Vacaville,331
 2019,Vallejo,1037
 2019,Union Pacific RR - Solano,0
+2019,Solano Community College,0
 2019,CA Highway Patrol - Solano,0
 2019,Sonoma Co. Sheriff's Department,497
 2019,Cloverdale,16
