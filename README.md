@@ -9,12 +9,15 @@ Marisol Cornejo
 Data Source:
 
 Crime Data:
+
 Open Justice - https://openjustice.doj.ca.gov/data
 
 House Price Data: 
+
 Zillow - https://www.zillow.com/research/data/
 
 Education Level, Income, Unemployment Rate, Population, Age, Rent vs homeowner, Poverty rate Data:
+
 Census Data - https://data.census.gov/
 ACS DP02 - Education Level
 ACS DP03 - Income and Unemployment Rate
