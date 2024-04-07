@@ -1,4 +1,3734 @@
 Year,City,Violent Crimes Sum
+2010,Alameda Co. Sheriff's Department,698
+2010,Alameda,173
+2010,Albany,37
+2010,Berkeley,533
+2010,Emeryville,128
+2010,Fremont,488
+2010,Hayward,652
+2010,Livermore,323
+2010,Newark,187
+2010,Oakland,6267
+2010,Piedmont,4
+2010,Pleasanton,78
+2010,San Leandro,347
+2010,Union City,324
+2010,Alameda E. Bay Reg. Park Dist.,6
+2010,CSU East Bay,8
+2010,Union Pacific RR - Alameda,5
+2010,Alameda BART,103
+2010,Dublin,69
+2010,Alameda E. Bay Mun. Util. Dist.,0
+2010,UC Berkeley,33
+2010,CA Highway Patrol - Alameda,5
+2010,Alpine Co. Sheriff's Department,10
+2010,CA Highway Patrol - Alpine,0
+2010,Amador Co. Sheriff's Department,60
+2010,Ione,24
+2010,Jackson,22
+2010,Sutter Creek,4
+2010,Union Pacific RR - Amador,0
+2010,CA Highway Patrol - Amador,0
+2010,Butte Co. Sheriff's Department,133
+2010,Biggs,3
+2010,Chico,245
+2010,Gridley,48
+2010,Oroville,218
+2010,Paradise,104
+2010,Union Pacific RR - Butte,2
+2010,Northern Buttes DPR,0
+2010,CSU Chico,9
+2010,CA Highway Patrol - Butte,0
+2010,Calaveras Co. Sheriff's Department,82
+2010,Angels Camp,11
+2010,Union Pacific RR - Calaveras,0
+2010,Calaveras DPR,0
+2010,CA Highway Patrol - Calaveras,0
+2010,Colusa Co. Sheriff's Department,22
+2010,Colusa,11
+2010,Williams,15
+2010,Union Pacific RR - Colusa,0
+2010,CA Highway Patrol - Colusa,0
+2010,Contra Costa Co. Sheriff's Department,449
+2010,Antioch,864
+2010,Brentwood,112
+2010,Clayton,15
+2010,Concord,551
+2010,El Cerrito,134
+2010,Hercules,46
+2010,Pinole,79
+2010,Pittsburg,154
+2010,Pleasant Hill,94
+2010,Richmond,1176
+2010,San Pablo,241
+2010,Walnut Creek,115
+2010,Kensington,2
+2010,Martinez,73
+2010,Lafayette,20
+2010,Moraga,11
+2010,Contra Costa E. Bay Reg. Park Dist.,12
+2010,Contra Costa BART,40
+2010,Contra Costa Community College,12
+2010,Danville,32
+2010,San Ramon,35
+2010,Orinda,5
+2010,Union Pacific RR - Contra Costa,5
+2010,Oakley,49
+2010,CA Highway Patrol - Contra Costa,0
+2010,Del Norte Co. Sheriff's Department,82
+2010,Crescent City,28
+2010,CA Highway Patrol - Del Norte,1
+2010,El Dorado Co. Sheriff's Department,256
+2010,Placerville,65
+2010,South Lake Tahoe,164
+2010,Union Pacific RR - El Dorado,0
+2010,CA Highway Patrol - El Dorado,0
+2010,Fresno Co. Sheriff's Department,727
+2010,Clovis,165
+2010,Coalinga,124
+2010,Firebaugh,21
+2010,Fowler,25
+2010,Fresno,3034
+2010,Huron,70
+2010,Kerman,49
+2010,Kingsburg,26
+2010,Mendota,71
+2010,Parlier,155
+2010,Reedley,138
+2010,Sanger,158
+2010,Selma,141
+2010,State Center Community College,10
+2010,Union Pacific RR - Fresno,0
+2010,San Joaquin DPR,0
+2010,CSU Fresno,10
+2010,CA Highway Patrol - Fresno,1
+2010,Coalinga State Hospital,51
+2010,Orange Cove,0
+2010,Clovis Unified School,0
+2010,Glenn Co. Sheriff's Department,16
+2010,Orland,36
+2010,Willows,21
+2010,Union Pacific RR - Glenn,0
+2010,CA Highway Patrol - Glenn,0
+2010,Humboldt Co. Sheriff's Department,242
+2010,Arcata,40
+2010,Eureka,184
+2010,Ferndale,1
+2010,Fortuna,40
+2010,Trinidad,0
+2010,Rio Dell,12
+2010,CSU Humboldt (Arcata),9
+2010,Union Pacific RR - Humboldt,0
+2010,Northern Coast Redwoods DPR,0
+2010,CA Highway Patrol - Humboldt,1
+2010,Imperial Co. Sheriff's Department,265
+2010,Brawley,53
+2010,Calexico,77
+2010,Calipatria,15
+2010,El Centro,197
+2010,Imperial,5
+2010,Westmorland,6
+2010,Union Pacific RR - Imperial,0
+2010,CA Highway Patrol - Imperial,0
+2010,Holtville,0
+2010,Inyo Co. Sheriff's Department,47
+2010,Bishop,22
+2010,Union Pacific RR - Inyo,0
+2010,CA Highway Patrol - Inyo,0
+2010,Kern Co. Sheriff's Department,1977
+2010,Arvin,187
+2010,Bakersfield,2104
+2010,Delano,247
+2010,McFarland,64
+2010,Ridgecrest,130
+2010,Shafter,43
+2010,Taft,37
+2010,Tehachapi,23
+2010,California City,56
+2010,Stallion Springs,7
+2010,Bear Valley,1
+2010,Union Pacific RR - Kern,0
+2010,CSU Bakersfield,2
+2010,CA Highway Patrol - Kern,1
+2010,Kern High School District,0
+2010,Kings Co. Sheriff's Department,140
+2010,Corcoran,42
+2010,Hanford,181
+2010,Lemoore,110
+2010,Union Pacific RR - Kings,0
+2010,Porterville Developmental Center,3
+2010,Avenal,57
+2010,CA Highway Patrol - Kings,0
+2010,Lake Co. Sheriff's Department,199
+2010,Lakeport,20
+2010,Clearlake,73
+2010,CA Highway Patrol - Lake,0
+2010,Lassen Co. Sheriff's Department,36
+2010,Susanville,82
+2010,Union Pacific RR - Lassen,0
+2010,CA Highway Patrol - Lassen,0
+2010,Los Angeles Co. Sheriff's Department,6497
+2010,Alhambra,185
+2010,Arcadia,88
+2010,Artesia,64
+2010,Avalon,24
+2010,Azusa,226
+2010,Baldwin Park,253
+2010,Bell,241
+2010,Bellflower,415
+2010,Bell Gardens,210
+2010,El Camino College,6
+2010,La Habra Heights,7
+2010,Union Pacific RR - Los Angeles,5
+2010,Metropolitan Trans. Authority (MTA),13
+2010,Pasadena Community College,2
+2010,Westlake Village,6
+2010,Beverly Hills,75
+2010,Bradbury,0
+2010,Burbank,221
+2010,Claremont,49
+2010,Commerce,142
+2010,Compton,1327
+2010,Covina,171
+2010,Cudahy,161
+2010,Culver City,149
+2010,Cerritos,93
+2010,Lanterman Developmental Center,0
+2010,Agoura Hills,18
+2010,West Hollywood,389
+2010,Santa Clarita,375
+2010,Diamond Bar,48
+2010,Downey,394
+2010,Duarte,72
+2010,El Monte,600
+2010,El Segundo,34
+2010,Gardena,347
+2010,Glendale,277
+2010,Glendora,62
+2010,Hawaiian Gardens,83
+2010,Hawthorne,653
+2010,Hermosa Beach,40
+2010,Calabasas,13
+2010,Malibu,26
+2010,Los Angeles Transit Serv. Bureau,532
+2010,Hidden Hills,3
+2010,Huntington Park,559
+2010,Industry,77
+2010,Inglewood,843
+2010,Irwindale,19
+2010,Lakewood,296
+2010,La Mirada,74
+2010,La Puente,162
+2010,La Verne,56
+2010,Lawndale,228
+2010,Lomita,86
+2010,Long Beach,2720
+2010,Los Angeles,21484
+2010,Lynwood,615
+2010,Manhattan Beach,48
+2010,Maywood,151
+2010,Monrovia,72
+2010,Montebello,214
+2010,Monterey Park,96
+2010,Norwalk,449
+2010,Palmdale,832
+2010,Palos Verdes Estates,5
+2010,Paramount,343
+2010,Pasadena,554
+2010,Pico Rivera,247
+2010,Pomona,877
+2010,Redondo Beach,210
+2010,Rolling Hills,4
+2010,Rolling Hills Estates,15
+2010,Rosemead,167
+2010,San Dimas,80
+2010,San Fernando,63
+2010,San Gabriel,85
+2010,San Marino,13
+2010,Santa Fe Springs,73
+2010,Santa Monica,392
+2010,Sierra Madre,14
+2010,Signal Hill,40
+2010,South El Monte,134
+2010,South Gate,598
+2010,South Pasadena,25
+2010,Temple City,61
+2010,Torrance,290
+2010,Vernon,26
+2010,Walnut,29
+2010,West Covina,318
+2010,Whittier,343
+2010,Carson,499
+2010,Cal Poly - Pomona,5
+2010,Rancho Palos Verdes,42
+2010,CSU Dominguez Hills,7
+2010,CSU Long Beach,3
+2010,CSU Los Angeles,3
+2010,CSU Northridge,11
+2010,La Canada-Flintridge,21
+2010,Lancaster,900
+2010,UC Los Angeles,38
+2010,CA Highway Patrol - Los Angeles,11
+2010,Metropolitan State Hospital,0
+2010,Baldwin Park School,0
+2010,Madera Co. Sheriff's Department,233
+2010,Chowchilla,64
+2010,Madera,357
+2010,Union Pacific RR - Madera,0
+2010,CA Highway Patrol - Madera,0
+2010,Marin Co. Sheriff's Department,115
+2010,Belvedere,0
+2010,Fairfax,14
+2010,Twin Cities,26
+2010,Mill Valley,6
+2010,Novato,99
+2010,Ross,1
+2010,San Anselmo,8
+2010,San Rafael,236
+2010,Sausalito,9
+2010,Tiburon,4
+2010,Union Pacific RR - Marin,0
+2010,Marin Community College,1
+2010,Marin DPR,0
+2010,CA Highway Patrol - Marin,1
+2010,Central Marin,0
+2010,Mariposa Co. Sheriff's Department,37
+2010,CA Highway Patrol - Mariposa,0
+2010,Mendocino Co. Sheriff's Department,310
+2010,Fort Bragg,44
+2010,Ukiah,92
+2010,Willits,41
+2010,Mendocino DPR,0
+2010,Union Pacific RR - Mendocino,0
+2010,CA Highway Patrol - Mendocino,1
+2010,Merced Co. Sheriff's Department,484
+2010,Atwater,114
+2010,Dos Palos,48
+2010,Gustine,8
+2010,Livingston,103
+2010,Los Banos,139
+2010,Merced,549
+2010,Union Pacific RR - Merced,0
+2010,Four Rivers DPR,1
+2010,UC Merced,1
+2010,CA Highway Patrol - Merced,1
+2010,Modoc Co. Sheriff's Department,12
+2010,Alturas,5
+2010,Union Pacific RR - Modoc,0
+2010,CA Highway Patrol - Modoc,0
+2010,Mono Co. Sheriff's Department,13
+2010,Mammoth Lakes,46
+2010,CA Highway Patrol - Mono,0
+2010,Monterey Co. Sheriff's Department,228
+2010,Carmel,13
+2010,Del Rey Oaks,1
+2010,Gonzales,35
+2010,Greenfield,104
+2010,King City,56
+2010,Monterey,154
+2010,Pacific Grove,17
+2010,Salinas,1162
+2010,Sand City,3
+2010,Seaside,129
+2010,Soledad,75
+2010,Marina,53
+2010,Monterey Airport,0
+2010,Union Pacific RR - Monterey,0
+2010,Monterey DPR,0
+2010,CSU Monterey Bay,5
+2010,CA Highway Patrol - Monterey,2
+2010,Napa Co. Sheriff's Department,56
+2010,Calistoga,8
+2010,Napa,245
+2010,St. Helena,12
+2010,Union Pacific RR - Napa,0
+2010,Napa State Hospital,287
+2010,American Canyon,38
+2010,Yountville,5
+2010,CA Highway Patrol - Napa,0
+2010,Nevada Co. Sheriff's Department,137
+2010,Grass Valley,111
+2010,Nevada City,36
+2010,Union Pacific RR - Nevada,1
+2010,Truckee,25
+2010,CA Highway Patrol - Nevada,1
+2010,Orange Co. Sheriff's Department,187
+2010,Anaheim,1161
+2010,Brea,71
+2010,Buena Park,241
+2010,Costa Mesa,240
+2010,Cypress,63
+2010,La Palma,9
+2010,Fountain Valley,103
+2010,Fullerton,425
+2010,Garden Grove,539
+2010,Huntington Beach,449
+2010,Laguna Beach,78
+2010,La Habra,169
+2010,Los Alamitos,14
+2010,Newport Beach,117
+2010,Orange,150
+2010,Placentia,85
+2010,San Clemente,61
+2010,San Juan Capistrano,41
+2010,Santa Ana,1510
+2010,Seal Beach,47
+2010,Stanton,156
+2010,Tustin,128
+2010,Villa Park,6
+2010,Westminster,259
+2010,Yorba Linda,58
+2010,Irvine,120
+2010,CSU Fullerton,8
+2010,Union Pacific RR - Orange,0
+2010,Orange Coast DPR,0
+2010,Fairview Developmental Center,0
+2010,Mission Viejo,70
+2010,Dana Point,66
+2010,Laguna Niguel,40
+2010,Laguna Hills,43
+2010,Lake Forest,92
+2010,Laguna Woods,15
+2010,Rancho Santa Margarita,26
+2010,Aliso Viejo,37
+2010,UC Irvine,16
+2010,CA Highway Patrol - Orange,7
+2010,Irvine Valley College,0
+2010,Placer Co. Sheriff's Department,298
+2010,Auburn,59
+2010,Lincoln,28
+2010,Rocklin,59
+2010,Roseville,334
+2010,Sierra DPR,0
+2010,Union Pacific RR - Placer,4
+2010,CA Highway Patrol - Placer,3
+2010,Plumas Co. Sheriff's Department,109
+2010,Union Pacific RR - Plumas,0
+2010,CA Highway Patrol - Plumas,0
+2010,Riverside Co. Sheriff's Department,1018
+2010,Banning,155
+2010,Beaumont,87
+2010,Blythe,77
+2010,Coachella,193
+2010,Desert Hot Springs,374
+2010,Hemet,369
+2010,Indio,453
+2010,Norco,41
+2010,Palm Springs,282
+2010,Perris,160
+2010,Riverside,1448
+2010,San Jacinto,108
+2010,Corona,199
+2010,Indian Wells,4
+2010,Rancho Mirage,17
+2010,Palm Desert,48
+2010,Union Pacific RR - Riverside,4
+2010,Inland Empire DPR,1
+2010,Cathedral City,249
+2010,Lake Elsinore,108
+2010,La Quinta,137
+2010,Moreno Valley,724
+2010,Temecula,74
+2010,Calimesa,18
+2010,Canyon Lake,10
+2010,Murrieta,99
+2010,Riverside Community College,2
+2010,Wildomar,59
+2010,Menifee,64
+2010,UC Riverside,13
+2010,CA Highway Patrol - Riverside,10
+2010,Eastvale,0
+2010,Jurupa Valley,0
+2010,Mount San Jacinto Community College,0
+2010,Sacramento Co. Sheriff's Department,2902
+2010,Folsom,105
+2010,Galt,50
+2010,Isleton,5
+2010,Sacramento,4112
+2010,CSU Sacramento,8
+2010,Elk Grove,529
+2010,Gold Fields DPR,4
+2010,Twin Rivers Unified School,45
+2010,CA State Fair,1
+2010,Capital DPR,1
+2010,Twin Cities DPR,0
+2010,Union Pacific RR - Sacramento,7
+2010,Rancho Cordova,387
+2010,Citrus Heights,385
+2010,UC Med Center Sacramento,5
+2010,CA Highway Patrol - Sacramento,5
+2010,San Benito Co. Sheriff's Department,53
+2010,Hollister,159
+2010,Union Pacific RR - San Benito,0
+2010,Hollister Hills DPR,1
+2010,CA Highway Patrol - San Benito,0
+2010,San Bernardino Co. Sheriff's Department,1093
+2010,Barstow,190
+2010,Chino,264
+2010,Colton,170
+2010,Fontana,759
+2010,Montclair,173
+2010,Needles,19
+2010,Ontario,630
+2010,Redlands,243
+2010,Rialto,497
+2010,San Bernardino,1624
+2010,Upland,208
+2010,Victorville,681
+2010,Adelanto,242
+2010,CSU San Bernardino,1
+2010,Rancho Cucamonga,340
+2010,Big Bear,28
+2010,Grand Terrace,20
+2010,Loma Linda,28
+2010,San Bernardino Unified School,99
+2010,Highland,242
+2010,Twentynine Palms,119
+2010,Hesperia,287
+2010,Apple Valley,188
+2010,Yucaipa,139
+2010,San Bernardino College,3
+2010,Chino Hills,80
+2010,Yucca Valley,104
+2010,Fontana Unified School,23
+2010,Union Pacific RR - San Bernardino,4
+2010,Patton State Hospital,514
+2010,Tehachapi DPR,1
+2010,CA Highway Patrol - San Bernardino,4
+2010,Chaffey College,0
+2010,San Diego Co. Sheriff's Department,1432
+2010,Carlsbad,195
+2010,Chula Vista,663
+2010,Coronado,25
+2010,Del Mar,19
+2010,El Cajon,387
+2010,Escondido,597
+2010,Imperial Beach,145
+2010,La Mesa,184
+2010,National City,428
+2010,Oceanside,650
+2010,San Diego,5616
+2010,San Marcos,237
+2010,Vista,405
+2010,CSU San Diego,32
+2010,San Diego Harbor,20
+2010,Colorado DPR,0
+2010,Ocotillo Wells DPR,0
+2010,San Diego Coast DPR,0
+2010,CSU San Marcos,1
+2010,UC San Diego,6
+2010,CA Highway Patrol - San Diego,9
+2010,Lemon Grove,156
+2010,Santee,153
+2010,Poway,90
+2010,Encinitas,146
+2010,Solana Beach,43
+2010,San Francisco,5747
+2010,CSU San Francisco,8
+2010,San Francisco BART,34
+2010,UC Hastings College of Law,10
+2010,Union Pacific RR - San Francisco,0
+2010,UC San Francisco,9
+2010,CA Highway Patrol - San Francisco,0
+2010,San Joaquin Co. Sheriff's Department,738
+2010,Escalon,15
+2010,Lodi,243
+2010,Manteca,241
+2010,Ripon,22
+2010,Stockton,4033
+2010,Tracy,135
+2010,Stockton Unified School,84
+2010,Union Pacific RR - San Joaquin,10
+2010,CA Highway Patrol - San Joaquin,3
+2010,San Luis Obispo Co. Sheriff's Department,241
+2010,Arroyo Grande,25
+2010,Grover Beach,32
+2010,Morro Bay,29
+2010,Paso Robles,95
+2010,Pismo Beach,24
+2010,San Luis Obispo,126
+2010,Cal Poly San Luis Obispo,0
+2010,Atascadero,79
+2010,San Luis Obispo Coast DPR,2
+2010,Oceano Dunes DPR,3
+2010,Atascadero State Hospital,60
+2010,Union Pacific RR - San Luis Obispo,0
+2010,Cuesta College,0
+2010,CA Highway Patrol - San Luis Obispo,1
+2010,Bay Area DPR,7
+2010,San Mateo Co. Sheriff's Department,224
+2010,Atherton,21
+2010,Belmont,26
+2010,Brisbane,5
+2010,Burlingame,59
+2010,Colma,8
+2010,Daly City,250
+2010,Half Moon Bay,11
+2010,Hillsborough,4
+2010,Menlo Park,41
+2010,Millbrae,33
+2010,Pacifica,69
+2010,Redwood City,174
+2010,San Bruno,81
+2010,San Carlos,24
+2010,San Mateo,292
+2010,South San Francisco,152
+2010,Broadmoor,14
+2010,Foster City,24
+2010,San Mateo BART,4
+2010,Union Pacific RR - San Mateo,0
+2010,East Palo Alto,271
+2010,CA Highway Patrol - San Mateo,1
+2010,Santa Barbara Co. Sheriff's Department,285
+2010,Guadalupe,12
+2010,Lompoc,311
+2010,Santa Barbara,341
+2010,Santa Maria,771
+2010,Carpinteria,39
+2010,Union Pacific RR - Santa Barbara,0
+2010,Solvang,8
+2010,Allen Hancock College,0
+2010,Buelton,11
+2010,Goleta,57
+2010,UC Santa Barbara,5
+2010,CA Highway Patrol - Santa Barbara,1
+2010,Santa Clara Co. Sheriff's Department,254
+2010,Campbell,83
+2010,Cupertino,60
+2010,Gilroy,205
+2010,Los Altos,8
+2010,Los Altos Hills,1
+2010,Los Gatos,34
+2010,Milpitas,91
+2010,Monte Sereno,1
+2010,Morgan Hill,54
+2010,Mountain View,168
+2010,Palo Alto,58
+2010,San Jose,3215
+2010,Santa Clara,182
+2010,Saratoga,22
+2010,Sunnyvale,169
+2010,CSU San Jose,23
+2010,San Jose Community College,3
+2010,West Valley College District,2
+2010,Foothill College,1
+2010,Union Pacific RR - Santa Clara,0
+2010,Santa Clara Transit District,43
+2010,CA Highway Patrol - Santa Clara,0
+2010,Santa Cruz Co. Sheriff's Department,301
+2010,Capitola,113
+2010,Santa Cruz,553
+2010,Watsonville,327
+2010,Scotts Valley,13
+2010,Union Pacific RR - Santa Cruz,0
+2010,Santa Cruz Mtns. DPR,1
+2010,UC Santa Cruz,5
+2010,CA Highway Patrol - Santa Cruz,0
+2010,Shasta Co. Sheriff's Department,582
+2010,Anderson,77
+2010,Redding,793
+2010,Union Pacific RR - Shasta,1
+2010,Shasta Marshal's Office,0
+2010,CA Highway Patrol - Shasta,4
+2010,Sierra Co. Sheriff's Department,19
+2010,Union Pacific RR - Sierra,0
+2010,CA Highway Patrol - Sierra,0
+2010,Siskiyou Co. Sheriff's Department,37
+2010,Dorris,3
+2010,Dunsmuir,5
+2010,Etna,0
+2010,Fort Jones,1
+2010,Montague,3
+2010,Mount Shasta,7
+2010,Tulelake,4
+2010,Weed,21
+2010,Yreka,54
+2010,Lake Shastina,3
+2010,Union Pacific RR - Siskiyou,0
+2010,CA Highway Patrol - Siskiyou,0
+2010,Solano Co. Sheriff's Department,50
+2010,Benicia,50
+2010,Dixon,69
+2010,Fairfield,502
+2010,Rio Vista,27
+2010,Suisun,81
+2010,Vacaville,272
+2010,Vallejo,822
+2010,Union Pacific RR - Solano,2
+2010,Solano Community College,4
+2010,CA Highway Patrol - Solano,2
+2010,Sonoma Co. Sheriff's Department,587
+2010,Cloverdale,19
+2010,Cotati,35
+2010,Healdsburg,16
+2010,Rohnert Park,164
+2010,Santa Rosa,767
+2010,Sebastopol,17
+2010,Sonoma,33
+2010,Petaluma,197
+2010,CSU Sonoma,1
+2010,Union Pacific RR - Sonoma,0
+2010,Sonoma Mendocino Coast DPR,0
+2010,Sonoma Developmental Center,0
+2010,Sonoma Co. Junior College,2
+2010,Windsor,38
+2010,CA Highway Patrol - Sonoma,0
+2010,Silverado DPR,0
+2010,Stanislaus Co. Sheriff's Department,414
+2010,Ceres,168
+2010,Modesto,1398
+2010,Newman,25
+2010,Oakdale,41
+2010,Patterson,72
+2010,Riverbank,36
+2010,Turlock,466
+2010,Waterford,40
+2010,Hughson,9
+2010,CSU Stanislaus,1
+2010,Union Pacific RR - Stanislaus,1
+2010,CA Highway Patrol - Stanislaus,1
+2010,Sutter Co. Sheriff's Department,143
+2010,Yuba City,216
+2010,Union Pacific RR - Sutter,0
+2010,CA Highway Patrol - Sutter,0
+2010,Tehama Co. Sheriff's Department,181
+2010,Corning,46
+2010,Red Bluff,142
+2010,Union Pacific RR - Tehama,0
+2010,CA Highway Patrol - Tehama,0
+2010,Trinity Co. Sheriff's Department,34
+2010,Union Pacific RR - Trinity,0
+2010,CA Highway Patrol - Trinity,0
+2010,Tulare Co. Sheriff's Department,521
+2010,Dinuba,177
+2010,Exeter,22
+2010,Farmersville,68
+2010,Lindsay,69
+2010,Porterville,222
+2010,Tulare,390
+2010,Visalia,578
+2010,Woodlake,18
+2010,Union Pacific RR - Tulare,0
+2010,College of the Sequoias,5
+2010,CA Highway Patrol - Tulare,5
+2010,Tuolumne Co. Sheriff's Department,97
+2010,Sonora,24
+2010,CA Highway Patrol - Tuolumne,0
+2010,Ventura Co. Sheriff's Department,192
+2010,Camarillo,54
+2010,Fillmore,38
+2010,Ojai,19
+2010,Oxnard,691
+2010,Port Hueneme,65
+2010,Santa Paula,101
+2010,Thousand Oaks,139
+2010,Ventura,263
+2010,Simi Valley,129
+2010,Angeles DPR,0
+2010,Moorpark,48
+2010,Channel Coast DPR,3
+2010,Hungry Valley DPR,0
+2010,Union Pacific RR - Ventura,0
+2010,CSU Channel Islands,1
+2010,Ventura Community College,0
+2010,CA Highway Patrol - Ventura,5
+2010,Yolo Co. Sheriff's Department,62
+2010,Davis,99
+2010,Winters,6
+2010,Woodland,161
+2010,West Sacramento,172
+2010,Union Pacific RR - Yolo,1
+2010,UC Davis,9
+2010,CA Highway Patrol - Yolo,2
+2010,Yuba Co. Sheriff's Department,159
+2010,Marysville,83
+2010,Wheatland,5
+2010,Union Pacific RR - Yuba,2
+2010,CA Highway Patrol - Yuba,1
+2011,Alameda Co. Sheriff's Department,725
+2011,Alameda,207
+2011,Albany,37
+2011,Berkeley,482
+2011,Emeryville,208
+2011,Fremont,384
+2011,Hayward,579
+2011,Livermore,267
+2011,Newark,170
+2011,Oakland,6652
+2011,Piedmont,8
+2011,Pleasanton,59
+2011,San Leandro,367
+2011,Union City,311
+2011,Alameda E. Bay Reg. Park Dist.,4
+2011,CSU East Bay,0
+2011,Union Pacific RR - Alameda,18
+2011,Alameda BART,195
+2011,Dublin,79
+2011,Alameda E. Bay Mun. Util. Dist.,0
+2011,UC Berkeley,32
+2011,CA Highway Patrol - Alameda,1
+2011,Alpine Co. Sheriff's Department,7
+2011,CA Highway Patrol - Alpine,0
+2011,Amador Co. Sheriff's Department,54
+2011,Ione,19
+2011,Jackson,18
+2011,Sutter Creek,7
+2011,Union Pacific RR - Amador,0
+2011,CA Highway Patrol - Amador,0
+2011,Butte Co. Sheriff's Department,106
+2011,Biggs,12
+2011,Chico,245
+2011,Gridley,62
+2011,Oroville,67
+2011,Paradise,78
+2011,Union Pacific RR - Butte,0
+2011,Northern Buttes DPR,0
+2011,CSU Chico,4
+2011,CA Highway Patrol - Butte,2
+2011,Calaveras Co. Sheriff's Department,102
+2011,Angels Camp,16
+2011,Union Pacific RR - Calaveras,0
+2011,Calaveras DPR,0
+2011,CA Highway Patrol - Calaveras,2
+2011,Colusa Co. Sheriff's Department,28
+2011,Colusa,3
+2011,Williams,14
+2011,Union Pacific RR - Colusa,0
+2011,CA Highway Patrol - Colusa,0
+2011,Contra Costa Co. Sheriff's Department,455
+2011,Antioch,818
+2011,Brentwood,118
+2011,Clayton,8
+2011,Concord,430
+2011,El Cerrito,106
+2011,Hercules,33
+2011,Pinole,83
+2011,Pittsburg,145
+2011,Pleasant Hill,72
+2011,Richmond,1035
+2011,San Pablo,256
+2011,Walnut Creek,69
+2011,Kensington,3
+2011,Martinez,68
+2011,Lafayette,9
+2011,Moraga,9
+2011,Contra Costa E. Bay Reg. Park Dist.,12
+2011,Contra Costa BART,44
+2011,Contra Costa Community College,11
+2011,Danville,26
+2011,San Ramon,27
+2011,Orinda,4
+2011,Union Pacific RR - Contra Costa,8
+2011,Oakley,79
+2011,CA Highway Patrol - Contra Costa,0
+2011,Del Norte Co. Sheriff's Department,99
+2011,Crescent City,60
+2011,CA Highway Patrol - Del Norte,1
+2011,El Dorado Co. Sheriff's Department,192
+2011,Placerville,68
+2011,South Lake Tahoe,130
+2011,Union Pacific RR - El Dorado,0
+2011,CA Highway Patrol - El Dorado,0
+2011,Fresno Co. Sheriff's Department,740
+2011,Clovis,211
+2011,Coalinga,114
+2011,Firebaugh,12
+2011,Fowler,45
+2011,Fresno,2915
+2011,Huron,100
+2011,Kerman,60
+2011,Kingsburg,64
+2011,Mendota,64
+2011,Parlier,680
+2011,Reedley,202
+2011,Sanger,314
+2011,Selma,209
+2011,State Center Community College,4
+2011,Union Pacific RR - Fresno,4
+2011,San Joaquin DPR,0
+2011,CSU Fresno,17
+2011,CA Highway Patrol - Fresno,3
+2011,Coalinga State Hospital,45
+2011,Orange Cove,0
+2011,Clovis Unified School,0
+2011,Glenn Co. Sheriff's Department,11
+2011,Orland,31
+2011,Willows,22
+2011,Union Pacific RR - Glenn,0
+2011,CA Highway Patrol - Glenn,1
+2011,Humboldt Co. Sheriff's Department,203
+2011,Arcata,48
+2011,Eureka,122
+2011,Ferndale,4
+2011,Fortuna,56
+2011,Trinidad,0
+2011,Rio Dell,4
+2011,CSU Humboldt (Arcata),2
+2011,Union Pacific RR - Humboldt,0
+2011,Northern Coast Redwoods DPR,1
+2011,CA Highway Patrol - Humboldt,0
+2011,Imperial Co. Sheriff's Department,109
+2011,Brawley,54
+2011,Calexico,112
+2011,Calipatria,0
+2011,El Centro,165
+2011,Imperial,8
+2011,Westmorland,1
+2011,Union Pacific RR - Imperial,0
+2011,CA Highway Patrol - Imperial,0
+2011,Holtville,3
+2011,Inyo Co. Sheriff's Department,52
+2011,Bishop,16
+2011,Union Pacific RR - Inyo,0
+2011,CA Highway Patrol - Inyo,0
+2011,Kern Co. Sheriff's Department,1822
+2011,Arvin,165
+2011,Bakersfield,1866
+2011,Delano,220
+2011,McFarland,57
+2011,Ridgecrest,116
+2011,Shafter,41
+2011,Taft,51
+2011,Tehachapi,29
+2011,California City,71
+2011,Stallion Springs,3
+2011,Bear Valley,5
+2011,Union Pacific RR - Kern,0
+2011,CSU Bakersfield,1
+2011,CA Highway Patrol - Kern,0
+2011,Kern High School District,0
+2011,Kings Co. Sheriff's Department,137
+2011,Corcoran,76
+2011,Hanford,174
+2011,Lemoore,81
+2011,Union Pacific RR - Kings,0
+2011,Porterville Developmental Center,5
+2011,Avenal,69
+2011,CA Highway Patrol - Kings,0
+2011,Lake Co. Sheriff's Department,169
+2011,Lakeport,19
+2011,Clearlake,143
+2011,CA Highway Patrol - Lake,0
+2011,Lassen Co. Sheriff's Department,39
+2011,Susanville,81
+2011,Union Pacific RR - Lassen,0
+2011,CA Highway Patrol - Lassen,0
+2011,Los Angeles Co. Sheriff's Department,5595
+2011,Alhambra,152
+2011,Arcadia,68
+2011,Artesia,66
+2011,Avalon,18
+2011,Azusa,239
+2011,Baldwin Park,242
+2011,Bell,291
+2011,Bellflower,286
+2011,Bell Gardens,170
+2011,El Camino College,2
+2011,La Habra Heights,7
+2011,Union Pacific RR - Los Angeles,0
+2011,Metropolitan Trans. Authority (MTA),8
+2011,Pasadena Community College,2
+2011,Westlake Village,4
+2011,Beverly Hills,58
+2011,Bradbury,0
+2011,Burbank,191
+2011,Claremont,32
+2011,Commerce,116
+2011,Compton,1067
+2011,Covina,142
+2011,Cudahy,167
+2011,Culver City,146
+2011,Cerritos,84
+2011,Lanterman Developmental Center,1
+2011,Agoura Hills,15
+2011,West Hollywood,337
+2011,Santa Clarita,262
+2011,Diamond Bar,58
+2011,Downey,390
+2011,Duarte,60
+2011,El Monte,421
+2011,El Segundo,38
+2011,Gardena,281
+2011,Glendale,258
+2011,Glendora,65
+2011,Hawaiian Gardens,67
+2011,Hawthorne,623
+2011,Hermosa Beach,62
+2011,Calabasas,11
+2011,Malibu,15
+2011,Los Angeles Transit Serv. Bureau,502
+2011,Hidden Hills,0
+2011,Huntington Park,487
+2011,Industry,44
+2011,Inglewood,808
+2011,Irwindale,26
+2011,Lakewood,214
+2011,La Mirada,81
+2011,La Puente,157
+2011,La Verne,63
+2011,Lawndale,175
+2011,Lomita,87
+2011,Long Beach,2857
+2011,Los Angeles,20045
+2011,Lynwood,609
+2011,Manhattan Beach,44
+2011,Maywood,155
+2011,Monrovia,75
+2011,Montebello,174
+2011,Monterey Park,102
+2011,Norwalk,371
+2011,Palmdale,785
+2011,Palos Verdes Estates,5
+2011,Paramount,255
+2011,Pasadena,434
+2011,Pico Rivera,243
+2011,Pomona,928
+2011,Redondo Beach,168
+2011,Rolling Hills,0
+2011,Rolling Hills Estates,6
+2011,Rosemead,170
+2011,San Dimas,78
+2011,San Fernando,103
+2011,San Gabriel,107
+2011,San Marino,11
+2011,Santa Fe Springs,107
+2011,Santa Monica,369
+2011,Sierra Madre,10
+2011,Signal Hill,32
+2011,South El Monte,122
+2011,South Gate,580
+2011,South Pasadena,33
+2011,Temple City,50
+2011,Torrance,185
+2011,Vernon,32
+2011,Walnut,40
+2011,West Covina,280
+2011,Whittier,334
+2011,Carson,444
+2011,Cal Poly - Pomona,5
+2011,Rancho Palos Verdes,36
+2011,CSU Dominguez Hills,15
+2011,CSU Long Beach,6
+2011,CSU Los Angeles,5
+2011,CSU Northridge,12
+2011,La Canada-Flintridge,14
+2011,Lancaster,851
+2011,UC Los Angeles,40
+2011,CA Highway Patrol - Los Angeles,28
+2011,Metropolitan State Hospital,0
+2011,Baldwin Park School,0
+2011,Madera Co. Sheriff's Department,311
+2011,Chowchilla,82
+2011,Madera,406
+2011,Union Pacific RR - Madera,0
+2011,CA Highway Patrol - Madera,0
+2011,Marin Co. Sheriff's Department,122
+2011,Belvedere,0
+2011,Fairfax,23
+2011,Twin Cities,36
+2011,Mill Valley,13
+2011,Novato,108
+2011,Ross,1
+2011,San Anselmo,25
+2011,San Rafael,200
+2011,Sausalito,6
+2011,Tiburon,5
+2011,Union Pacific RR - Marin,0
+2011,Marin Community College,2
+2011,Marin DPR,0
+2011,CA Highway Patrol - Marin,0
+2011,Central Marin,0
+2011,Mariposa Co. Sheriff's Department,55
+2011,CA Highway Patrol - Mariposa,0
+2011,Mendocino Co. Sheriff's Department,295
+2011,Fort Bragg,41
+2011,Ukiah,115
+2011,Willits,30
+2011,Mendocino DPR,1
+2011,Union Pacific RR - Mendocino,0
+2011,CA Highway Patrol - Mendocino,1
+2011,Merced Co. Sheriff's Department,459
+2011,Atwater,129
+2011,Dos Palos,40
+2011,Gustine,34
+2011,Livingston,75
+2011,Los Banos,168
+2011,Merced,503
+2011,Union Pacific RR - Merced,0
+2011,Four Rivers DPR,0
+2011,UC Merced,1
+2011,CA Highway Patrol - Merced,0
+2011,Modoc Co. Sheriff's Department,24
+2011,Alturas,18
+2011,Union Pacific RR - Modoc,0
+2011,CA Highway Patrol - Modoc,0
+2011,Mono Co. Sheriff's Department,11
+2011,Mammoth Lakes,38
+2011,CA Highway Patrol - Mono,0
+2011,Monterey Co. Sheriff's Department,197
+2011,Carmel,3
+2011,Del Rey Oaks,4
+2011,Gonzales,23
+2011,Greenfield,82
+2011,King City,70
+2011,Monterey,188
+2011,Pacific Grove,24
+2011,Salinas,1115
+2011,Sand City,5
+2011,Seaside,112
+2011,Soledad,74
+2011,Marina,49
+2011,Monterey Airport,0
+2011,Union Pacific RR - Monterey,0
+2011,Monterey DPR,0
+2011,CSU Monterey Bay,5
+2011,CA Highway Patrol - Monterey,0
+2011,Napa Co. Sheriff's Department,52
+2011,Calistoga,5
+2011,Napa,224
+2011,St. Helena,4
+2011,Union Pacific RR - Napa,0
+2011,Napa State Hospital,119
+2011,American Canyon,44
+2011,Yountville,4
+2011,CA Highway Patrol - Napa,0
+2011,Nevada Co. Sheriff's Department,166
+2011,Grass Valley,64
+2011,Nevada City,18
+2011,Union Pacific RR - Nevada,0
+2011,Truckee,20
+2011,CA Highway Patrol - Nevada,0
+2011,Orange Co. Sheriff's Department,251
+2011,Anaheim,1281
+2011,Brea,58
+2011,Buena Park,230
+2011,Costa Mesa,231
+2011,Cypress,60
+2011,La Palma,11
+2011,Fountain Valley,79
+2011,Fullerton,306
+2011,Garden Grove,450
+2011,Huntington Beach,406
+2011,Laguna Beach,62
+2011,La Habra,201
+2011,Los Alamitos,12
+2011,Newport Beach,116
+2011,Orange,157
+2011,Placentia,82
+2011,San Clemente,55
+2011,San Juan Capistrano,56
+2011,Santa Ana,1313
+2011,Seal Beach,30
+2011,Stanton,141
+2011,Tustin,97
+2011,Villa Park,2
+2011,Westminster,248
+2011,Yorba Linda,49
+2011,Irvine,120
+2011,CSU Fullerton,9
+2011,Union Pacific RR - Orange,0
+2011,Orange Coast DPR,0
+2011,Fairview Developmental Center,10
+2011,Mission Viejo,79
+2011,Dana Point,52
+2011,Laguna Niguel,43
+2011,Laguna Hills,45
+2011,Lake Forest,89
+2011,Laguna Woods,8
+2011,Rancho Santa Margarita,32
+2011,Aliso Viejo,30
+2011,UC Irvine,7
+2011,CA Highway Patrol - Orange,1
+2011,Irvine Valley College,0
+2011,Placer Co. Sheriff's Department,301
+2011,Auburn,52
+2011,Lincoln,29
+2011,Rocklin,62
+2011,Roseville,248
+2011,Sierra DPR,0
+2011,Union Pacific RR - Placer,2
+2011,CA Highway Patrol - Placer,0
+2011,Plumas Co. Sheriff's Department,104
+2011,Union Pacific RR - Plumas,0
+2011,CA Highway Patrol - Plumas,0
+2011,Riverside Co. Sheriff's Department,903
+2011,Banning,159
+2011,Beaumont,89
+2011,Blythe,69
+2011,Coachella,276
+2011,Desert Hot Springs,334
+2011,Hemet,361
+2011,Indio,430
+2011,Norco,34
+2011,Palm Springs,256
+2011,Perris,167
+2011,Riverside,1310
+2011,San Jacinto,118
+2011,Corona,200
+2011,Indian Wells,0
+2011,Rancho Mirage,19
+2011,Palm Desert,76
+2011,Union Pacific RR - Riverside,4
+2011,Inland Empire DPR,1
+2011,Cathedral City,226
+2011,Lake Elsinore,122
+2011,La Quinta,188
+2011,Moreno Valley,732
+2011,Temecula,95
+2011,Calimesa,10
+2011,Canyon Lake,21
+2011,Murrieta,105
+2011,Riverside Community College,5
+2011,Wildomar,46
+2011,Menifee,53
+2011,UC Riverside,7
+2011,CA Highway Patrol - Riverside,9
+2011,Eastvale,46
+2011,Jurupa Valley,150
+2011,Mount San Jacinto Community College,0
+2011,Sacramento Co. Sheriff's Department,2719
+2011,Folsom,84
+2011,Galt,44
+2011,Isleton,10
+2011,Sacramento,3354
+2011,CSU Sacramento,6
+2011,Elk Grove,523
+2011,Gold Fields DPR,7
+2011,Twin Rivers Unified School,54
+2011,CA State Fair,1
+2011,Capital DPR,0
+2011,Twin Cities DPR,0
+2011,Union Pacific RR - Sacramento,3
+2011,Rancho Cordova,324
+2011,Citrus Heights,334
+2011,UC Med Center Sacramento,4
+2011,CA Highway Patrol - Sacramento,14
+2011,San Benito Co. Sheriff's Department,38
+2011,Hollister,158
+2011,Union Pacific RR - San Benito,0
+2011,Hollister Hills DPR,0
+2011,CA Highway Patrol - San Benito,0
+2011,San Bernardino Co. Sheriff's Department,1081
+2011,Barstow,185
+2011,Chino,247
+2011,Colton,189
+2011,Fontana,720
+2011,Montclair,191
+2011,Needles,13
+2011,Ontario,493
+2011,Redlands,197
+2011,Rialto,480
+2011,San Bernardino,1861
+2011,Upland,183
+2011,Victorville,686
+2011,Adelanto,164
+2011,CSU San Bernardino,5
+2011,Rancho Cucamonga,293
+2011,Big Bear,27
+2011,Grand Terrace,17
+2011,Loma Linda,53
+2011,San Bernardino Unified School,90
+2011,Highland,236
+2011,Twentynine Palms,79
+2011,Hesperia,313
+2011,Apple Valley,157
+2011,Yucaipa,118
+2011,San Bernardino College,7
+2011,Chino Hills,68
+2011,Yucca Valley,91
+2011,Fontana Unified School,54
+2011,Union Pacific RR - San Bernardino,0
+2011,Patton State Hospital,249
+2011,Tehachapi DPR,1
+2011,CA Highway Patrol - San Bernardino,3
+2011,Chaffey College,0
+2011,San Diego Co. Sheriff's Department,1397
+2011,Carlsbad,210
+2011,Chula Vista,670
+2011,Coronado,25
+2011,Del Mar,16
+2011,El Cajon,529
+2011,Escondido,495
+2011,Imperial Beach,143
+2011,La Mesa,227
+2011,National City,372
+2011,Oceanside,620
+2011,San Diego,5104
+2011,San Marcos,233
+2011,Vista,387
+2011,CSU San Diego,13
+2011,San Diego Harbor,11
+2011,Colorado DPR,0
+2011,Ocotillo Wells DPR,1
+2011,San Diego Coast DPR,0
+2011,CSU San Marcos,4
+2011,UC San Diego,6
+2011,CA Highway Patrol - San Diego,10
+2011,Lemon Grove,137
+2011,Santee,132
+2011,Poway,94
+2011,Encinitas,140
+2011,Solana Beach,33
+2011,San Francisco,5374
+2011,CSU San Francisco,6
+2011,San Francisco BART,68
+2011,UC Hastings College of Law,10
+2011,Union Pacific RR - San Francisco,0
+2011,UC San Francisco,7
+2011,CA Highway Patrol - San Francisco,0
+2011,San Joaquin Co. Sheriff's Department,820
+2011,Escalon,19
+2011,Lodi,236
+2011,Manteca,206
+2011,Ripon,16
+2011,Stockton,4155
+2011,Tracy,138
+2011,Stockton Unified School,94
+2011,Union Pacific RR - San Joaquin,8
+2011,CA Highway Patrol - San Joaquin,2
+2011,San Luis Obispo Co. Sheriff's Department,208
+2011,Arroyo Grande,23
+2011,Grover Beach,36
+2011,Morro Bay,20
+2011,Paso Robles,95
+2011,Pismo Beach,31
+2011,San Luis Obispo,134
+2011,Cal Poly San Luis Obispo,2
+2011,Atascadero,67
+2011,San Luis Obispo Coast DPR,1
+2011,Oceano Dunes DPR,3
+2011,Atascadero State Hospital,60
+2011,Union Pacific RR - San Luis Obispo,0
+2011,Cuesta College,0
+2011,CA Highway Patrol - San Luis Obispo,0
+2011,Bay Area DPR,0
+2011,San Mateo Co. Sheriff's Department,219
+2011,Atherton,3
+2011,Belmont,16
+2011,Brisbane,10
+2011,Burlingame,51
+2011,Colma,11
+2011,Daly City,184
+2011,Half Moon Bay,3
+2011,Hillsborough,0
+2011,Menlo Park,49
+2011,Millbrae,28
+2011,Pacifica,44
+2011,Redwood City,177
+2011,San Bruno,87
+2011,San Carlos,0
+2011,San Mateo,246
+2011,South San Francisco,138
+2011,Broadmoor,8
+2011,Foster City,26
+2011,San Mateo BART,10
+2011,Union Pacific RR - San Mateo,0
+2011,East Palo Alto,263
+2011,CA Highway Patrol - San Mateo,3
+2011,Santa Barbara Co. Sheriff's Department,255
+2011,Guadalupe,8
+2011,Lompoc,275
+2011,Santa Barbara,319
+2011,Santa Maria,716
+2011,Carpinteria,24
+2011,Union Pacific RR - Santa Barbara,0
+2011,Solvang,5
+2011,Allen Hancock College,0
+2011,Buelton,7
+2011,Goleta,40
+2011,UC Santa Barbara,6
+2011,CA Highway Patrol - Santa Barbara,2
+2011,Santa Clara Co. Sheriff's Department,186
+2011,Campbell,96
+2011,Cupertino,46
+2011,Gilroy,204
+2011,Los Altos,6
+2011,Los Altos Hills,4
+2011,Los Gatos,42
+2011,Milpitas,102
+2011,Monte Sereno,0
+2011,Morgan Hill,42
+2011,Mountain View,153
+2011,Palo Alto,64
+2011,San Jose,3206
+2011,Santa Clara,177
+2011,Saratoga,16
+2011,Sunnyvale,150
+2011,CSU San Jose,23
+2011,San Jose Community College,1
+2011,West Valley College District,1
+2011,Foothill College,1
+2011,Union Pacific RR - Santa Clara,1
+2011,Santa Clara Transit District,42
+2011,CA Highway Patrol - Santa Clara,1
+2011,Santa Cruz Co. Sheriff's Department,362
+2011,Capitola,28
+2011,Santa Cruz,480
+2011,Watsonville,281
+2011,Scotts Valley,13
+2011,Union Pacific RR - Santa Cruz,0
+2011,Santa Cruz Mtns. DPR,0
+2011,UC Santa Cruz,5
+2011,CA Highway Patrol - Santa Cruz,0
+2011,Shasta Co. Sheriff's Department,524
+2011,Anderson,75
+2011,Redding,701
+2011,Union Pacific RR - Shasta,0
+2011,Shasta Marshal's Office,0
+2011,CA Highway Patrol - Shasta,2
+2011,Sierra Co. Sheriff's Department,5
+2011,Union Pacific RR - Sierra,0
+2011,CA Highway Patrol - Sierra,0
+2011,Siskiyou Co. Sheriff's Department,71
+2011,Dorris,7
+2011,Dunsmuir,3
+2011,Etna,2
+2011,Fort Jones,4
+2011,Montague,4
+2011,Mount Shasta,6
+2011,Tulelake,3
+2011,Weed,14
+2011,Yreka,41
+2011,Lake Shastina,0
+2011,Union Pacific RR - Siskiyou,0
+2011,CA Highway Patrol - Siskiyou,0
+2011,Solano Co. Sheriff's Department,95
+2011,Benicia,40
+2011,Dixon,44
+2011,Fairfield,425
+2011,Rio Vista,45
+2011,Suisun,50
+2011,Vacaville,195
+2011,Vallejo,903
+2011,Union Pacific RR - Solano,3
+2011,Solano Community College,2
+2011,CA Highway Patrol - Solano,0
+2011,Sonoma Co. Sheriff's Department,511
+2011,Cloverdale,11
+2011,Cotati,35
+2011,Healdsburg,14
+2011,Rohnert Park,193
+2011,Santa Rosa,682
+2011,Sebastopol,8
+2011,Sonoma,32
+2011,Petaluma,140
+2011,CSU Sonoma,3
+2011,Union Pacific RR - Sonoma,0
+2011,Sonoma Mendocino Coast DPR,0
+2011,Sonoma Developmental Center,0
+2011,Sonoma Co. Junior College,7
+2011,Windsor,65
+2011,CA Highway Patrol - Sonoma,1
+2011,Silverado DPR,0
+2011,Stanislaus Co. Sheriff's Department,323
+2011,Ceres,164
+2011,Modesto,1413
+2011,Newman,22
+2011,Oakdale,44
+2011,Patterson,56
+2011,Riverbank,62
+2011,Turlock,368
+2011,Waterford,21
+2011,Hughson,7
+2011,CSU Stanislaus,1
+2011,Union Pacific RR - Stanislaus,0
+2011,CA Highway Patrol - Stanislaus,3
+2011,Sutter Co. Sheriff's Department,132
+2011,Yuba City,210
+2011,Union Pacific RR - Sutter,0
+2011,CA Highway Patrol - Sutter,1
+2011,Tehama Co. Sheriff's Department,184
+2011,Corning,57
+2011,Red Bluff,104
+2011,Union Pacific RR - Tehama,0
+2011,CA Highway Patrol - Tehama,3
+2011,Trinity Co. Sheriff's Department,34
+2011,Union Pacific RR - Trinity,0
+2011,CA Highway Patrol - Trinity,0
+2011,Tulare Co. Sheriff's Department,517
+2011,Dinuba,156
+2011,Exeter,45
+2011,Farmersville,37
+2011,Lindsay,70
+2011,Porterville,226
+2011,Tulare,343
+2011,Visalia,486
+2011,Woodlake,24
+2011,Union Pacific RR - Tulare,0
+2011,College of the Sequoias,1
+2011,CA Highway Patrol - Tulare,0
+2011,Tuolumne Co. Sheriff's Department,75
+2011,Sonora,30
+2011,CA Highway Patrol - Tuolumne,1
+2011,Ventura Co. Sheriff's Department,155
+2011,Camarillo,79
+2011,Fillmore,32
+2011,Ojai,25
+2011,Oxnard,619
+2011,Port Hueneme,52
+2011,Santa Paula,130
+2011,Thousand Oaks,137
+2011,Ventura,326
+2011,Simi Valley,116
+2011,Angeles DPR,0
+2011,Moorpark,27
+2011,Channel Coast DPR,0
+2011,Hungry Valley DPR,2
+2011,Union Pacific RR - Ventura,0
+2011,CSU Channel Islands,4
+2011,Ventura Community College,0
+2011,CA Highway Patrol - Ventura,1
+2011,Yolo Co. Sheriff's Department,82
+2011,Davis,114
+2011,Winters,11
+2011,Woodland,178
+2011,West Sacramento,172
+2011,Union Pacific RR - Yolo,2
+2011,UC Davis,10
+2011,CA Highway Patrol - Yolo,0
+2011,Yuba Co. Sheriff's Department,230
+2011,Marysville,101
+2011,Wheatland,8
+2011,Union Pacific RR - Yuba,2
+2011,CA Highway Patrol - Yuba,0
+2012,Alameda Co. Sheriff's Department,651
+2012,Alameda,160
+2012,Albany,35
+2012,Berkeley,487
+2012,Emeryville,175
+2012,Fremont,306
+2012,Hayward,613
+2012,Livermore,301
+2012,Newark,169
+2012,Oakland,7962
+2012,Piedmont,13
+2012,Pleasanton,49
+2012,San Leandro,437
+2012,Union City,235
+2012,Alameda E. Bay Reg. Park Dist.,7
+2012,CSU East Bay,4
+2012,Union Pacific RR - Alameda,4
+2012,Alameda BART,172
+2012,Dublin,84
+2012,Alameda E. Bay Mun. Util. Dist.,0
+2012,UC Berkeley,33
+2012,CA Highway Patrol - Alameda,2
+2012,Alpine Co. Sheriff's Department,8
+2012,CA Highway Patrol - Alpine,0
+2012,Amador Co. Sheriff's Department,75
+2012,Ione,10
+2012,Jackson,38
+2012,Sutter Creek,7
+2012,Union Pacific RR - Amador,0
+2012,CA Highway Patrol - Amador,0
+2012,Butte Co. Sheriff's Department,126
+2012,Biggs,19
+2012,Chico,282
+2012,Gridley,78
+2012,Oroville,107
+2012,Paradise,66
+2012,Union Pacific RR - Butte,0
+2012,Northern Buttes DPR,1
+2012,CSU Chico,5
+2012,CA Highway Patrol - Butte,0
+2012,Calaveras Co. Sheriff's Department,87
+2012,Angels Camp,14
+2012,Union Pacific RR - Calaveras,0
+2012,Calaveras DPR,0
+2012,CA Highway Patrol - Calaveras,0
+2012,Colusa Co. Sheriff's Department,26
+2012,Colusa,11
+2012,Williams,9
+2012,Union Pacific RR - Colusa,0
+2012,CA Highway Patrol - Colusa,0
+2012,Contra Costa Co. Sheriff's Department,472
+2012,Antioch,1068
+2012,Brentwood,99
+2012,Clayton,9
+2012,Concord,402
+2012,El Cerrito,128
+2012,Hercules,43
+2012,Pinole,91
+2012,Pittsburg,152
+2012,Pleasant Hill,73
+2012,Richmond,1162
+2012,San Pablo,277
+2012,Walnut Creek,84
+2012,Kensington,4
+2012,Martinez,70
+2012,Lafayette,21
+2012,Moraga,5
+2012,Contra Costa E. Bay Reg. Park Dist.,8
+2012,Contra Costa BART,49
+2012,Contra Costa Community College,8
+2012,Danville,16
+2012,San Ramon,45
+2012,Orinda,7
+2012,Union Pacific RR - Contra Costa,3
+2012,Oakley,85
+2012,CA Highway Patrol - Contra Costa,2
+2012,Del Norte Co. Sheriff's Department,104
+2012,Crescent City,51
+2012,CA Highway Patrol - Del Norte,0
+2012,El Dorado Co. Sheriff's Department,241
+2012,Placerville,55
+2012,South Lake Tahoe,148
+2012,Union Pacific RR - El Dorado,0
+2012,CA Highway Patrol - El Dorado,0
+2012,Fresno Co. Sheriff's Department,825
+2012,Clovis,219
+2012,Coalinga,188
+2012,Firebaugh,29
+2012,Fowler,48
+2012,Fresno,2748
+2012,Huron,69
+2012,Kerman,42
+2012,Kingsburg,38
+2012,Mendota,53
+2012,Parlier,119
+2012,Reedley,173
+2012,Sanger,269
+2012,Selma,208
+2012,State Center Community College,7
+2012,Union Pacific RR - Fresno,0
+2012,San Joaquin DPR,2
+2012,CSU Fresno,18
+2012,CA Highway Patrol - Fresno,2
+2012,Coalinga State Hospital,47
+2012,Orange Cove,0
+2012,Clovis Unified School,0
+2012,Glenn Co. Sheriff's Department,25
+2012,Orland,27
+2012,Willows,26
+2012,Union Pacific RR - Glenn,0
+2012,CA Highway Patrol - Glenn,0
+2012,Humboldt Co. Sheriff's Department,115
+2012,Arcata,54
+2012,Eureka,159
+2012,Ferndale,3
+2012,Fortuna,46
+2012,Trinidad,0
+2012,Rio Dell,8
+2012,CSU Humboldt (Arcata),4
+2012,Union Pacific RR - Humboldt,0
+2012,Northern Coast Redwoods DPR,0
+2012,CA Highway Patrol - Humboldt,0
+2012,Imperial Co. Sheriff's Department,139
+2012,Brawley,59
+2012,Calexico,108
+2012,Calipatria,0
+2012,El Centro,166
+2012,Imperial,7
+2012,Westmorland,2
+2012,Union Pacific RR - Imperial,0
+2012,CA Highway Patrol - Imperial,0
+2012,Holtville,19
+2012,Inyo Co. Sheriff's Department,67
+2012,Bishop,16
+2012,Union Pacific RR - Inyo,0
+2012,CA Highway Patrol - Inyo,0
+2012,Kern Co. Sheriff's Department,2179
+2012,Arvin,165
+2012,Bakersfield,1929
+2012,Delano,274
+2012,McFarland,57
+2012,Ridgecrest,108
+2012,Shafter,49
+2012,Taft,54
+2012,Tehachapi,59
+2012,California City,90
+2012,Stallion Springs,6
+2012,Bear Valley,1
+2012,Union Pacific RR - Kern,0
+2012,CSU Bakersfield,2
+2012,CA Highway Patrol - Kern,3
+2012,Kern High School District,0
+2012,Kings Co. Sheriff's Department,183
+2012,Corcoran,89
+2012,Hanford,309
+2012,Lemoore,131
+2012,Union Pacific RR - Kings,0
+2012,Porterville Developmental Center,2
+2012,Avenal,53
+2012,CA Highway Patrol - Kings,0
+2012,Lake Co. Sheriff's Department,190
+2012,Lakeport,16
+2012,Clearlake,170
+2012,CA Highway Patrol - Lake,0
+2012,Lassen Co. Sheriff's Department,36
+2012,Susanville,96
+2012,Union Pacific RR - Lassen,0
+2012,CA Highway Patrol - Lassen,0
+2012,Los Angeles Co. Sheriff's Department,5458
+2012,Alhambra,149
+2012,Arcadia,57
+2012,Artesia,60
+2012,Avalon,13
+2012,Azusa,220
+2012,Baldwin Park,261
+2012,Bell,225
+2012,Bellflower,304
+2012,Bell Gardens,125
+2012,El Camino College,2
+2012,La Habra Heights,6
+2012,Union Pacific RR - Los Angeles,2
+2012,Metropolitan Trans. Authority (MTA),11
+2012,Pasadena Community College,4
+2012,Westlake Village,3
+2012,Beverly Hills,89
+2012,Bradbury,0
+2012,Burbank,243
+2012,Claremont,40
+2012,Commerce,112
+2012,Compton,1218
+2012,Covina,151
+2012,Cudahy,151
+2012,Culver City,179
+2012,Cerritos,120
+2012,Lanterman Developmental Center,0
+2012,Agoura Hills,12
+2012,West Hollywood,338
+2012,Santa Clarita,342
+2012,Diamond Bar,55
+2012,Downey,381
+2012,Duarte,71
+2012,El Monte,395
+2012,El Segundo,38
+2012,Gardena,287
+2012,Glendale,233
+2012,Glendora,59
+2012,Hawaiian Gardens,69
+2012,Hawthorne,637
+2012,Hermosa Beach,54
+2012,Calabasas,13
+2012,Malibu,15
+2012,Los Angeles Transit Serv. Bureau,665
+2012,Hidden Hills,0
+2012,Huntington Park,373
+2012,Industry,68
+2012,Inglewood,780
+2012,Irwindale,15
+2012,Lakewood,227
+2012,La Mirada,98
+2012,La Puente,121
+2012,La Verne,50
+2012,Lawndale,167
+2012,Lomita,95
+2012,Long Beach,2705
+2012,Los Angeles,18547
+2012,Lynwood,541
+2012,Manhattan Beach,62
+2012,Maywood,175
+2012,Monrovia,81
+2012,Montebello,146
+2012,Monterey Park,75
+2012,Norwalk,433
+2012,Palmdale,812
+2012,Palos Verdes Estates,6
+2012,Paramount,244
+2012,Pasadena,433
+2012,Pico Rivera,261
+2012,Pomona,1021
+2012,Redondo Beach,190
+2012,Rolling Hills,0
+2012,Rolling Hills Estates,9
+2012,Rosemead,143
+2012,San Dimas,51
+2012,San Fernando,77
+2012,San Gabriel,88
+2012,San Marino,13
+2012,Santa Fe Springs,99
+2012,Santa Monica,395
+2012,Sierra Madre,4
+2012,Signal Hill,43
+2012,South El Monte,88
+2012,South Gate,553
+2012,South Pasadena,27
+2012,Temple City,38
+2012,Torrance,190
+2012,Vernon,27
+2012,Walnut,37
+2012,West Covina,281
+2012,Whittier,247
+2012,Carson,520
+2012,Cal Poly - Pomona,7
+2012,Rancho Palos Verdes,35
+2012,CSU Dominguez Hills,6
+2012,CSU Long Beach,1
+2012,CSU Los Angeles,1
+2012,CSU Northridge,12
+2012,La Canada-Flintridge,12
+2012,Lancaster,859
+2012,UC Los Angeles,62
+2012,CA Highway Patrol - Los Angeles,38
+2012,Metropolitan State Hospital,0
+2012,Baldwin Park School,0
+2012,Madera Co. Sheriff's Department,353
+2012,Chowchilla,115
+2012,Madera,466
+2012,Union Pacific RR - Madera,0
+2012,CA Highway Patrol - Madera,0
+2012,Marin Co. Sheriff's Department,107
+2012,Belvedere,0
+2012,Fairfax,10
+2012,Twin Cities,37
+2012,Mill Valley,12
+2012,Novato,96
+2012,Ross,2
+2012,San Anselmo,13
+2012,San Rafael,191
+2012,Sausalito,7
+2012,Tiburon,10
+2012,Union Pacific RR - Marin,0
+2012,Marin Community College,4
+2012,Marin DPR,1
+2012,CA Highway Patrol - Marin,0
+2012,Central Marin,0
+2012,Mariposa Co. Sheriff's Department,71
+2012,CA Highway Patrol - Mariposa,0
+2012,Mendocino Co. Sheriff's Department,183
+2012,Fort Bragg,34
+2012,Ukiah,108
+2012,Willits,32
+2012,Mendocino DPR,1
+2012,Union Pacific RR - Mendocino,0
+2012,CA Highway Patrol - Mendocino,0
+2012,Merced Co. Sheriff's Department,544
+2012,Atwater,180
+2012,Dos Palos,59
+2012,Gustine,24
+2012,Livingston,74
+2012,Los Banos,142
+2012,Merced,810
+2012,Union Pacific RR - Merced,0
+2012,Four Rivers DPR,0
+2012,UC Merced,0
+2012,CA Highway Patrol - Merced,0
+2012,Modoc Co. Sheriff's Department,33
+2012,Alturas,36
+2012,Union Pacific RR - Modoc,0
+2012,CA Highway Patrol - Modoc,0
+2012,Mono Co. Sheriff's Department,6
+2012,Mammoth Lakes,38
+2012,CA Highway Patrol - Mono,0
+2012,Monterey Co. Sheriff's Department,199
+2012,Carmel,7
+2012,Del Rey Oaks,2
+2012,Gonzales,36
+2012,Greenfield,120
+2012,King City,54
+2012,Monterey,153
+2012,Pacific Grove,27
+2012,Salinas,1027
+2012,Sand City,7
+2012,Seaside,109
+2012,Soledad,80
+2012,Marina,41
+2012,Monterey Airport,0
+2012,Union Pacific RR - Monterey,0
+2012,Monterey DPR,0
+2012,CSU Monterey Bay,2
+2012,CA Highway Patrol - Monterey,2
+2012,Napa Co. Sheriff's Department,53
+2012,Calistoga,4
+2012,Napa,216
+2012,St. Helena,3
+2012,Union Pacific RR - Napa,0
+2012,Napa State Hospital,138
+2012,American Canyon,64
+2012,Yountville,7
+2012,CA Highway Patrol - Napa,0
+2012,Nevada Co. Sheriff's Department,144
+2012,Grass Valley,65
+2012,Nevada City,12
+2012,Union Pacific RR - Nevada,0
+2012,Truckee,22
+2012,CA Highway Patrol - Nevada,0
+2012,Orange Co. Sheriff's Department,258
+2012,Anaheim,1279
+2012,Brea,74
+2012,Buena Park,206
+2012,Costa Mesa,254
+2012,Cypress,56
+2012,La Palma,18
+2012,Fountain Valley,106
+2012,Fullerton,452
+2012,Garden Grove,439
+2012,Huntington Beach,313
+2012,Laguna Beach,57
+2012,La Habra,147
+2012,Los Alamitos,27
+2012,Newport Beach,101
+2012,Orange,135
+2012,Placentia,107
+2012,San Clemente,75
+2012,San Juan Capistrano,59
+2012,Santa Ana,1334
+2012,Seal Beach,17
+2012,Stanton,104
+2012,Tustin,114
+2012,Villa Park,2
+2012,Westminster,284
+2012,Yorba Linda,53
+2012,Irvine,110
+2012,CSU Fullerton,11
+2012,Union Pacific RR - Orange,0
+2012,Orange Coast DPR,0
+2012,Fairview Developmental Center,188
+2012,Mission Viejo,73
+2012,Dana Point,65
+2012,Laguna Niguel,47
+2012,Laguna Hills,29
+2012,Lake Forest,107
+2012,Laguna Woods,4
+2012,Rancho Santa Margarita,27
+2012,Aliso Viejo,43
+2012,UC Irvine,12
+2012,CA Highway Patrol - Orange,2
+2012,Irvine Valley College,0
+2012,Placer Co. Sheriff's Department,278
+2012,Auburn,44
+2012,Lincoln,14
+2012,Rocklin,49
+2012,Roseville,293
+2012,Sierra DPR,0
+2012,Union Pacific RR - Placer,1
+2012,CA Highway Patrol - Placer,1
+2012,Plumas Co. Sheriff's Department,107
+2012,Union Pacific RR - Plumas,0
+2012,CA Highway Patrol - Plumas,1
+2012,Riverside Co. Sheriff's Department,831
+2012,Banning,148
+2012,Beaumont,103
+2012,Blythe,73
+2012,Coachella,265
+2012,Desert Hot Springs,344
+2012,Hemet,406
+2012,Indio,450
+2012,Norco,56
+2012,Palm Springs,302
+2012,Perris,240
+2012,Riverside,1389
+2012,San Jacinto,137
+2012,Corona,210
+2012,Indian Wells,2
+2012,Rancho Mirage,23
+2012,Palm Desert,104
+2012,Union Pacific RR - Riverside,1
+2012,Inland Empire DPR,3
+2012,Cathedral City,204
+2012,Lake Elsinore,130
+2012,La Quinta,150
+2012,Moreno Valley,706
+2012,Temecula,97
+2012,Calimesa,13
+2012,Canyon Lake,11
+2012,Murrieta,70
+2012,Riverside Community College,3
+2012,Wildomar,53
+2012,Menifee,87
+2012,UC Riverside,10
+2012,CA Highway Patrol - Riverside,15
+2012,Eastvale,41
+2012,Jurupa Valley,312
+2012,Mount San Jacinto Community College,0
+2012,Sacramento Co. Sheriff's Department,3047
+2012,Folsom,85
+2012,Galt,59
+2012,Isleton,9
+2012,Sacramento,3520
+2012,CSU Sacramento,0
+2012,Elk Grove,512
+2012,Gold Fields DPR,0
+2012,Twin Rivers Unified School,41
+2012,CA State Fair,0
+2012,Capital DPR,2
+2012,Twin Cities DPR,0
+2012,Union Pacific RR - Sacramento,6
+2012,Rancho Cordova,393
+2012,Citrus Heights,329
+2012,UC Med Center Sacramento,6
+2012,CA Highway Patrol - Sacramento,8
+2012,San Benito Co. Sheriff's Department,55
+2012,Hollister,162
+2012,Union Pacific RR - San Benito,0
+2012,Hollister Hills DPR,0
+2012,CA Highway Patrol - San Benito,0
+2012,San Bernardino Co. Sheriff's Department,988
+2012,Barstow,207
+2012,Chino,291
+2012,Colton,189
+2012,Fontana,850
+2012,Montclair,197
+2012,Needles,23
+2012,Ontario,534
+2012,Redlands,221
+2012,Rialto,509
+2012,San Bernardino,2022
+2012,Upland,148
+2012,Victorville,676
+2012,Adelanto,199
+2012,CSU San Bernardino,7
+2012,Rancho Cucamonga,321
+2012,Big Bear,42
+2012,Grand Terrace,29
+2012,Loma Linda,43
+2012,San Bernardino Unified School,82
+2012,Highland,296
+2012,Twentynine Palms,81
+2012,Hesperia,402
+2012,Apple Valley,221
+2012,Yucaipa,119
+2012,San Bernardino College,1
+2012,Chino Hills,64
+2012,Yucca Valley,90
+2012,Fontana Unified School,18
+2012,Union Pacific RR - San Bernardino,1
+2012,Patton State Hospital,154
+2012,Tehachapi DPR,2
+2012,CA Highway Patrol - San Bernardino,5
+2012,Chaffey College,0
+2012,San Diego Co. Sheriff's Department,1630
+2012,Carlsbad,265
+2012,Chula Vista,581
+2012,Coronado,20
+2012,Del Mar,15
+2012,El Cajon,365
+2012,Escondido,628
+2012,Imperial Beach,147
+2012,La Mesa,224
+2012,National City,371
+2012,Oceanside,728
+2012,San Diego,5529
+2012,San Marcos,227
+2012,Vista,465
+2012,CSU San Diego,35
+2012,San Diego Harbor,31
+2012,Colorado DPR,0
+2012,Ocotillo Wells DPR,0
+2012,San Diego Coast DPR,0
+2012,CSU San Marcos,2
+2012,UC San Diego,8
+2012,CA Highway Patrol - San Diego,9
+2012,Lemon Grove,137
+2012,Santee,154
+2012,Poway,94
+2012,Encinitas,150
+2012,Solana Beach,24
+2012,San Francisco,5777
+2012,CSU San Francisco,9
+2012,San Francisco BART,62
+2012,UC Hastings College of Law,12
+2012,Union Pacific RR - San Francisco,0
+2012,UC San Francisco,13
+2012,CA Highway Patrol - San Francisco,1
+2012,San Joaquin Co. Sheriff's Department,810
+2012,Escalon,24
+2012,Lodi,280
+2012,Manteca,265
+2012,Ripon,6
+2012,Stockton,4630
+2012,Tracy,145
+2012,Stockton Unified School,79
+2012,Union Pacific RR - San Joaquin,8
+2012,CA Highway Patrol - San Joaquin,2
+2012,San Luis Obispo Co. Sheriff's Department,219
+2012,Arroyo Grande,60
+2012,Grover Beach,32
+2012,Morro Bay,21
+2012,Paso Robles,91
+2012,Pismo Beach,36
+2012,San Luis Obispo,119
+2012,Cal Poly San Luis Obispo,1
+2012,Atascadero,192
+2012,San Luis Obispo Coast DPR,1
+2012,Oceano Dunes DPR,7
+2012,Atascadero State Hospital,125
+2012,Union Pacific RR - San Luis Obispo,0
+2012,Cuesta College,0
+2012,CA Highway Patrol - San Luis Obispo,2
+2012,Bay Area DPR,1
+2012,San Mateo Co. Sheriff's Department,300
+2012,Atherton,6
+2012,Belmont,24
+2012,Brisbane,6
+2012,Burlingame,61
+2012,Colma,7
+2012,Daly City,216
+2012,Half Moon Bay,0
+2012,Hillsborough,1
+2012,Menlo Park,53
+2012,Millbrae,5
+2012,Pacifica,42
+2012,Redwood City,208
+2012,San Bruno,85
+2012,San Carlos,0
+2012,San Mateo,261
+2012,South San Francisco,111
+2012,Broadmoor,13
+2012,Foster City,18
+2012,San Mateo BART,13
+2012,Union Pacific RR - San Mateo,0
+2012,East Palo Alto,333
+2012,CA Highway Patrol - San Mateo,0
+2012,Santa Barbara Co. Sheriff's Department,273
+2012,Guadalupe,10
+2012,Lompoc,222
+2012,Santa Barbara,363
+2012,Santa Maria,690
+2012,Carpinteria,17
+2012,Union Pacific RR - Santa Barbara,0
+2012,Solvang,5
+2012,Allen Hancock College,0
+2012,Buelton,3
+2012,Goleta,50
+2012,UC Santa Barbara,9
+2012,CA Highway Patrol - Santa Barbara,1
+2012,Santa Clara Co. Sheriff's Department,232
+2012,Campbell,90
+2012,Cupertino,58
+2012,Gilroy,159
+2012,Los Altos,6
+2012,Los Altos Hills,5
+2012,Los Gatos,38
+2012,Milpitas,81
+2012,Monte Sereno,3
+2012,Morgan Hill,50
+2012,Mountain View,155
+2012,Palo Alto,53
+2012,San Jose,3547
+2012,Santa Clara,221
+2012,Saratoga,9
+2012,Sunnyvale,170
+2012,CSU San Jose,18
+2012,San Jose Community College,1
+2012,West Valley College District,2
+2012,Foothill College,0
+2012,Union Pacific RR - Santa Clara,0
+2012,Santa Clara Transit District,44
+2012,CA Highway Patrol - Santa Clara,0
+2012,Santa Cruz Co. Sheriff's Department,285
+2012,Capitola,47
+2012,Santa Cruz,433
+2012,Watsonville,252
+2012,Scotts Valley,16
+2012,Union Pacific RR - Santa Cruz,0
+2012,Santa Cruz Mtns. DPR,0
+2012,UC Santa Cruz,6
+2012,CA Highway Patrol - Santa Cruz,2
+2012,Shasta Co. Sheriff's Department,506
+2012,Anderson,87
+2012,Redding,705
+2012,Union Pacific RR - Shasta,0
+2012,Shasta Marshal's Office,0
+2012,CA Highway Patrol - Shasta,0
+2012,Sierra Co. Sheriff's Department,17
+2012,Union Pacific RR - Sierra,0
+2012,CA Highway Patrol - Sierra,0
+2012,Siskiyou Co. Sheriff's Department,29
+2012,Dorris,1
+2012,Dunsmuir,5
+2012,Etna,1
+2012,Fort Jones,0
+2012,Montague,2
+2012,Mount Shasta,5
+2012,Tulelake,1
+2012,Weed,18
+2012,Yreka,42
+2012,Lake Shastina,0
+2012,Union Pacific RR - Siskiyou,0
+2012,CA Highway Patrol - Siskiyou,0
+2012,Solano Co. Sheriff's Department,78
+2012,Benicia,37
+2012,Dixon,53
+2012,Fairfield,454
+2012,Rio Vista,39
+2012,Suisun,57
+2012,Vacaville,246
+2012,Vallejo,878
+2012,Union Pacific RR - Solano,2
+2012,Solano Community College,0
+2012,CA Highway Patrol - Solano,2
+2012,Sonoma Co. Sheriff's Department,605
+2012,Cloverdale,6
+2012,Cotati,54
+2012,Healdsburg,18
+2012,Rohnert Park,192
+2012,Santa Rosa,636
+2012,Sebastopol,8
+2012,Sonoma,27
+2012,Petaluma,167
+2012,CSU Sonoma,4
+2012,Union Pacific RR - Sonoma,0
+2012,Sonoma Mendocino Coast DPR,1
+2012,Sonoma Developmental Center,1
+2012,Sonoma Co. Junior College,6
+2012,Windsor,67
+2012,CA Highway Patrol - Sonoma,0
+2012,Silverado DPR,0
+2012,Stanislaus Co. Sheriff's Department,418
+2012,Ceres,183
+2012,Modesto,1590
+2012,Newman,25
+2012,Oakdale,58
+2012,Patterson,53
+2012,Riverbank,57
+2012,Turlock,445
+2012,Waterford,31
+2012,Hughson,10
+2012,CSU Stanislaus,2
+2012,Union Pacific RR - Stanislaus,0
+2012,CA Highway Patrol - Stanislaus,3
+2012,Sutter Co. Sheriff's Department,71
+2012,Yuba City,247
+2012,Union Pacific RR - Sutter,0
+2012,CA Highway Patrol - Sutter,0
+2012,Tehama Co. Sheriff's Department,189
+2012,Corning,51
+2012,Red Bluff,112
+2012,Union Pacific RR - Tehama,0
+2012,CA Highway Patrol - Tehama,2
+2012,Trinity Co. Sheriff's Department,21
+2012,Union Pacific RR - Trinity,0
+2012,CA Highway Patrol - Trinity,0
+2012,Tulare Co. Sheriff's Department,638
+2012,Dinuba,181
+2012,Exeter,28
+2012,Farmersville,34
+2012,Lindsay,49
+2012,Porterville,200
+2012,Tulare,376
+2012,Visalia,544
+2012,Woodlake,48
+2012,Union Pacific RR - Tulare,0
+2012,College of the Sequoias,1
+2012,CA Highway Patrol - Tulare,1
+2012,Tuolumne Co. Sheriff's Department,85
+2012,Sonora,20
+2012,CA Highway Patrol - Tuolumne,0
+2012,Ventura Co. Sheriff's Department,157
+2012,Camarillo,61
+2012,Fillmore,24
+2012,Ojai,13
+2012,Oxnard,603
+2012,Port Hueneme,65
+2012,Santa Paula,91
+2012,Thousand Oaks,157
+2012,Ventura,310
+2012,Simi Valley,141
+2012,Angeles DPR,0
+2012,Moorpark,41
+2012,Channel Coast DPR,1
+2012,Hungry Valley DPR,0
+2012,Union Pacific RR - Ventura,0
+2012,CSU Channel Islands,0
+2012,Ventura Community College,0
+2012,CA Highway Patrol - Ventura,0
+2012,Yolo Co. Sheriff's Department,73
+2012,Davis,95
+2012,Winters,6
+2012,Woodland,177
+2012,West Sacramento,190
+2012,Union Pacific RR - Yolo,1
+2012,UC Davis,14
+2012,CA Highway Patrol - Yolo,0
+2012,Yuba Co. Sheriff's Department,193
+2012,Marysville,88
+2012,Wheatland,2
+2012,Union Pacific RR - Yuba,2
+2012,CA Highway Patrol - Yuba,0
+2013,Alameda Co. Sheriff's Department,648
+2013,Alameda,158
+2013,Albany,29
+2013,Berkeley,562
+2013,Emeryville,132
+2013,Fremont,273
+2013,Hayward,589
+2013,Livermore,270
+2013,Newark,123
+2013,Oakland,7984
+2013,Piedmont,20
+2013,Pleasanton,60
+2013,San Leandro,394
+2013,Union City,218
+2013,Alameda E. Bay Reg. Park Dist.,2
+2013,CSU East Bay,4
+2013,Union Pacific RR - Alameda,1
+2013,Alameda BART,155
+2013,Dublin,70
+2013,Alameda E. Bay Mun. Util. Dist.,0
+2013,UC Berkeley,47
+2013,CA Highway Patrol - Alameda,0
+2013,Alpine Co. Sheriff's Department,6
+2013,CA Highway Patrol - Alpine,0
+2013,Amador Co. Sheriff's Department,67
+2013,Ione,6
+2013,Jackson,23
+2013,Sutter Creek,4
+2013,Union Pacific RR - Amador,0
+2013,CA Highway Patrol - Amador,0
+2013,Butte Co. Sheriff's Department,96
+2013,Biggs,16
+2013,Chico,299
+2013,Gridley,72
+2013,Oroville,78
+2013,Paradise,68
+2013,Union Pacific RR - Butte,0
+2013,Northern Buttes DPR,1
+2013,CSU Chico,4
+2013,CA Highway Patrol - Butte,0
+2013,Calaveras Co. Sheriff's Department,121
+2013,Angels Camp,9
+2013,Union Pacific RR - Calaveras,0
+2013,Calaveras DPR,0
+2013,CA Highway Patrol - Calaveras,0
+2013,Colusa Co. Sheriff's Department,24
+2013,Colusa,10
+2013,Williams,5
+2013,Union Pacific RR - Colusa,0
+2013,CA Highway Patrol - Colusa,4
+2013,Contra Costa Co. Sheriff's Department,429
+2013,Antioch,946
+2013,Brentwood,89
+2013,Clayton,2
+2013,Concord,407
+2013,El Cerrito,92
+2013,Hercules,22
+2013,Pinole,69
+2013,Pittsburg,185
+2013,Pleasant Hill,55
+2013,Richmond,1112
+2013,San Pablo,200
+2013,Walnut Creek,78
+2013,Kensington,5
+2013,Martinez,53
+2013,Lafayette,21
+2013,Moraga,11
+2013,Contra Costa E. Bay Reg. Park Dist.,8
+2013,Contra Costa BART,45
+2013,Contra Costa Community College,7
+2013,Danville,17
+2013,San Ramon,27
+2013,Orinda,10
+2013,Union Pacific RR - Contra Costa,0
+2013,Oakley,70
+2013,CA Highway Patrol - Contra Costa,1
+2013,Del Norte Co. Sheriff's Department,81
+2013,Crescent City,94
+2013,CA Highway Patrol - Del Norte,0
+2013,El Dorado Co. Sheriff's Department,210
+2013,Placerville,63
+2013,South Lake Tahoe,116
+2013,Union Pacific RR - El Dorado,0
+2013,CA Highway Patrol - El Dorado,1
+2013,Fresno Co. Sheriff's Department,849
+2013,Clovis,181
+2013,Coalinga,131
+2013,Firebaugh,70
+2013,Fowler,37
+2013,Fresno,2552
+2013,Huron,71
+2013,Kerman,45
+2013,Kingsburg,23
+2013,Mendota,38
+2013,Parlier,91
+2013,Reedley,157
+2013,Sanger,146
+2013,Selma,191
+2013,State Center Community College,14
+2013,Union Pacific RR - Fresno,0
+2013,San Joaquin DPR,3
+2013,CSU Fresno,3
+2013,CA Highway Patrol - Fresno,0
+2013,Coalinga State Hospital,54
+2013,Orange Cove,212
+2013,Clovis Unified School,0
+2013,Glenn Co. Sheriff's Department,107
+2013,Orland,27
+2013,Willows,17
+2013,Union Pacific RR - Glenn,0
+2013,CA Highway Patrol - Glenn,0
+2013,Humboldt Co. Sheriff's Department,153
+2013,Arcata,67
+2013,Eureka,192
+2013,Ferndale,4
+2013,Fortuna,41
+2013,Trinidad,0
+2013,Rio Dell,11
+2013,CSU Humboldt (Arcata),4
+2013,Union Pacific RR - Humboldt,0
+2013,Northern Coast Redwoods DPR,2
+2013,CA Highway Patrol - Humboldt,0
+2013,Imperial Co. Sheriff's Department,199
+2013,Brawley,61
+2013,Calexico,92
+2013,Calipatria,0
+2013,El Centro,144
+2013,Imperial,7
+2013,Westmorland,2
+2013,Union Pacific RR - Imperial,0
+2013,CA Highway Patrol - Imperial,0
+2013,Holtville,12
+2013,Inyo Co. Sheriff's Department,47
+2013,Bishop,28
+2013,Union Pacific RR - Inyo,0
+2013,CA Highway Patrol - Inyo,0
+2013,Kern Co. Sheriff's Department,2157
+2013,Arvin,153
+2013,Bakersfield,1857
+2013,Delano,309
+2013,McFarland,65
+2013,Ridgecrest,154
+2013,Shafter,58
+2013,Taft,60
+2013,Tehachapi,41
+2013,California City,87
+2013,Stallion Springs,9
+2013,Bear Valley,12
+2013,Union Pacific RR - Kern,0
+2013,CSU Bakersfield,3
+2013,CA Highway Patrol - Kern,4
+2013,Kern High School District,0
+2013,Kings Co. Sheriff's Department,171
+2013,Corcoran,71
+2013,Hanford,299
+2013,Lemoore,111
+2013,Union Pacific RR - Kings,0
+2013,Porterville Developmental Center,11
+2013,Avenal,62
+2013,CA Highway Patrol - Kings,0
+2013,Lake Co. Sheriff's Department,216
+2013,Lakeport,14
+2013,Clearlake,125
+2013,CA Highway Patrol - Lake,1
+2013,Lassen Co. Sheriff's Department,43
+2013,Susanville,83
+2013,Union Pacific RR - Lassen,0
+2013,CA Highway Patrol - Lassen,1
+2013,Los Angeles Co. Sheriff's Department,5323
+2013,Alhambra,163
+2013,Arcadia,77
+2013,Artesia,63
+2013,Avalon,4
+2013,Azusa,246
+2013,Baldwin Park,220
+2013,Bell,208
+2013,Bellflower,279
+2013,Bell Gardens,120
+2013,El Camino College,2
+2013,La Habra Heights,3
+2013,Union Pacific RR - Los Angeles,3
+2013,Metropolitan Trans. Authority (MTA),1
+2013,Pasadena Community College,5
+2013,Westlake Village,11
+2013,Beverly Hills,77
+2013,Bradbury,1
+2013,Burbank,171
+2013,Claremont,37
+2013,Commerce,83
+2013,Compton,1242
+2013,Covina,138
+2013,Cudahy,111
+2013,Culver City,161
+2013,Cerritos,82
+2013,Lanterman Developmental Center,0
+2013,Agoura Hills,19
+2013,West Hollywood,216
+2013,Santa Clarita,276
+2013,Diamond Bar,62
+2013,Downey,326
+2013,Duarte,41
+2013,El Monte,340
+2013,El Segundo,37
+2013,Gardena,245
+2013,Glendale,181
+2013,Glendora,65
+2013,Hawaiian Gardens,56
+2013,Hawthorne,580
+2013,Hermosa Beach,27
+2013,Calabasas,20
+2013,Malibu,28
+2013,Los Angeles Transit Serv. Bureau,689
+2013,Hidden Hills,2
+2013,Huntington Park,359
+2013,Industry,51
+2013,Inglewood,739
+2013,Irwindale,20
+2013,Lakewood,225
+2013,La Mirada,72
+2013,La Puente,143
+2013,La Verne,37
+2013,Lawndale,162
+2013,Lomita,66
+2013,Long Beach,2346
+2013,Los Angeles,16524
+2013,Lynwood,436
+2013,Manhattan Beach,64
+2013,Maywood,112
+2013,Monrovia,57
+2013,Montebello,183
+2013,Monterey Park,104
+2013,Norwalk,407
+2013,Palmdale,759
+2013,Palos Verdes Estates,6
+2013,Paramount,222
+2013,Pasadena,434
+2013,Pico Rivera,207
+2013,Pomona,809
+2013,Redondo Beach,160
+2013,Rolling Hills,0
+2013,Rolling Hills Estates,3
+2013,Rosemead,149
+2013,San Dimas,65
+2013,San Fernando,85
+2013,San Gabriel,103
+2013,San Marino,20
+2013,Santa Fe Springs,75
+2013,Santa Monica,324
+2013,Sierra Madre,13
+2013,Signal Hill,32
+2013,South El Monte,88
+2013,South Gate,496
+2013,South Pasadena,29
+2013,Temple City,48
+2013,Torrance,187
+2013,Vernon,22
+2013,Walnut,37
+2013,West Covina,231
+2013,Whittier,223
+2013,Carson,400
+2013,Cal Poly - Pomona,2
+2013,Rancho Palos Verdes,30
+2013,CSU Dominguez Hills,6
+2013,CSU Long Beach,3
+2013,CSU Los Angeles,5
+2013,CSU Northridge,6
+2013,La Canada-Flintridge,12
+2013,Lancaster,832
+2013,UC Los Angeles,85
+2013,CA Highway Patrol - Los Angeles,28
+2013,Metropolitan State Hospital,0
+2013,Baldwin Park School,0
+2013,Madera Co. Sheriff's Department,367
+2013,Chowchilla,81
+2013,Madera,568
+2013,Union Pacific RR - Madera,0
+2013,CA Highway Patrol - Madera,1
+2013,Marin Co. Sheriff's Department,99
+2013,Belvedere,0
+2013,Fairfax,13
+2013,Twin Cities,0
+2013,Mill Valley,11
+2013,Novato,107
+2013,Ross,1
+2013,San Anselmo,0
+2013,San Rafael,206
+2013,Sausalito,10
+2013,Tiburon,2
+2013,Union Pacific RR - Marin,0
+2013,Marin Community College,0
+2013,Marin DPR,0
+2013,CA Highway Patrol - Marin,1
+2013,Central Marin,41
+2013,Mariposa Co. Sheriff's Department,84
+2013,CA Highway Patrol - Mariposa,0
+2013,Mendocino Co. Sheriff's Department,265
+2013,Fort Bragg,53
+2013,Ukiah,116
+2013,Willits,30
+2013,Mendocino DPR,5
+2013,Union Pacific RR - Mendocino,0
+2013,CA Highway Patrol - Mendocino,3
+2013,Merced Co. Sheriff's Department,545
+2013,Atwater,182
+2013,Dos Palos,89
+2013,Gustine,39
+2013,Livingston,33
+2013,Los Banos,109
+2013,Merced,556
+2013,Union Pacific RR - Merced,0
+2013,Four Rivers DPR,1
+2013,UC Merced,0
+2013,CA Highway Patrol - Merced,1
+2013,Modoc Co. Sheriff's Department,41
+2013,Alturas,28
+2013,Union Pacific RR - Modoc,0
+2013,CA Highway Patrol - Modoc,0
+2013,Mono Co. Sheriff's Department,10
+2013,Mammoth Lakes,18
+2013,CA Highway Patrol - Mono,1
+2013,Monterey Co. Sheriff's Department,205
+2013,Carmel,9
+2013,Del Rey Oaks,5
+2013,Gonzales,24
+2013,Greenfield,89
+2013,King City,68
+2013,Monterey,120
+2013,Pacific Grove,22
+2013,Salinas,1001
+2013,Sand City,3
+2013,Seaside,120
+2013,Soledad,73
+2013,Marina,50
+2013,Monterey Airport,0
+2013,Union Pacific RR - Monterey,0
+2013,Monterey DPR,0
+2013,CSU Monterey Bay,2
+2013,CA Highway Patrol - Monterey,3
+2013,Napa Co. Sheriff's Department,39
+2013,Calistoga,9
+2013,Napa,255
+2013,St. Helena,6
+2013,Union Pacific RR - Napa,0
+2013,Napa State Hospital,53
+2013,American Canyon,54
+2013,Yountville,1
+2013,CA Highway Patrol - Napa,0
+2013,Nevada Co. Sheriff's Department,274
+2013,Grass Valley,115
+2013,Nevada City,26
+2013,Union Pacific RR - Nevada,0
+2013,Truckee,18
+2013,CA Highway Patrol - Nevada,0
+2013,Orange Co. Sheriff's Department,241
+2013,Anaheim,1130
+2013,Brea,64
+2013,Buena Park,221
+2013,Costa Mesa,252
+2013,Cypress,50
+2013,La Palma,10
+2013,Fountain Valley,92
+2013,Fullerton,372
+2013,Garden Grove,455
+2013,Huntington Beach,362
+2013,Laguna Beach,41
+2013,La Habra,88
+2013,Los Alamitos,24
+2013,Newport Beach,73
+2013,Orange,147
+2013,Placentia,66
+2013,San Clemente,56
+2013,San Juan Capistrano,57
+2013,Santa Ana,1121
+2013,Seal Beach,16
+2013,Stanton,112
+2013,Tustin,100
+2013,Villa Park,6
+2013,Westminster,283
+2013,Yorba Linda,30
+2013,Irvine,113
+2013,CSU Fullerton,4
+2013,Union Pacific RR - Orange,0
+2013,Orange Coast DPR,0
+2013,Fairview Developmental Center,23
+2013,Mission Viejo,62
+2013,Dana Point,70
+2013,Laguna Niguel,57
+2013,Laguna Hills,53
+2013,Lake Forest,105
+2013,Laguna Woods,5
+2013,Rancho Santa Margarita,17
+2013,Aliso Viejo,25
+2013,UC Irvine,36
+2013,CA Highway Patrol - Orange,3
+2013,Irvine Valley College,0
+2013,Placer Co. Sheriff's Department,262
+2013,Auburn,49
+2013,Lincoln,25
+2013,Rocklin,62
+2013,Roseville,261
+2013,Sierra DPR,0
+2013,Union Pacific RR - Placer,0
+2013,CA Highway Patrol - Placer,1
+2013,Plumas Co. Sheriff's Department,90
+2013,Union Pacific RR - Plumas,0
+2013,CA Highway Patrol - Plumas,2
+2013,Riverside Co. Sheriff's Department,692
+2013,Banning,129
+2013,Beaumont,85
+2013,Blythe,65
+2013,Coachella,118
+2013,Desert Hot Springs,277
+2013,Hemet,447
+2013,Indio,468
+2013,Norco,42
+2013,Palm Springs,255
+2013,Perris,241
+2013,Riverside,1330
+2013,San Jacinto,124
+2013,Corona,162
+2013,Indian Wells,7
+2013,Rancho Mirage,26
+2013,Palm Desert,110
+2013,Union Pacific RR - Riverside,2
+2013,Inland Empire DPR,2
+2013,Cathedral City,149
+2013,Lake Elsinore,103
+2013,La Quinta,68
+2013,Moreno Valley,638
+2013,Temecula,91
+2013,Calimesa,14
+2013,Canyon Lake,3
+2013,Murrieta,70
+2013,Riverside Community College,2
+2013,Wildomar,40
+2013,Menifee,99
+2013,UC Riverside,9
+2013,CA Highway Patrol - Riverside,5
+2013,Eastvale,63
+2013,Jurupa Valley,267
+2013,Mount San Jacinto Community College,0
+2013,Sacramento Co. Sheriff's Department,3033
+2013,Folsom,98
+2013,Galt,63
+2013,Isleton,9
+2013,Sacramento,3137
+2013,CSU Sacramento,4
+2013,Elk Grove,469
+2013,Gold Fields DPR,1
+2013,Twin Rivers Unified School,21
+2013,CA State Fair,0
+2013,Capital DPR,2
+2013,Twin Cities DPR,0
+2013,Union Pacific RR - Sacramento,0
+2013,Rancho Cordova,352
+2013,Citrus Heights,320
+2013,UC Med Center Sacramento,2
+2013,CA Highway Patrol - Sacramento,4
+2013,San Benito Co. Sheriff's Department,50
+2013,Hollister,195
+2013,Union Pacific RR - San Benito,0
+2013,Hollister Hills DPR,0
+2013,CA Highway Patrol - San Benito,0
+2013,San Bernardino Co. Sheriff's Department,980
+2013,Barstow,229
+2013,Chino,258
+2013,Colton,161
+2013,Fontana,725
+2013,Montclair,187
+2013,Needles,15
+2013,Ontario,453
+2013,Redlands,215
+2013,Rialto,434
+2013,San Bernardino,1949
+2013,Upland,163
+2013,Victorville,651
+2013,Adelanto,198
+2013,CSU San Bernardino,4
+2013,Rancho Cucamonga,331
+2013,Big Bear,56
+2013,Grand Terrace,38
+2013,Loma Linda,61
+2013,San Bernardino Unified School,81
+2013,Highland,191
+2013,Twentynine Palms,74
+2013,Hesperia,371
+2013,Apple Valley,185
+2013,Yucaipa,107
+2013,San Bernardino College,0
+2013,Chino Hills,63
+2013,Yucca Valley,86
+2013,Fontana Unified School,28
+2013,Union Pacific RR - San Bernardino,2
+2013,Patton State Hospital,134
+2013,Tehachapi DPR,1
+2013,CA Highway Patrol - San Bernardino,3
+2013,Chaffey College,0
+2013,San Diego Co. Sheriff's Department,1505
+2013,Carlsbad,221
+2013,Chula Vista,595
+2013,Coronado,11
+2013,Del Mar,16
+2013,El Cajon,386
+2013,Escondido,596
+2013,Imperial Beach,133
+2013,La Mesa,181
+2013,National City,314
+2013,Oceanside,634
+2013,San Diego,5303
+2013,San Marcos,214
+2013,Vista,445
+2013,CSU San Diego,21
+2013,San Diego Harbor,30
+2013,Colorado DPR,0
+2013,Ocotillo Wells DPR,0
+2013,San Diego Coast DPR,3
+2013,CSU San Marcos,4
+2013,UC San Diego,7
+2013,CA Highway Patrol - San Diego,9
+2013,Lemon Grove,145
+2013,Santee,156
+2013,Poway,90
+2013,Encinitas,127
+2013,Solana Beach,27
+2013,San Francisco,7064
+2013,CSU San Francisco,9
+2013,San Francisco BART,66
+2013,UC Hastings College of Law,17
+2013,Union Pacific RR - San Francisco,0
+2013,UC San Francisco,7
+2013,CA Highway Patrol - San Francisco,1
+2013,San Joaquin Co. Sheriff's Department,640
+2013,Escalon,10
+2013,Lodi,287
+2013,Manteca,212
+2013,Ripon,15
+2013,Stockton,3622
+2013,Tracy,152
+2013,Stockton Unified School,40
+2013,Union Pacific RR - San Joaquin,0
+2013,CA Highway Patrol - San Joaquin,2
+2013,San Luis Obispo Co. Sheriff's Department,298
+2013,Arroyo Grande,31
+2013,Grover Beach,39
+2013,Morro Bay,31
+2013,Paso Robles,103
+2013,Pismo Beach,22
+2013,San Luis Obispo,161
+2013,Cal Poly San Luis Obispo,6
+2013,Atascadero,97
+2013,San Luis Obispo Coast DPR,0
+2013,Oceano Dunes DPR,3
+2013,Atascadero State Hospital,278
+2013,Union Pacific RR - San Luis Obispo,0
+2013,Cuesta College,0
+2013,CA Highway Patrol - San Luis Obispo,0
+2013,Bay Area DPR,0
+2013,San Mateo Co. Sheriff's Department,310
+2013,Atherton,10
+2013,Belmont,27
+2013,Brisbane,5
+2013,Burlingame,37
+2013,Colma,5
+2013,Daly City,223
+2013,Half Moon Bay,0
+2013,Hillsborough,0
+2013,Menlo Park,53
+2013,Millbrae,0
+2013,Pacifica,66
+2013,Redwood City,190
+2013,San Bruno,102
+2013,San Carlos,0
+2013,San Mateo,239
+2013,South San Francisco,118
+2013,Broadmoor,14
+2013,Foster City,15
+2013,San Mateo BART,14
+2013,Union Pacific RR - San Mateo,0
+2013,East Palo Alto,347
+2013,CA Highway Patrol - San Mateo,1
+2013,Santa Barbara Co. Sheriff's Department,268
+2013,Guadalupe,10
+2013,Lompoc,188
+2013,Santa Barbara,362
+2013,Santa Maria,490
+2013,Carpinteria,21
+2013,Union Pacific RR - Santa Barbara,0
+2013,Solvang,7
+2013,Allen Hancock College,0
+2013,Buelton,7
+2013,Goleta,43
+2013,UC Santa Barbara,19
+2013,CA Highway Patrol - Santa Barbara,1
+2013,Santa Clara Co. Sheriff's Department,189
+2013,Campbell,106
+2013,Cupertino,41
+2013,Gilroy,180
+2013,Los Altos,23
+2013,Los Altos Hills,2
+2013,Los Gatos,25
+2013,Milpitas,93
+2013,Monte Sereno,1
+2013,Morgan Hill,63
+2013,Mountain View,157
+2013,Palo Alto,54
+2013,San Jose,3215
+2013,Santa Clara,172
+2013,Saratoga,14
+2013,Sunnyvale,144
+2013,CSU San Jose,17
+2013,San Jose Community College,0
+2013,West Valley College District,3
+2013,Foothill College,0
+2013,Union Pacific RR - Santa Clara,0
+2013,Santa Clara Transit District,39
+2013,CA Highway Patrol - Santa Clara,0
+2013,Santa Cruz Co. Sheriff's Department,296
+2013,Capitola,38
+2013,Santa Cruz,407
+2013,Watsonville,237
+2013,Scotts Valley,11
+2013,Union Pacific RR - Santa Cruz,0
+2013,Santa Cruz Mtns. DPR,4
+2013,UC Santa Cruz,9
+2013,CA Highway Patrol - Santa Cruz,0
+2013,Shasta Co. Sheriff's Department,501
+2013,Anderson,63
+2013,Redding,585
+2013,Union Pacific RR - Shasta,1
+2013,Shasta Marshal's Office,0
+2013,CA Highway Patrol - Shasta,0
+2013,Sierra Co. Sheriff's Department,7
+2013,Union Pacific RR - Sierra,0
+2013,CA Highway Patrol - Sierra,0
+2013,Siskiyou Co. Sheriff's Department,23
+2013,Dorris,1
+2013,Dunsmuir,4
+2013,Etna,1
+2013,Fort Jones,1
+2013,Montague,2
+2013,Mount Shasta,5
+2013,Tulelake,1
+2013,Weed,26
+2013,Yreka,49
+2013,Lake Shastina,2
+2013,Union Pacific RR - Siskiyou,0
+2013,CA Highway Patrol - Siskiyou,1
+2013,Solano Co. Sheriff's Department,121
+2013,Benicia,30
+2013,Dixon,35
+2013,Fairfield,498
+2013,Rio Vista,32
+2013,Suisun,64
+2013,Vacaville,201
+2013,Vallejo,1019
+2013,Union Pacific RR - Solano,0
+2013,Solano Community College,0
+2013,CA Highway Patrol - Solano,1
+2013,Sonoma Co. Sheriff's Department,592
+2013,Cloverdale,5
+2013,Cotati,35
+2013,Healdsburg,25
+2013,Rohnert Park,180
+2013,Santa Rosa,541
+2013,Sebastopol,23
+2013,Sonoma,38
+2013,Petaluma,179
+2013,CSU Sonoma,2
+2013,Union Pacific RR - Sonoma,0
+2013,Sonoma Mendocino Coast DPR,1
+2013,Sonoma Developmental Center,48
+2013,Sonoma Co. Junior College,7
+2013,Windsor,105
+2013,CA Highway Patrol - Sonoma,1
+2013,Silverado DPR,0
+2013,Stanislaus Co. Sheriff's Department,365
+2013,Ceres,133
+2013,Modesto,1704
+2013,Newman,36
+2013,Oakdale,50
+2013,Patterson,41
+2013,Riverbank,37
+2013,Turlock,310
+2013,Waterford,29
+2013,Hughson,7
+2013,CSU Stanislaus,2
+2013,Union Pacific RR - Stanislaus,0
+2013,CA Highway Patrol - Stanislaus,2
+2013,Sutter Co. Sheriff's Department,70
+2013,Yuba City,174
+2013,Union Pacific RR - Sutter,0
+2013,CA Highway Patrol - Sutter,0
+2013,Tehama Co. Sheriff's Department,158
+2013,Corning,47
+2013,Red Bluff,146
+2013,Union Pacific RR - Tehama,0
+2013,CA Highway Patrol - Tehama,0
+2013,Trinity Co. Sheriff's Department,30
+2013,Union Pacific RR - Trinity,0
+2013,CA Highway Patrol - Trinity,0
+2013,Tulare Co. Sheriff's Department,641
+2013,Dinuba,214
+2013,Exeter,20
+2013,Farmersville,47
+2013,Lindsay,40
+2013,Porterville,194
+2013,Tulare,430
+2013,Visalia,500
+2013,Woodlake,10
+2013,Union Pacific RR - Tulare,0
+2013,College of the Sequoias,0
+2013,CA Highway Patrol - Tulare,1
+2013,Tuolumne Co. Sheriff's Department,90
+2013,Sonora,13
+2013,CA Highway Patrol - Tuolumne,0
+2013,Ventura Co. Sheriff's Department,123
+2013,Camarillo,73
+2013,Fillmore,26
+2013,Ojai,14
+2013,Oxnard,651
+2013,Port Hueneme,57
+2013,Santa Paula,108
+2013,Thousand Oaks,139
+2013,Ventura,262
+2013,Simi Valley,132
+2013,Angeles DPR,0
+2013,Moorpark,37
+2013,Channel Coast DPR,0
+2013,Hungry Valley DPR,0
+2013,Union Pacific RR - Ventura,0
+2013,CSU Channel Islands,7
+2013,Ventura Community College,0
+2013,CA Highway Patrol - Ventura,0
+2013,Yolo Co. Sheriff's Department,43
+2013,Davis,103
+2013,Winters,8
+2013,Woodland,272
+2013,West Sacramento,205
+2013,Union Pacific RR - Yolo,1
+2013,UC Davis,10
+2013,CA Highway Patrol - Yolo,0
+2013,Yuba Co. Sheriff's Department,185
+2013,Marysville,87
+2013,Wheatland,0
+2013,Union Pacific RR - Yuba,0
+2013,CA Highway Patrol - Yuba,0
+2014,Alameda Co. Sheriff's Department,588
+2014,Alameda,145
+2014,Albany,31
+2014,Berkeley,431
+2014,Emeryville,117
+2014,Fremont,284
+2014,Hayward,605
+2014,Livermore,236
+2014,Newark,109
+2014,Oakland,6910
+2014,Piedmont,8
+2014,Pleasanton,61
+2014,San Leandro,369
+2014,Union City,207
+2014,Alameda E. Bay Reg. Park Dist.,8
+2014,CSU East Bay,2
+2014,Union Pacific RR - Alameda,0
+2014,Alameda BART,134
+2014,Dublin,70
+2014,Alameda E. Bay Mun. Util. Dist.,0
+2014,UC Berkeley,41
+2014,CA Highway Patrol - Alameda,0
+2014,Alpine Co. Sheriff's Department,4
+2014,CA Highway Patrol - Alpine,0
+2014,Amador Co. Sheriff's Department,55
+2014,Ione,6
+2014,Jackson,17
+2014,Sutter Creek,3
+2014,Union Pacific RR - Amador,0
+2014,CA Highway Patrol - Amador,0
+2014,Butte Co. Sheriff's Department,82
+2014,Biggs,17
+2014,Chico,340
+2014,Gridley,88
+2014,Oroville,91
+2014,Paradise,52
+2014,Union Pacific RR - Butte,0
+2014,Northern Buttes DPR,0
+2014,CSU Chico,8
+2014,CA Highway Patrol - Butte,0
+2014,Calaveras Co. Sheriff's Department,106
+2014,Angels Camp,7
+2014,Union Pacific RR - Calaveras,0
+2014,Calaveras DPR,0
+2014,CA Highway Patrol - Calaveras,0
+2014,Colusa Co. Sheriff's Department,25
+2014,Colusa,9
+2014,Williams,6
+2014,Union Pacific RR - Colusa,0
+2014,CA Highway Patrol - Colusa,0
+2014,Contra Costa Co. Sheriff's Department,412
+2014,Antioch,849
+2014,Brentwood,102
+2014,Clayton,4
+2014,Concord,465
+2014,El Cerrito,77
+2014,Hercules,27
+2014,Pinole,69
+2014,Pittsburg,175
+2014,Pleasant Hill,60
+2014,Richmond,843
+2014,San Pablo,241
+2014,Walnut Creek,74
+2014,Kensington,2
+2014,Martinez,73
+2014,Lafayette,17
+2014,Moraga,8
+2014,Contra Costa E. Bay Reg. Park Dist.,9
+2014,Contra Costa BART,48
+2014,Contra Costa Community College,5
+2014,Danville,17
+2014,San Ramon,23
+2014,Orinda,4
+2014,Union Pacific RR - Contra Costa,0
+2014,Oakley,45
+2014,CA Highway Patrol - Contra Costa,1
+2014,Del Norte Co. Sheriff's Department,102
+2014,Crescent City,63
+2014,CA Highway Patrol - Del Norte,0
+2014,El Dorado Co. Sheriff's Department,240
+2014,Placerville,57
+2014,South Lake Tahoe,112
+2014,Union Pacific RR - El Dorado,0
+2014,CA Highway Patrol - El Dorado,0
+2014,Fresno Co. Sheriff's Department,735
+2014,Clovis,216
+2014,Coalinga,121
+2014,Firebaugh,75
+2014,Fowler,49
+2014,Fresno,2382
+2014,Huron,72
+2014,Kerman,38
+2014,Kingsburg,34
+2014,Mendota,72
+2014,Parlier,116
+2014,Reedley,199
+2014,Sanger,97
+2014,Selma,154
+2014,State Center Community College,6
+2014,Union Pacific RR - Fresno,1
+2014,San Joaquin DPR,1
+2014,CSU Fresno,8
+2014,CA Highway Patrol - Fresno,0
+2014,Coalinga State Hospital,161
+2014,Orange Cove,10
+2014,Clovis Unified School,0
+2014,Glenn Co. Sheriff's Department,81
+2014,Orland,20
+2014,Willows,22
+2014,Union Pacific RR - Glenn,0
+2014,CA Highway Patrol - Glenn,2
+2014,Humboldt Co. Sheriff's Department,202
+2014,Arcata,78
+2014,Eureka,145
+2014,Ferndale,3
+2014,Fortuna,33
+2014,Trinidad,0
+2014,Rio Dell,19
+2014,CSU Humboldt (Arcata),3
+2014,Union Pacific RR - Humboldt,0
+2014,Northern Coast Redwoods DPR,2
+2014,CA Highway Patrol - Humboldt,0
+2014,Imperial Co. Sheriff's Department,214
+2014,Brawley,69
+2014,Calexico,96
+2014,Calipatria,0
+2014,El Centro,167
+2014,Imperial,5
+2014,Westmorland,8
+2014,Union Pacific RR - Imperial,0
+2014,CA Highway Patrol - Imperial,0
+2014,Holtville,24
+2014,Inyo Co. Sheriff's Department,79
+2014,Bishop,27
+2014,Union Pacific RR - Inyo,0
+2014,CA Highway Patrol - Inyo,0
+2014,Kern Co. Sheriff's Department,1982
+2014,Arvin,177
+2014,Bakersfield,1678
+2014,Delano,215
+2014,McFarland,65
+2014,Ridgecrest,118
+2014,Shafter,46
+2014,Taft,46
+2014,Tehachapi,51
+2014,California City,79
+2014,Stallion Springs,4
+2014,Bear Valley,2
+2014,Union Pacific RR - Kern,1
+2014,CSU Bakersfield,1
+2014,CA Highway Patrol - Kern,0
+2014,Kern High School District,0
+2014,Kings Co. Sheriff's Department,144
+2014,Corcoran,86
+2014,Hanford,305
+2014,Lemoore,119
+2014,Union Pacific RR - Kings,0
+2014,Porterville Developmental Center,24
+2014,Avenal,18
+2014,CA Highway Patrol - Kings,0
+2014,Lake Co. Sheriff's Department,193
+2014,Lakeport,17
+2014,Clearlake,97
+2014,CA Highway Patrol - Lake,0
+2014,Lassen Co. Sheriff's Department,33
+2014,Susanville,107
+2014,Union Pacific RR - Lassen,0
+2014,CA Highway Patrol - Lassen,0
+2014,Los Angeles Co. Sheriff's Department,5091
+2014,Alhambra,168
+2014,Arcadia,60
+2014,Artesia,49
+2014,Avalon,20
+2014,Azusa,165
+2014,Baldwin Park,219
+2014,Bell,217
+2014,Bellflower,293
+2014,Bell Gardens,108
+2014,El Camino College,3
+2014,La Habra Heights,8
+2014,Union Pacific RR - Los Angeles,3
+2014,Metropolitan Trans. Authority (MTA),9
+2014,Pasadena Community College,2
+2014,Westlake Village,7
+2014,Beverly Hills,111
+2014,Bradbury,2
+2014,Burbank,150
+2014,Claremont,39
+2014,Commerce,77
+2014,Compton,1129
+2014,Covina,110
+2014,Cudahy,81
+2014,Culver City,169
+2014,Cerritos,86
+2014,Lanterman Developmental Center,0
+2014,Agoura Hills,17
+2014,West Hollywood,267
+2014,Santa Clarita,307
+2014,Diamond Bar,49
+2014,Downey,281
+2014,Duarte,54
+2014,El Monte,333
+2014,El Segundo,48
+2014,Gardena,276
+2014,Glendale,186
+2014,Glendora,66
+2014,Hawaiian Gardens,55
+2014,Hawthorne,658
+2014,Hermosa Beach,37
+2014,Calabasas,19
+2014,Malibu,25
+2014,Los Angeles Transit Serv. Bureau,747
+2014,Hidden Hills,0
+2014,Huntington Park,409
+2014,Industry,72
+2014,Inglewood,783
+2014,Irwindale,18
+2014,Lakewood,202
+2014,La Mirada,89
+2014,La Puente,136
+2014,La Verne,46
+2014,Lawndale,157
+2014,Lomita,77
+2014,Long Beach,2304
+2014,Los Angeles,19171
+2014,Lynwood,401
+2014,Manhattan Beach,37
+2014,Maywood,88
+2014,Monrovia,47
+2014,Montebello,134
+2014,Monterey Park,91
+2014,Norwalk,316
+2014,Palmdale,840
+2014,Palos Verdes Estates,5
+2014,Paramount,239
+2014,Pasadena,394
+2014,Pico Rivera,275
+2014,Pomona,777
+2014,Redondo Beach,158
+2014,Rolling Hills,1
+2014,Rolling Hills Estates,7
+2014,Rosemead,147
+2014,San Dimas,69
+2014,San Fernando,75
+2014,San Gabriel,83
+2014,San Marino,5
+2014,Santa Fe Springs,74
+2014,Santa Monica,338
+2014,Sierra Madre,13
+2014,Signal Hill,40
+2014,South El Monte,120
+2014,South Gate,506
+2014,South Pasadena,30
+2014,Temple City,45
+2014,Torrance,155
+2014,Vernon,25
+2014,Walnut,29
+2014,West Covina,225
+2014,Whittier,239
+2014,Carson,339
+2014,Cal Poly - Pomona,5
+2014,Rancho Palos Verdes,24
+2014,CSU Dominguez Hills,3
+2014,CSU Long Beach,1
+2014,CSU Los Angeles,3
+2014,CSU Northridge,6
+2014,La Canada-Flintridge,18
+2014,Lancaster,891
+2014,UC Los Angeles,114
+2014,CA Highway Patrol - Los Angeles,28
+2014,Metropolitan State Hospital,0
+2014,Baldwin Park School,0
+2014,Madera Co. Sheriff's Department,383
+2014,Chowchilla,89
+2014,Madera,415
+2014,Union Pacific RR - Madera,0
+2014,CA Highway Patrol - Madera,1
+2014,Marin Co. Sheriff's Department,91
+2014,Belvedere,1
+2014,Fairfax,16
+2014,Twin Cities,0
+2014,Mill Valley,11
+2014,Novato,80
+2014,Ross,4
+2014,San Anselmo,0
+2014,San Rafael,193
+2014,Sausalito,21
+2014,Tiburon,1
+2014,Union Pacific RR - Marin,0
+2014,Marin Community College,1
+2014,Marin DPR,0
+2014,CA Highway Patrol - Marin,1
+2014,Central Marin,34
+2014,Mariposa Co. Sheriff's Department,71
+2014,CA Highway Patrol - Mariposa,0
+2014,Mendocino Co. Sheriff's Department,310
+2014,Fort Bragg,27
+2014,Ukiah,134
+2014,Willits,33
+2014,Mendocino DPR,6
+2014,Union Pacific RR - Mendocino,0
+2014,CA Highway Patrol - Mendocino,2
+2014,Merced Co. Sheriff's Department,465
+2014,Atwater,182
+2014,Dos Palos,51
+2014,Gustine,34
+2014,Livingston,50
+2014,Los Banos,133
+2014,Merced,570
+2014,Union Pacific RR - Merced,0
+2014,Four Rivers DPR,0
+2014,UC Merced,0
+2014,CA Highway Patrol - Merced,0
+2014,Modoc Co. Sheriff's Department,20
+2014,Alturas,29
+2014,Union Pacific RR - Modoc,0
+2014,CA Highway Patrol - Modoc,0
+2014,Mono Co. Sheriff's Department,8
+2014,Mammoth Lakes,28
+2014,CA Highway Patrol - Mono,0
+2014,Monterey Co. Sheriff's Department,256
+2014,Carmel,13
+2014,Del Rey Oaks,1
+2014,Gonzales,37
+2014,Greenfield,91
+2014,King City,55
+2014,Monterey,115
+2014,Pacific Grove,30
+2014,Salinas,997
+2014,Sand City,4
+2014,Seaside,116
+2014,Soledad,53
+2014,Marina,58
+2014,Monterey Airport,0
+2014,Union Pacific RR - Monterey,0
+2014,Monterey DPR,0
+2014,CSU Monterey Bay,7
+2014,CA Highway Patrol - Monterey,0
+2014,Napa Co. Sheriff's Department,42
+2014,Calistoga,3
+2014,Napa,249
+2014,St. Helena,6
+2014,Union Pacific RR - Napa,0
+2014,Napa State Hospital,172
+2014,American Canyon,55
+2014,Yountville,7
+2014,CA Highway Patrol - Napa,0
+2014,Nevada Co. Sheriff's Department,145
+2014,Grass Valley,109
+2014,Nevada City,36
+2014,Union Pacific RR - Nevada,0
+2014,Truckee,18
+2014,CA Highway Patrol - Nevada,0
+2014,Orange Co. Sheriff's Department,252
+2014,Anaheim,1101
+2014,Brea,53
+2014,Buena Park,217
+2014,Costa Mesa,318
+2014,Cypress,51
+2014,La Palma,12
+2014,Fountain Valley,86
+2014,Fullerton,339
+2014,Garden Grove,406
+2014,Huntington Beach,391
+2014,Laguna Beach,64
+2014,La Habra,105
+2014,Los Alamitos,16
+2014,Newport Beach,109
+2014,Orange,142
+2014,Placentia,82
+2014,San Clemente,69
+2014,San Juan Capistrano,62
+2014,Santa Ana,1260
+2014,Seal Beach,26
+2014,Stanton,124
+2014,Tustin,132
+2014,Villa Park,5
+2014,Westminster,194
+2014,Yorba Linda,45
+2014,Irvine,120
+2014,CSU Fullerton,8
+2014,Union Pacific RR - Orange,0
+2014,Orange Coast DPR,1
+2014,Fairview Developmental Center,4
+2014,Mission Viejo,71
+2014,Dana Point,71
+2014,Laguna Niguel,73
+2014,Laguna Hills,45
+2014,Lake Forest,104
+2014,Laguna Woods,6
+2014,Rancho Santa Margarita,27
+2014,Aliso Viejo,35
+2014,UC Irvine,26
+2014,CA Highway Patrol - Orange,5
+2014,Irvine Valley College,0
+2014,Placer Co. Sheriff's Department,289
+2014,Auburn,44
+2014,Lincoln,17
+2014,Rocklin,50
+2014,Roseville,193
+2014,Sierra DPR,0
+2014,Union Pacific RR - Placer,0
+2014,CA Highway Patrol - Placer,3
+2014,Plumas Co. Sheriff's Department,90
+2014,Union Pacific RR - Plumas,0
+2014,CA Highway Patrol - Plumas,1
+2014,Riverside Co. Sheriff's Department,749
+2014,Banning,128
+2014,Beaumont,71
+2014,Blythe,88
+2014,Coachella,166
+2014,Desert Hot Springs,168
+2014,Hemet,430
+2014,Indio,466
+2014,Norco,46
+2014,Palm Springs,295
+2014,Perris,180
+2014,Riverside,1384
+2014,San Jacinto,101
+2014,Corona,171
+2014,Indian Wells,6
+2014,Rancho Mirage,29
+2014,Palm Desert,140
+2014,Union Pacific RR - Riverside,2
+2014,Inland Empire DPR,1
+2014,Cathedral City,128
+2014,Lake Elsinore,128
+2014,La Quinta,87
+2014,Moreno Valley,584
+2014,Temecula,100
+2014,Calimesa,17
+2014,Canyon Lake,13
+2014,Murrieta,68
+2014,Riverside Community College,3
+2014,Wildomar,39
+2014,Menifee,107
+2014,UC Riverside,6
+2014,CA Highway Patrol - Riverside,13
+2014,Eastvale,59
+2014,Jurupa Valley,287
+2014,Mount San Jacinto Community College,0
+2014,Sacramento Co. Sheriff's Department,2978
+2014,Folsom,79
+2014,Galt,70
+2014,Isleton,2
+2014,Sacramento,2968
+2014,CSU Sacramento,4
+2014,Elk Grove,622
+2014,Gold Fields DPR,0
+2014,Twin Rivers Unified School,24
+2014,CA State Fair,0
+2014,Capital DPR,0
+2014,Twin Cities DPR,0
+2014,Union Pacific RR - Sacramento,0
+2014,Rancho Cordova,305
+2014,Citrus Heights,389
+2014,UC Med Center Sacramento,5
+2014,CA Highway Patrol - Sacramento,6
+2014,San Benito Co. Sheriff's Department,60
+2014,Hollister,136
+2014,Union Pacific RR - San Benito,0
+2014,Hollister Hills DPR,0
+2014,CA Highway Patrol - San Benito,0
+2014,San Bernardino Co. Sheriff's Department,972
+2014,Barstow,217
+2014,Chino,186
+2014,Colton,137
+2014,Fontana,710
+2014,Montclair,210
+2014,Needles,25
+2014,Ontario,431
+2014,Redlands,147
+2014,Rialto,328
+2014,San Bernardino,2128
+2014,Upland,170
+2014,Victorville,642
+2014,Adelanto,189
+2014,CSU San Bernardino,4
+2014,Rancho Cucamonga,283
+2014,Big Bear,44
+2014,Grand Terrace,18
+2014,Loma Linda,41
+2014,San Bernardino Unified School,89
+2014,Highland,256
+2014,Twentynine Palms,62
+2014,Hesperia,296
+2014,Apple Valley,212
+2014,Yucaipa,71
+2014,San Bernardino College,11
+2014,Chino Hills,61
+2014,Yucca Valley,75
+2014,Fontana Unified School,13
+2014,Union Pacific RR - San Bernardino,2
+2014,Patton State Hospital,251
+2014,Tehachapi DPR,0
+2014,CA Highway Patrol - San Bernardino,0
+2014,Chaffey College,0
+2014,San Diego Co. Sheriff's Department,1315
+2014,Carlsbad,204
+2014,Chula Vista,612
+2014,Coronado,17
+2014,Del Mar,18
+2014,El Cajon,327
+2014,Escondido,512
+2014,Imperial Beach,112
+2014,La Mesa,208
+2014,National City,267
+2014,Oceanside,652
+2014,San Diego,5214
+2014,San Marcos,196
+2014,Vista,340
+2014,CSU San Diego,41
+2014,San Diego Harbor,70
+2014,Colorado DPR,0
+2014,Ocotillo Wells DPR,0
+2014,San Diego Coast DPR,5
+2014,CSU San Marcos,8
+2014,UC San Diego,4
+2014,CA Highway Patrol - San Diego,12
+2014,Lemon Grove,125
+2014,Santee,130
+2014,Poway,70
+2014,Encinitas,104
+2014,Solana Beach,22
+2014,San Francisco,6761
+2014,CSU San Francisco,4
+2014,San Francisco BART,35
+2014,UC Hastings College of Law,13
+2014,Union Pacific RR - San Francisco,0
+2014,UC San Francisco,9
+2014,CA Highway Patrol - San Francisco,0
+2014,San Joaquin Co. Sheriff's Department,698
+2014,Escalon,10
+2014,Lodi,290
+2014,Manteca,176
+2014,Ripon,18
+2014,Stockton,3988
+2014,Tracy,129
+2014,Stockton Unified School,36
+2014,Union Pacific RR - San Joaquin,0
+2014,CA Highway Patrol - San Joaquin,1
+2014,San Luis Obispo Co. Sheriff's Department,265
+2014,Arroyo Grande,52
+2014,Grover Beach,52
+2014,Morro Bay,50
+2014,Paso Robles,125
+2014,Pismo Beach,26
+2014,San Luis Obispo,240
+2014,Cal Poly San Luis Obispo,12
+2014,Atascadero,72
+2014,San Luis Obispo Coast DPR,2
+2014,Oceano Dunes DPR,4
+2014,Atascadero State Hospital,277
+2014,Union Pacific RR - San Luis Obispo,0
+2014,Cuesta College,0
+2014,CA Highway Patrol - San Luis Obispo,0
+2014,Bay Area DPR,0
+2014,San Mateo Co. Sheriff's Department,264
+2014,Atherton,3
+2014,Belmont,36
+2014,Brisbane,11
+2014,Burlingame,47
+2014,Colma,12
+2014,Daly City,194
+2014,Half Moon Bay,0
+2014,Hillsborough,1
+2014,Menlo Park,52
+2014,Millbrae,0
+2014,Pacifica,91
+2014,Redwood City,194
+2014,San Bruno,110
+2014,San Carlos,0
+2014,San Mateo,230
+2014,South San Francisco,156
+2014,Broadmoor,10
+2014,Foster City,14
+2014,San Mateo BART,12
+2014,Union Pacific RR - San Mateo,0
+2014,East Palo Alto,124
+2014,CA Highway Patrol - San Mateo,0
+2014,Santa Barbara Co. Sheriff's Department,302
+2014,Guadalupe,10
+2014,Lompoc,153
+2014,Santa Barbara,302
+2014,Santa Maria,439
+2014,Carpinteria,19
+2014,Union Pacific RR - Santa Barbara,0
+2014,Solvang,9
+2014,Allen Hancock College,1
+2014,Buelton,6
+2014,Goleta,35
+2014,UC Santa Barbara,17
+2014,CA Highway Patrol - Santa Barbara,1
+2014,Santa Clara Co. Sheriff's Department,255
+2014,Campbell,81
+2014,Cupertino,40
+2014,Gilroy,197
+2014,Los Altos,7
+2014,Los Altos Hills,2
+2014,Los Gatos,23
+2014,Milpitas,112
+2014,Monte Sereno,0
+2014,Morgan Hill,65
+2014,Mountain View,156
+2014,Palo Alto,59
+2014,San Jose,3242
+2014,Santa Clara,162
+2014,Saratoga,19
+2014,Sunnyvale,167
+2014,CSU San Jose,31
+2014,San Jose Community College,0
+2014,West Valley College District,2
+2014,Foothill College,3
+2014,Union Pacific RR - Santa Clara,0
+2014,Santa Clara Transit District,52
+2014,CA Highway Patrol - Santa Clara,1
+2014,Santa Cruz Co. Sheriff's Department,286
+2014,Capitola,30
+2014,Santa Cruz,524
+2014,Watsonville,265
+2014,Scotts Valley,17
+2014,Union Pacific RR - Santa Cruz,0
+2014,Santa Cruz Mtns. DPR,2
+2014,UC Santa Cruz,14
+2014,CA Highway Patrol - Santa Cruz,1
+2014,Shasta Co. Sheriff's Department,569
+2014,Anderson,96
+2014,Redding,610
+2014,Union Pacific RR - Shasta,0
+2014,Shasta Marshal's Office,0
+2014,CA Highway Patrol - Shasta,0
+2014,Sierra Co. Sheriff's Department,11
+2014,Union Pacific RR - Sierra,0
+2014,CA Highway Patrol - Sierra,0
+2014,Siskiyou Co. Sheriff's Department,31
+2014,Dorris,5
+2014,Dunsmuir,5
+2014,Etna,0
+2014,Fort Jones,0
+2014,Montague,2
+2014,Mount Shasta,6
+2014,Tulelake,1
+2014,Weed,20
+2014,Yreka,62
+2014,Lake Shastina,5
+2014,Union Pacific RR - Siskiyou,0
+2014,CA Highway Patrol - Siskiyou,0
+2014,Solano Co. Sheriff's Department,102
+2014,Benicia,26
+2014,Dixon,53
+2014,Fairfield,519
+2014,Rio Vista,38
+2014,Suisun,68
+2014,Vacaville,268
+2014,Vallejo,1034
+2014,Union Pacific RR - Solano,0
+2014,Solano Community College,1
+2014,CA Highway Patrol - Solano,0
+2014,Sonoma Co. Sheriff's Department,613
+2014,Cloverdale,15
+2014,Cotati,33
+2014,Healdsburg,19
+2014,Rohnert Park,160
+2014,Santa Rosa,636
+2014,Sebastopol,10
+2014,Sonoma,34
+2014,Petaluma,200
+2014,CSU Sonoma,6
+2014,Union Pacific RR - Sonoma,0
+2014,Sonoma Mendocino Coast DPR,0
+2014,Sonoma Developmental Center,4
+2014,Sonoma Co. Junior College,5
+2014,Windsor,86
+2014,CA Highway Patrol - Sonoma,0
+2014,Silverado DPR,0
+2014,Stanislaus Co. Sheriff's Department,365
+2014,Ceres,145
+2014,Modesto,1778
+2014,Newman,25
+2014,Oakdale,43
+2014,Patterson,40
+2014,Riverbank,28
+2014,Turlock,372
+2014,Waterford,18
+2014,Hughson,11
+2014,CSU Stanislaus,1
+2014,Union Pacific RR - Stanislaus,0
+2014,CA Highway Patrol - Stanislaus,0
+2014,Sutter Co. Sheriff's Department,93
+2014,Yuba City,223
+2014,Union Pacific RR - Sutter,0
+2014,CA Highway Patrol - Sutter,0
+2014,Tehama Co. Sheriff's Department,156
+2014,Corning,35
+2014,Red Bluff,129
+2014,Union Pacific RR - Tehama,0
+2014,CA Highway Patrol - Tehama,1
+2014,Trinity Co. Sheriff's Department,34
+2014,Union Pacific RR - Trinity,0
+2014,CA Highway Patrol - Trinity,0
+2014,Tulare Co. Sheriff's Department,446
+2014,Dinuba,187
+2014,Exeter,47
+2014,Farmersville,52
+2014,Lindsay,41
+2014,Porterville,158
+2014,Tulare,457
+2014,Visalia,484
+2014,Woodlake,30
+2014,Union Pacific RR - Tulare,0
+2014,College of the Sequoias,1
+2014,CA Highway Patrol - Tulare,0
+2014,Tuolumne Co. Sheriff's Department,129
+2014,Sonora,22
+2014,CA Highway Patrol - Tuolumne,0
+2014,Ventura Co. Sheriff's Department,119
+2014,Camarillo,72
+2014,Fillmore,46
+2014,Ojai,10
+2014,Oxnard,884
+2014,Port Hueneme,89
+2014,Santa Paula,85
+2014,Thousand Oaks,128
+2014,Ventura,276
+2014,Simi Valley,140
+2014,Angeles DPR,0
+2014,Moorpark,39
+2014,Channel Coast DPR,0
+2014,Hungry Valley DPR,0
+2014,Union Pacific RR - Ventura,0
+2014,CSU Channel Islands,2
+2014,Ventura Community College,0
+2014,CA Highway Patrol - Ventura,0
+2014,Yolo Co. Sheriff's Department,74
+2014,Davis,84
+2014,Winters,21
+2014,Woodland,298
+2014,West Sacramento,262
+2014,Union Pacific RR - Yolo,0
+2014,UC Davis,17
+2014,CA Highway Patrol - Yolo,1
+2014,Yuba Co. Sheriff's Department,205
+2014,Marysville,86
+2014,Wheatland,4
+2014,Union Pacific RR - Yuba,0
+2014,CA Highway Patrol - Yuba,1
 2015,Alameda Co. Sheriff's Department,510
 2015,Alameda,148
 2015,Albany,34
