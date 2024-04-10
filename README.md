@@ -59,3 +59,9 @@ Random forest, a supervised learning algorithm, leverages ensemble methods to so
 ## Machine Learning Model - Neural Network (More Info):
 In addition to linear regression and random forest, we experimented with neural network models, known for their ability to discern intricate patterns. Unlike linear regression, neural networks incorporate hidden layers to enhance prediction accuracy.
 
+
+# Web Tool
+
+
+# Dashboard
+We used Tableau to display...
