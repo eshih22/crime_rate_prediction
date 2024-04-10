@@ -51,17 +51,29 @@ Before implementing machine learning models, we performed the following preproce
 - Split the dataset into training and testing sets
 
 ## Machine Learning Model - Linear Regression (More Info):
-Linear regression is suitable for predicting numerical outcomes with a linear relationship between features. We utilized multiple linear regression to capture the linear association between crime rate and multiple independent variables.
+Linear regression is suitable for predicting numerical outcomes with a linear relationship between features. We utilized multiple linear regression to capture the linear association between crime rate and multiple independent variables. The linear regression model gave us a r-squared value of 0.52 with a accuracy of 51%.
 
 ## Machine Learning Model - Random Forest (More Info):
-Random forest, a supervised learning algorithm, leverages ensemble methods to solve regression and classification tasks. We employed random forest regression to aggregate predictions from multiple decision trees.
+Random forest, a supervised learning algorithm, leverages ensemble methods to solve regression and classification tasks. We employed random forest regression to aggregate predictions from multiple decision trees. The random forest model gave us a r-squared value of .72 with a accuracy of 69%.
 
 ## Machine Learning Model - Neural Network (More Info):
-In addition to linear regression and random forest, we experimented with neural network models, known for their ability to discern intricate patterns. Unlike linear regression, neural networks incorporate hidden layers to enhance prediction accuracy.
+In addition to linear regression and random forest, we experimented with neural network models, known for their ability to discern intricate patterns. Unlike linear regression, neural networks incorporate hidden layers to enhance prediction accuracy. Using the neural network model to preddict the crime rate based on our data gave us decent results. The neural network showed a r-squared value of 0.80 with an accuracy of 76%. 
+
+## Summary
+
+In our effort to find the best predictor of crime rates in California, we tried out three different machine learning models. To focus our analysis, we narrowed down our dataset by removing certain columns like Crime_Rate_per_100k, City, Violent Crime Sum, City_encoded, and Year, sticking to the most relevant variables.
+
+We started with Linear Regression, a common approach for understanding relationships in data. While it provided some insights, it didn't perform as well as we hoped, with an R-squared value of 0.52 and an accuracy rate of 51%.
+
+Next up was the Random Forest model, which showed more promise with an R-squared value of 0.74 and an accuracy rate of 70%. This model is known for handling complex datasets effectively.
+
+However, the Neural Network model stole the spotlight. Known for its ability to detect intricate patterns in data, it delivered impressive results, boasting an R-squared value of 0.80 and an accuracy rate of 76%. It clearly outperformed both Linear Regression and Random Forest.
+
+Based on these results, it's evident that the Neural Network model is the top choice for predicting future crime rates in California. Its capacity to navigate complex data and capture subtle relationships makes it the most reliable tool for this task.
 
 
 # Web Tool
 
 
 # Dashboard
-We used Tableau to display...
+We utilized Tableau to create an engaging map of California, featuring cities from our dataset along with their crime rates per 100,000 population. Users can easily filter through the years from 2010 to 2019, witnessing the changes in crime rates over time. This dynamic visualization serves as an introduction, offering a clear picture of which areas experienced the highest levels of crime throughout the nine-year period.
