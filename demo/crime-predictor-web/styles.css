@@ -218,22 +218,22 @@ header h1 .optional {
     width: 140px;
 }
 
-#play-pause-button .material-icons {
+#request-prediction-button .material-icons {
     color: white;
     font-size: 36px;
     transform: translate(-18px, -12px);
 }
 
 
-#play-pause-button .material-icons:nth-of-type(2) {
+#request-prediction-button .material-icons:nth-of-type(2) {
     display: none;
 }
 
-#play-pause-button.playing .material-icons:nth-of-type(1) {
+#request-prediction-button.playing .material-icons:nth-of-type(1) {
     display: none;
 }
 
-#play-pause-button.playing .material-icons:nth-of-type(2) {
+#request-prediction-button.playing .material-icons:nth-of-type(2) {
     display: inherit;
 }
 
@@ -901,4 +901,105 @@ footer .links a:hover {
 
 .ui-element-column{
     margin-bottom: -17px !important;
+}
+
+.small-input{
+    width: 25px !important;
+    display: inline-block !important;
+}
+
+.small-text{
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    color: #212121;
+}
+.shadow-text {
+    text-shadow: 0px 0px 0px #730638;
+}
+.medium-text{
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    color: #212121;
+}
+
+.small-box-title {
+    min-width: 250px !important;
+}
+.small-note{
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    color: #002af3;
+}
+
+hr {
+    border-style: dashed !important;
+}
+
+
+.data.column.medium {
+    width: 25% !important;
+}
+
+.top-margin-50{
+    margin-top: 50px!important;
+}
+
+.top-negative-margin-20{
+    margin-top: -20px!important;
+}
+
+/* HTML: <div class="loader"></div> */
+.loader {
+    --s: 25px;
+    --g :5px;
+
+    width: calc(3*(1.353*var(--s) + var(--g)));
+    display: grid;
+    justify-items: end;
+    aspect-ratio: 3;
+    overflow: hidden;
+    --_m: linear-gradient(90deg,#0000,#000 15px calc(100% - 15px),#0000);
+    -webkit-mask: var(--_m);
+    mask: var(--_m);
+}
+.loader:before {
+    content: "";
+    width: 200%;
+    background:
+            linear-gradient(90deg,#ff1818 50%,#0000 0),
+            conic-gradient(from -90deg at var(--s) calc(0.353*var(--s)),
+            #fff 135deg,#666 0 270deg,#aaa 0);
+    background-blend-mode: multiply;
+    --_m:
+            linear-gradient(to bottom right,
+            #0000 calc(0.25*var(--s)),#000 0 calc(100% - calc(0.25*var(--s)) - 1.414*var(--g)),#0000 0),
+            conic-gradient(from -90deg at right var(--g) bottom var(--g),#000 90deg,#0000 0);
+    -webkit-mask: var(--_m);
+    mask: var(--_m);
+    background-size:   calc(100%/3) 100%, calc(100%/6) 100%;
+    -webkit-mask-size: calc(100%/6) 100%;
+    mask-size: calc(100%/6) 100%;
+    -webkit-mask-composite: source-in;
+    mask-composite: intersect;
+    animation: l10 1s infinite linear;
+}
+@keyframes l10 {
+    to {transform:translate(calc(100%/3))}
+}
+
+
+.pct-field{
+}
+.pct-field-parent{
+    float: right;
+}
+
+.add-separator{
+    margin-top: 10px;
+    margin-bottom: 10px !important;
+}
+
+
+.slider>div{
+    width: 100% !important;
 }

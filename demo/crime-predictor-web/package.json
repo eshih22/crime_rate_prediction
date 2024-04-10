@@ -17,6 +17,7 @@
     "wadddtch": "npm run prep && concurrently \"npm run watch-js\" \"npm run watch-css\" \"npm run watch-html\"",
     "serve": "npm run build && npx serve dist/",
     "watch": "npm-watch",
+    "build-all":"npm run clean && npm run build",
     "serve-watch": "concurrently \"npx serve dist/\" \"npm run watch\""
   },
   "devDependencies": {
@@ -38,8 +39,6 @@
     "seedrandom": "^2.4.3"
   },
   "watch": {
-    "build-html": "index.html",
-    "build-css": "./styles.css",
-    "build-js": "src/project.ts"
+    "build-all": ["./styles.css", "index.html","src/global.ts","src/project.ts","src/train.ts", "src/EducationLevel.ts", "src/Population.ts", "src/Housing.ts","src/Others.ts", "src/Crime.ts", "src/Predictions.ts"]
   }
 }
