@@ -1,5 +1,4 @@
 import pandas as pd
-
 from sklearn.preprocessing import StandardScaler
 from server.models import RandomForestPredictor
 # from server.models import NNCrimePredictor
@@ -9,7 +8,7 @@ from server import Percentages
 
 def predict(algorithm, dataset):
     dataset_df = pd.DataFrame(dataset, index=dataset.keys())
-    cleanDataset_df = cleanDataset(dataset_df)
+    cleanDataset_df = cleanDataset(dataset_df, algorithm)
     result = {
         'prediction': 0,
         "error": None
@@ -25,14 +24,15 @@ def predict(algorithm, dataset):
     return result
 
 
-def cleanDataset(crime_df):
+def cleanDataset(crime_df, algorithm):
     # Remove crime and city target from features data
     X = crime_df.copy()
-    # X.drop(columns=["City",
-    #                 "Year"
-    #                 ], axis=1, inplace=True)
     X = cleanColumns(X)
-    X=Percentages.performCalculations(X)
+    X = Percentages.performCalculations(X)
+
+    # if algorithm == 'neural-network':
+    #     X.drop(columns=["House price mean"], axis=1, inplace=True)
+
     return scaleData(X)
 
 
