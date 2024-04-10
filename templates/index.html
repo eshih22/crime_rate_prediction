@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction Form</title>
+</head>
+<body>
+    <form id="predictionForm" action="http://localhost:5000/predict" method="post">
+        <input type="number" step="any" name="less_than_9th_grade" placeholder="Less than 9th Grade">
+        <input type="number" step="any" name="percent_less_than_9th_grade" placeholder="Percent Less than 9th Grade">
+        <input type="number" step="any" name="ninth_to_twelfth" placeholder="9th to 12th Grade">
+        <input type="number" step="any" name="percent_ninth_to_twelfth" placeholder="Percent 9th to 12th Grade">
+        <input type="number" step="any" name="highschool_grad" placeholder="Highschool Graduates">
+        <input type="number" step="any" name="percent_highschool_grad" placeholder="Percent Highschool Graduates">
+        <input type="number" step="any" name="some_college_no_degree" placeholder="Some College, No Degree">
+        <input type="number" step="any" name="percent_some_college_no_degree" placeholder="Percent Some College, No Degree">
+        <input type="number" step="any" name="associates_degree" placeholder="Associates Degree">
+        <input type="number" step="any" name="percent_associates_degree" placeholder="Percent Associates Degree">
+        <input type="number" step="any" name="bachelors_degree" placeholder="Bachelors Degree">
+        <input type="number" step="any" name="percent_bachelors_degree" placeholder="Percent Bachelors Degree">
+        <input type="number" step="any" name="graduate_degree" placeholder="Graduate Degree">
+        <input type="number" step="any" name="percent_graduate_degree" placeholder="Percent Graduate Degree">
+        <input type="number" step="any" name="Total_population" placeholder="Total Population">
+        <input type="number" step="any" name="under_five" placeholder="Under Five Years">
+        <input type="number" step="any" name="percent_under_five" placeholder="Percent Under Five Years">
+        <input type="number" step="any" name="five_to_nine" placeholder="Five to Nine Years">
+        <input type="number" step="any" name="percent_five_to_nine" placeholder="Percent Five to Nine Years">
+        <input type="number" step="any" name="ten_to_fourteen" placeholder="Ten to Fourteen Years">
+        <input type="number" step="any" name="percent_ten_to_fourteen" placeholder="Percent Ten to Fourteen Years">
+        <input type="number" step="any" name="fifteen_to_nineteen" placeholder="Fifteen to Nineteen Years">
+        <input type="number" step="any" name="percent_fifteen_to_nineteen" placeholder="Percent Fifteen to Nineteen Years">
+        <input type="number" step="any" name="twenty_to_twentyfour" placeholder="Twenty to Twenty-Four Years">
+        <input type="number" step="any" name="percent_twenty_to_twentyfour" placeholder="Percent Twenty to Twenty-Four Years">
+        <input type="number" step="any" name="twentyfive_to_thirtyfour" placeholder="Twenty-Five to Thirty-Four Years">
+        <input type="number" step="any" name="percent_twentyfive_to_thirtyfour" placeholder="Percent Twenty-Five to Thirty-Four Years">
+        <input type="number" step="any" name="thirtyfive_to_fourtyfour" placeholder="Thirty-Five to Forty-Four Years">
+        <input type="number" step="any" name="percent_thirtyfive_to_fourtyfour" placeholder="Percent Thirty-Five to Forty-Four Years">
+        <input type="number" step="any" name="fourtyfive_to_fiftyfour" placeholder="Forty-Five to Fifty-Four Years">
+        <input type="number" step="any" name="percent_fourtyfive_to_fiftyfour" placeholder="Percent Forty-Five to Fifty-Four Years">
+        <input type="number" step="any" name="fiftyfive_to_fiftynine" placeholder="Fifty-Five to Fifty-Nine Years">
+        <input type="number" step="any" name="percent_fiftyfive_to_fiftynine" placeholder="Percent Fifty-Five to Fifty-Nine Years">
+        <input type="number" step="any" name="sixty_to_sixtyfour" placeholder="Sixty to Sixty-Four Years">
+        <input type="number" step="any" name="percent_sixty_to_sixtyfour" placeholder="Percent Sixty to Sixty-Four Years">
+        <input type="number" step="any" name="sixtyfive_to_seventyfour" placeholder="Sixty-Five to Seventy-Four Years">
+        <input type="number" step="any" name="percent_sixtyfive_to_seventyfour" placeholder="Percent Sixty-Five to Seventy-Four Years">
+        <input type="number" step="any" name="seventyfive_to_eightyfour" placeholder="Seventy-Five to Eighty-Four Years">
+        <input type="number" step="any" name="percent_seventyfive_to_eightyfour" placeholder="Percent Seventy-Five to Eighty-Four Years">
+        <input type="number" step="any" name="over_eightyfive" placeholder="Over Eighty-Five Years">
+        <input type="number" step="any" name="percent_over_eightyfive" placeholder="Percent Over Eighty-Five Years">
+        <input type="number" step="any" name="unemployment_rate" placeholder="Unemployment Rate">
+        <input type="number" step="any" name="income" placeholder="Income">
+        <input type="number" step="any" name="house_price" placeholder="House Price">
+        <input type="number" step="any" name="percent_poverty" placeholder="Percent Poverty">
+        <input type="number" step="any" name="total_homes" placeholder="Total Homes">
+        <input type="number" step="any" name="owner_occupied" placeholder="Owner Occupied Homes">
+        <input type="number" step="any" name="renter_occupied" placeholder="Renter Occupied Homes">
+        <input type="number" step="any" name="percent_owner_occupied" placeholder="Percent Owner Occupied">
+        <input type="number" step="any" name="percent_renter_occupied" placeholder="Percent Renter Occupied">
+        <input type="number" step="any" name="percent_over_twentyfive" placeholder="Percent Over Twenty-Five Years">
+        <input type="number" step="any" name="percent_under_fourteen" placeholder="Percent Under Fourteen Years">
+        <input type="number" step="any" name="percent_young_adults" placeholder="Percent Young Adults">
+        <input type="number" step="any" name="percent_uneducated" placeholder="Percent Uneducated">
+        <input type="number" step="any" name="percent_higher_education" placeholder="Percent Higher Education">
+        <input type="number" step="any" name="total_uneducated" placeholder="Total Uneducated">
+        <input type="number" step="any" name="total_higher_educated" placeholder="Total Higher Educated">
+        
+        <button type="submit">Predict</button>
+    </form>
+
+    <div id="predictionResult"></div>
+
+    <script>
+        const form = document.getElementById('predictionForm');
+        form.onsubmit = async function(e) {
+            e.preventDefault();
+            const formData = new FormData(form);
+            fetch(form.action, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(result => {
+                document.getElementById('predictionResult').textContent = 'Prediction: ' + result;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        };
+
+    </script>
+</body>
+</html>
