@@ -25,7 +25,7 @@ export default function () {
     let poverty = processSliderGroup(pCTValueBox3, slider3, totalSum3, eles3);
 
     // other fierlds
-    let otherFields = getCSVKV(["#ftotalpopulation-value",  "#fcrime-violent-value", "#frenter-value","#fhousing-home-value", "#fhousing-price-mean-value", "#fincome-value"])
+    let otherFields = getCSVKV(["#ftotalpopulation-value",  "#frenter-value","#fhousing-home-value", "#fhousing-price-mean-value", "#fincome-value"])
     return {
         unemployment,
         poverty,

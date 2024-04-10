@@ -33,9 +33,6 @@ def cleanDataset(crime_df):
     #                 ], axis=1, inplace=True)
     X = cleanColumns(X)
     X=Percentages.performCalculations(X)
-    X.drop(columns=["Crime_Rate_per_100k",
-                    "Violent Crimes Sum"
-                    ], axis=1, inplace=True)
     return scaleData(X)
 
 

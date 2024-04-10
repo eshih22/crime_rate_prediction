@@ -9,8 +9,6 @@ def calculateOthers(all_df_reset):
     all_df_reset['Total'] = all_df_reset['Total Occupied'] + all_df_reset['Renter occupied']
     all_df_reset['Percent Home Occupied'] = all_df_reset['Total Occupied'] / all_df_reset['Total'] * 100
     all_df_reset['Percent Renter Occupied'] = all_df_reset['Renter occupied'] / all_df_reset['Total'] * 100
-    all_df_reset['Crime_Rate_per_100k'] = (all_df_reset['Violent Crimes Sum'] / all_df_reset[
-        'Total population']) * 100000
     all_df_reset['Percent 25+'] = (
             all_df_reset['Percent 25 to 34 years'] +
             all_df_reset['Percent 35 to 44 years'] +
