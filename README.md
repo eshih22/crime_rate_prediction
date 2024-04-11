@@ -73,4 +73,52 @@ Based on these results, it's evident that the Neural Network model is the top ch
 
 # Dashboard
 We utilized Tableau to create an engaging map of California, featuring cities from our dataset along with their crime rates per 100,000 population. Users can easily filter through the years from 2010 to 2019, witnessing the changes in crime rates over time. This dynamic visualization serves as an introduction, offering a clear picture of which areas experienced the highest levels of crime throughout the nine-year period.
-[Link Here](https://public.tableau.com/app/profile/alexandre.lazzari/viz/shared/B37N64Y6J)
+
+[Crime Graphs 1](https://public.tableau.com/app/profile/alexandre.lazzari/viz/shared/B37N64Y6J)
+
+[Crime Graphs 2](https://public.tableau.com/app/profile/hok.yin.cheung/viz/combine2_17126507246610/Story2)
+
+# Demo crime predictor
+
+### Requirements
+In order to locally run the demo web ui you will need the following dependencies:
+* python 3
+* pip 3
+* Flask 3
+* Joblib
+* pandas
+* numpy
+* tensorflow
+* scikit-learn
+
+
+You can easily install the required packages from pip3 using the following freeze requirements.txt
+``` requirements.txt
+flask==3.0.3
+joblib==1.3.2
+scikit-learn==1.3.2
+scipy==1.10.1
+numpy==1.24.4
+pandas==2.0.3
+# Optionals but recommended
+keras==2.13.1
+tensorboard==2.13.0
+tensorboard-data-server==0.7.2
+tensorflow==2.13.1
+tensorflow-cpu-aws==2.13.1
+tensorflow-estimator==2.13.0
+tensorflow-io-gcs-filesystem==0.35.0
+```
+
+### Running the project
+To run the project you need to execute main.py file and then navigate to `http://localhost:8000`
+
+```
+  cd demo-f;
+  python3 main.py;
+```
+
+<img width="961" alt="demo" src="https://github.com/eshih22/crime_rate_prediction/assets/147443547/5e761e12-0d96-4eeb-9d88-a5bff66b63ae">
+
+
+
