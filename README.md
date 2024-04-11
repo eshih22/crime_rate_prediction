@@ -43,17 +43,17 @@ Our target/dependent variable is crime rate, while our feature/independent varia
 - Unemployment rate
 - Total number of crimes
 
-## Data Preprocessing (More Info):
+## Data Preprocessing:
 Before implementing machine learning models, we performed the following preprocessing steps:
 - Imported libraries
 - Loaded the final dataset as a CSV file
 - Checked for missing values
 - Split the dataset into training and testing sets
 
-## Machine Learning Model - Linear Regression (More Info):
+## Machine Learning Model - Linear Regression:
 Linear regression is suitable for predicting numerical outcomes with a linear relationship between features. We utilized multiple linear regression to capture the linear association between crime rate and multiple independent variables. The linear regression model gave us a r-squared value of 0.52 with a accuracy of 51%.
 
-## Machine Learning Model - Random Forest (More Info):
+## Machine Learning Model - Random Forest:
 Random forest, a supervised learning algorithm, leverages ensemble methods to solve regression and classification tasks. We employed random forest regression to aggregate predictions from multiple decision trees. The random forest model gave us a r-squared value of .72 with a accuracy of 69%.
 
 ## Machine Learning Model - Neural Network (More Info):
@@ -71,9 +71,6 @@ However, the Neural Network model stole the spotlight. Known for its ability to 
 
 Based on these results, it's evident that the Neural Network model is the top choice for predicting future crime rates in California. Its capacity to navigate complex data and capture subtle relationships makes it the most reliable tool for this task.
 
-
-# Web Tool
-
-
 # Dashboard
 We utilized Tableau to create an engaging map of California, featuring cities from our dataset along with their crime rates per 100,000 population. Users can easily filter through the years from 2010 to 2019, witnessing the changes in crime rates over time. This dynamic visualization serves as an introduction, offering a clear picture of which areas experienced the highest levels of crime throughout the nine-year period.
+[Link Here](https://public.tableau.com/app/profile/alexandre.lazzari/viz/shared/B37N64Y6J)
