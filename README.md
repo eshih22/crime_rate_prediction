@@ -120,5 +120,9 @@ To run the project you need to execute main.py file and then navigate to `http:/
 
 <img width="961" alt="demo" src="https://github.com/eshih22/crime_rate_prediction/assets/147443547/5e761e12-0d96-4eeb-9d88-a5bff66b63ae">
 
+<img width="819" alt="graph 1" src="https://github.com/eshih22/crime_rate_prediction/assets/147443547/f6c51351-ea94-45ed-868b-afe81ad2763a">
+
+<img width="807" alt="graph 2" src="https://github.com/eshih22/crime_rate_prediction/assets/147443547/fb94562b-f765-4663-a3f2-2b31859c4f90">
+
 
 
