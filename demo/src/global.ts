@@ -95,7 +95,8 @@ export function resultActionBox() {
             titleBox.textContent = value;
         },
         "result": function (value: string) {
-            resultSectionBox.textContent = value;
+            let icone = `<h6><strong><i class="material-icons">bolt</i>&nbsp;${value}</strong></h6>`;
+            resultSectionBox.innerHTML = icone;
         },
         "show": function () {
             titleBox.style = "display:block;";
