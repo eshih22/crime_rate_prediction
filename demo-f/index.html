@@ -1,0 +1,606 @@
+<!doctype html>
+<html>
+<head lang="en">
+    <link href="favicon.png" rel="icon" type="image/png">
+    <meta charset="utf-8">
+    <meta content="width=1024" name="viewport">
+    <meta content="neural networks,machine learning,javascript" name="keywords">
+    <title>Crime Rate Predictor</title>
+    <link href="bundle.css" rel="stylesheet" type="text/css">
+    <link href="https://code.getmdl.io/1.3.0/material.light_blue-blue.min.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Material+Icons" rel="stylesheet"
+          type="text/css">
+    <script src="lib.js"></script>
+</head>
+<body>
+<header>
+    <h1 class="l--page"><b>California Crime Predictor </b></h1>
+</header>
+<div id="top-controls">
+    <div class="container l--page">
+        <div class="timeline-controls" style="display:flex; justify-content:flex-end;">
+            <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored ui-playButton"
+                    id="request-prediction-button" title="Run/Pause">
+                <i class="material-icons">play_arrow</i> <i class="material-icons">pause</i>
+            </button>
+            <!--            <div class="mdl-textfield mdl-js-textfield mdl-textfield&#45;&#45;floating-label">-->
+            <!--                <select  id="prefill-data" class="mdl-textfield__input">-->
+            <!--                    <option value="-1">Select prefilled</option>-->
+            <!--                </select>-->
+            <!--            </div>-->
+        </div>
+        <div class="mdl-grid">
+            <div class="mdl-cell mdl-cell--3-col">
+                <div class="">
+                    <div class="mdl-card__title">
+                        <h2 class="mdl-card__title-text"></h2>
+                    </div>
+                    <div class="mdl-card__supporting-text"></div>
+                </div>
+            </div>
+            <div class="mdl-cell mdl-cell--9-col">
+                <div class="" data-result-section>
+
+                    <div class="mdl-card__supporting-text">
+                        <h2 class="mdl-card__title-text small-box-title" data-title-section-box style="display: none">
+                            Predicted Crime rate
+                            <div data-result-section-box>
+
+                            </div>
+                        </h2>
+
+                        <div class="loader-container" data-loader-container style="display: none">
+                            <div class="loader"></div>
+                            <span class="mdl-card__title-text medium-text shadow-text" data-text-loader>Predicting...&#129504;
+                           </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Main Part -->
+<div class="l--page" id="main-part">
+    <!--  Data Column-->
+    <div class="column data">
+        <h4>
+            <span>Algorithms</span>
+        </h4>
+        <div class="ui-dataset">
+            <p>Chose the algorithm you want to use</p>
+            <div class="dataset-list">
+                <input id="chosen-algorithm" name="chosen-algorithm" style="display: none;" type="hidden" value=""/>
+                <div class="mdl-grid algorithm-option">
+                    <div class="dataset mdl-cell mdl-cell--6-col" title="Circle">
+                        <img class="data-thumbnail" data-chosen-algorithm data-dataset="random-forest"
+                             src="/assets/random_f.webp"/>
+                    </div>
+                    <div class="mdl-cell mdl-cell--6-col">
+                        <span>Random Forest</span>
+                    </div>
+                </div>
+                <div class="mdl-grid algorithm-option">
+                    <div class="dataset mdl-cell mdl-cell--6-col" title="Circle">
+                        <img class="data-thumbnail" data-chosen-algorithm data-dataset="linear-regression"
+                             src="/assets/regression_l.webp"/>
+                    </div>
+                    <div class="mdl-cell mdl-cell--6-col">
+                        <span>Regression Linear</span>
+                    </div>
+                </div>
+                <div class="mdl-grid algorithm-option">
+                    <div class="dataset mdl-cell mdl-cell--6-col" title="Circle">
+                        <img class="data-thumbnail" data-chosen-algorithm data-dataset="neural-network"
+                             src="/assets/n_n.webp"/>
+                    </div>
+                    <div class="mdl-cell mdl-cell--6-col">
+                        <span>Neural Network</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="column data">
+        <div id="labels-slider-member-pct">
+            <h4>
+                <span>Labels</span>
+            </h4>
+            <div id="Income-slider-member-pct">
+                <div class="ui-element-column">
+                    <p>
+                        <label for="funder-5">
+                        <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                           Income:
+
+                              <input class="mdl-textfield__input" data-csv_column="Income"
+                                     data-current-pct-value-box
+                                     id="fincome-value"
+                                     type="number" value="1"/>
+
+                        </span>
+                        </label>
+                    </p>
+                    <!--                    <p class="slider">-->
+                    <!--                        <input class="mdl-slider mdl-js-slider" data-csv_column="Income" data-slider-member-pct-->
+                    <!--                               id="fincome" max="100" min="0" type="range" value="1"/>-->
+                    <!--                    </p>-->
+                </div>
+            </div>
+            <div id="unemployment-slider-member-pct">
+                <div class="ui-element-column top-margin-30">
+                    <label for="funemployment">
+                        <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                           Unemployment rate:
+
+                               <input class="mdl-textfield__input medium-input"
+                                      data-current-pct-value-box
+                                      id="funemployment-value" max="100" type="number"
+                                      value="1"/>%
+
+                        </span>
+                    </label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider" data-csv_column="Unemployment Rate"
+                               data-slider-member-pct id="funemployment" max="100" min="0" type="range" value="1"/>
+                    </p>
+                </div>
+            </div>
+            <div id="poverty-slider-member-pct">
+                <div class="ui-element-column">
+                    <label for="fPoverty">
+                        <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                           Poverty:
+
+                               <input class="mdl-textfield__input medium-input"
+                                      data-current-pct-value-box
+                                      id="fPoverty-value" max="100" type="number"
+                                      value="1"/>%
+                        </span>
+                    </label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider" data-csv_column="% All Families" data-slider-member-pct
+                               id="fPoverty" max="100" min="0" type="range" value="1"/>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div id="housing-slider-member-pct">
+            <h6>
+                <hr class="top-negative-margin-20"/>
+                <span> <i class="material-icons">home</i>Housing</span>&nbsp;<span class="small-text"
+                                                                                   data-total-pct-value></span>
+                <hr/>
+            </h6>
+            <p class="top-margin-10">
+                <label for="funder-5">
+                     <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     House price mean:
+                     </span>
+
+                </label><input class="mdl-textfield__input" data-csv_column="House price mean"
+                               data-current-pct-value-box
+                               id="fhousing-price-mean-value"
+                               type="number" value="1"/>
+            </p>
+            <p class="top-margin-10">
+                <label for="funder-5">
+                     <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Total Home Occupied:
+                     </span>
+
+                </label><input class="mdl-textfield__input" data-csv_column="Total Occupied"
+                               data-current-pct-value-box
+                               id="fhousing-home-value"
+                               type="number" value="1"/>
+            </p>
+            <p class="top-margin-10">
+                <label for="funder-5">
+                     <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Renter Occupied:
+                     </span></label> <input class="mdl-textfield__input" data-csv_column="Renter occupied"
+                                            data-current-pct-value-box
+                                            id="frenter-value" type="number" value="1"/>
+            </p>
+        </div>
+        <!--        <div id="crime-slider-member-pct">-->
+        <!--            <h6>-->
+        <!--                <hr class="top-margin-10"/>-->
+        <!--                <span> <i class="material-icons">priority_high</i>Crime</span>&nbsp;-->
+        <!--                <hr/>-->
+        <!--            </h6>-->
+        <!--            <div id="crime-child-1-slider-member-pct">-->
+        <!--                <div class="ui-element-column">-->
+        <!--                    <label for="funder-5">-->
+        <!--                     <span class="mdl-color-text&#45;&#45;black mdl-typography&#45;&#45;body-1 mdl-typography&#45;&#45;font-400">-->
+        <!--                      Total Violent crime sum:  <input class="mdl-textfield__input"-->
+        <!--                                                       data-csv_column="Violent Crimes Sum"-->
+        <!--                                                       data-current-pct-value-box-->
+        <!--                                                       id="fcrime-violent-value"-->
+        <!--                                                       type="number" value="1"/>-->
+        <!--                     </span> </label>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--        </div>-->
+
+        <div class="top-margin-50" id="total-population-count">
+            <h4>
+                <span><i class="material-icons">dataset</i>&nbsp;Other fields</span>
+            </h4>
+            <div class="ui-element-column add-separator ">
+
+                <label for="ftotalpopulation-value">
+                        <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                        Total Population:
+                        <input class="mdl-textfield__input " data-csv_column="Total population"
+                               id="ftotalpopulation-value" type="number"
+                               value="1"/>
+                        </span> </label>
+
+
+            </div>
+        </div>
+
+    </div>
+    <div class="column data small" id="population-slider-member-pct">
+        <h6>
+            <span><i class="material-icons">diversity_3</i>&nbsp;Population</span> <span class="small-text"
+                                                                                         data-total-pct-value>0%</span>
+        </h6>
+        <hr/>
+        <span class="small-note">
+               &#9888; The sum of all the fields must be 100%
+               <hr/>
+            </span>
+        <div>
+            <div class="ui-element-column">
+                <label for="funder-5">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  Under 5 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                          id="funder-5-value" max="100" type="number" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent Under 5 years"
+                           data-slider-member-pct id="funder-5" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f5-9">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  5 to 9 years : <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                        id="f5-9-value" type="text"
+                                        value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 5 to 9 years"
+                           data-slider-member-pct id="f5-9" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f10-14">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  10 to 14 years : <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                          id="f10-14-value"
+                                          type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 10 to 14 years"
+                           data-slider-member-pct id="f10-14" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f15-19">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  15 to 19 years: <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                         id="f15-19-value" type="text"
+                                         value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 15 to 19 years"
+                           data-slider-member-pct id="f15-19" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f20-24">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  20 to 24 years:  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                          id="f20-24-value"
+                                          type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 20 to 24 years"
+                           data-slider-member-pct id="f20-24" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f25-34">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  25 to 34 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f25-34-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 25 to 34 years"
+                           data-slider-member-pct id="f25-34" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f35-44">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  35 to 44 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f35-44-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 35 to 44 years"
+                           data-slider-member-pct id="f35-44" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f45-54">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  45 to 54 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f45-54-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 45 to 54 years"
+                           data-slider-member-pct id="f45-54" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f55-59">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  55 to 59 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f55-59-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 55 to 59 years"
+                           data-slider-member-pct id="f55-59" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f60-64">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  60 to 64 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f60-64-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 60 to 64 years"
+                           data-slider-member-pct id="f60-64" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f65-74">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  65 to 74 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f65-74-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 65 to 74 years"
+                           data-slider-member-pct id="f65-74" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f75-84">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  75 to 84 years :  <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                           id="f75-84-value"
+                                           type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 75 to 84 years"
+                           data-slider-member-pct id="f75-84" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+            <div class="ui-element-column">
+                <label for="f85-over">
+                  <span class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                  85 years and over : <input class="mdl-textfield__input medium-input" data-current-pct-value-box
+                                             id="f85-over-value"
+                                             type="text" value="1"/>%
+                  </span> </label>
+                <p class="slider">
+                    <input class="mdl-slider mdl-js-slider" data-csv_column="Percent 85 years and over"
+                           data-slider-member-pct id="f85-over" max="100" min="0" type="range" value="1"/>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="column data medium">
+        <div id="education-slider-member-pct">
+            <h6>
+                <span><i class="material-icons">school</i>&nbsp;Education Level</span>&nbsp;<span class="small-text"
+                                                                                                  data-total-pct-value>0%</span>
+            </h6>
+            <hr/>
+            <span class="small-note">
+                  &#9888; The sum of all the fields must be 100%
+                  <hr/>
+               </span>
+            <div>
+                <div class="ui-element-column">
+                    <label for="fless-than-9th-grade-value"><span
+                            class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Less than 9th grade&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                           data-current-pct-value-box
+                                                           id="fless-than-9th-grade-value" type="text" value="1"/>%
+                     </span> </label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - Less than 9th grade"
+                               data-slider-member-pct id="fless-than-9th-grade" max="100" min="0" type="range"
+                               value="1"/>
+                    </p>
+                </div>
+                <div class="ui-element-column">
+                    <label for="batchSize"><span
+                            class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     9th to 12th (No Diploma)&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                                data-current-pct-value-box
+                                                                id="f9th-to-12th-no-diploma-value" type="text"
+                                                                value="1"/>% </span></label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - 9th to12th (No Diploma)"
+                               data-slider-member-pct id="f9th-to-12th-no-diploma" max="100" min="0" type="range"
+                               value="1"/>
+                    </p>
+                </div>
+                <div class="ui-element-column">
+                    <label for="batchSize"><span
+                            class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     High School Graduate / equivalent&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                                         data-current-pct-value-box
+                                                                         id="fhigh-school-graduate-value" type="text"
+                                                                         value="1"/>% </span></label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - High School Graduate (and equivalent)"
+                               data-slider-member-pct id="fhigh-school-graduate" max="100" min="0" type="range"
+                               value="1"/>
+                    </p>
+                </div>
+                <div class="ui-element-column">
+                    <label for="batchSize"><span
+                            class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Some college, no degree&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                               data-current-pct-value-box
+                                                               id="fsome-college-no-degree-value" type="text"
+                                                               value="1"/>%</span></label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - Some college, no degree"
+                               data-slider-member-pct id="fsome-college-no-degree" max="100" min="0" type="range"
+                               value="1"/>
+                    </p>
+                </div>
+                <div class="ui-element-column">
+                    <label for="batchSize"><span
+                            class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Associate's degree&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                          data-current-pct-value-box
+                                                          id="fassociates-degree-value" type="text" value="1"/>%</span></label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - Associate's degree"
+                               data-slider-member-pct id="fassociates-degree" max="100" min="0" type="range" value="1"/>
+                    </p>
+                </div>
+                <div class="ui-element-column">
+                    <label for="batchSize"><span
+                            class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Bachelor's degree&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                         data-current-pct-value-box
+                                                         id="fbachelors-degree-value" type="text"
+                                                         value="1"/>%</span></label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - Bachelor's degree"
+                               data-slider-member-pct id="fbachelors-degree" max="100" min="0" type="range" value="1"/>
+                    </p>
+                </div>
+                <div class="ui-element-column">
+                    <label for="batchSize">
+                        <span
+                                class="mdl-color-text--black mdl-typography--body-1 mdl-typography--font-400">
+                     Graduate / Prof. Degree&nbsp;&nbsp;<input class="mdl-textfield__input medium-input"
+                                                               data-current-pct-value-box
+                                                               id="fgraduate-professional-degree-value" type="text"
+                                                               value="1"/>%</span></label>
+                    <p class="slider">
+                        <input class="mdl-slider mdl-js-slider"
+                               data-csv_column="Percent Population 25 years and over - Graduate or Prefessional Degree"
+                               data-slider-member-pct id="fgraduate-professional-degree" max="100" min="0" type="range"
+                               value="1"/>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- More -->
+<div class="more">
+    <!-- <button class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">keyboard_arrow_down</i></button> -->
+    <a class="mdl-button mdl-js-button mdl-button--fab" href="#graphs">
+        <i class="material-icons">keyboard_arrow_down</i>
+    </a>
+</div>
+<!-- Article -->
+<article id="article-text">
+    <div class="l--page">
+        <div id="graphs">
+            <div class='tableauPlaceholder' id='viz1712782080702' style='position: relative'>
+                <noscript><a href='#'><img alt='Crime Rate In California 2010-2019 '
+                                           src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;7P&#47;7PSZMFYDB&#47;1_rss.png'
+                                           style='border: none'/></a></noscript>
+                <object class='tableauViz' style='display:none;'>
+                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+                    <param name='embed_code_version' value='3'/>
+                    <param name='path' value='shared&#47;7PSZMFYDB'/>
+                    <param name='toolbar' value='yes'/>
+                    <param name='static_image'
+                           value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;7P&#47;7PSZMFYDB&#47;1.png'/>
+                    <param name='animate_transition' value='yes'/>
+                    <param name='display_static_image' value='yes'/>
+                    <param name='display_spinner' value='yes'/>
+                    <param name='display_overlay' value='yes'/>
+                    <param name='display_count' value='yes'/>
+                    <param name='language' value='en-US'/>
+                </object>
+            </div>
+            <script type='text/javascript'>                    var divElement = document.getElementById('viz1712782080702');
+            var vizElement = divElement.getElementsByTagName('object')[0];
+            vizElement.style.width = '1016px';
+            vizElement.style.height = '991px';
+            var scriptElement = document.createElement('script');
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        </div>
+    </div>
+    <div class="l--page">
+        <div>
+            <div class='tableauPlaceholder' id='viz1712792631554' style='position: relative'>
+                <noscript><a href='#'><img alt='Story 2 '
+                                           src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;B2&#47;B2HY3WMP7&#47;1_rss.png'
+                                           style='border: none'/></a></noscript>
+                <object class='tableauViz' style='display:none;'>
+                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+                    <param name='embed_code_version' value='3'/>
+                    <param name='path' value='shared&#47;B2HY3WMP7'/>
+                    <param name='toolbar' value='yes'/>
+                    <param name='static_image'
+                           value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;B2&#47;B2HY3WMP7&#47;1.png'/>
+                    <param name='animate_transition' value='yes'/>
+                    <param name='display_static_image' value='yes'/>
+                    <param name='display_spinner' value='yes'/>
+                    <param name='display_overlay' value='yes'/>
+                    <param name='display_count' value='yes'/>
+                    <param name='language' value='en-US'/>
+                </object>
+            </div>
+            <script type='text/javascript'>                    var divElement = document.getElementById('viz1712792631554');
+            var vizElement = divElement.getElementsByTagName('object')[0];
+            vizElement.style.width = '1016px';
+            vizElement.style.height = '991px';
+            var scriptElement = document.createElement('script');
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        </div>
+    </div>
+</article>
+<footer>
+    <div class="l--body">
+        Crime predictor 🚀
+    </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+<script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+<script src="bundle.js"></script>
+</body>
+</html>
