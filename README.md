@@ -79,6 +79,7 @@ We utilized Tableau to create an engaging map of California, featuring cities fr
 [Crime Graphs 2](https://public.tableau.com/app/profile/hok.yin.cheung/viz/combine2_17126507246610/Story2)
 
 # Demo crime predictor
+Live Demo Preview: https://fivdsc9mm4.us-west-2.awsapprunner.com/
 
 ### Requirements
 In order to locally run the demo web ui you will need the following dependencies:
